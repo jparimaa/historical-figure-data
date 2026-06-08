@@ -35,13 +35,6 @@ Helper scripts in `scripts/` are used by the Claude skills to add data increment
 | `add_relation.py <file>` | Appends a new relation entry to `relations.json` |
 | `append_completed.py <id>` | Records a person ID as completed in `completed_relations.json` |
 
-## Using as a submodule
-
-```bash
-git submodule add <repo-url> historical-figure-data
-git submodule update --init
-```
-
 ## Data and attribution
 
 People, occupation, birth and death years, and HPI score come from the [Pantheon dataset](https://pantheon.world/data/datasets) (with small modifications).
