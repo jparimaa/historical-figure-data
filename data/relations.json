@@ -1238,5 +1238,853 @@
     "strength": 0.8,
     "confidence": 0.9,
     "reason": "As King Charles I of Spain, Charles V financed and chartered Magellan's expedition of 1519, which became the first voyage to circumnavigate the globe."
+  },
+  {
+    "source_id": "anne_hathaway_(wife_of_shakespeare)",
+    "target_id": "william_shakespeare",
+    "type": "spouse",
+    "strength": 0.9,
+    "confidence": 1.0,
+    "reason": "Anne Hathaway married William Shakespeare in 1582; they remained married until his death in 1616 and had three children together."
+  },
+  {
+    "source_id": "william_shakespeare",
+    "target_id": "james_vi_and_i",
+    "type": "patron",
+    "strength": 0.8,
+    "confidence": 0.95,
+    "reason": "James I took Shakespeare's acting company under direct royal patronage in 1603, renaming it the King's Men, which gave Shakespeare's theater work its most prestigious institutional support."
+  },
+  {
+    "source_id": "frédéric_chopin",
+    "target_id": "franz_liszt",
+    "type": "friend",
+    "strength": 0.8,
+    "confidence": 0.9,
+    "reason": "Chopin and Liszt met in Paris in the early 1830s, performed together, admired each other's music deeply, and maintained a close friendship across their careers as the two leading pianists of the Romantic era."
+  },
+  {
+    "source_id": "eugène_delacroix",
+    "target_id": "frédéric_chopin",
+    "type": "friend",
+    "strength": 0.85,
+    "confidence": 0.95,
+    "reason": "Delacroix and Chopin were close friends in Paris from the 1830s until Chopin's death in 1849; Delacroix painted the celebrated portrait of Chopin and recorded in his journal deep admiration for Chopin's musicianship."
+  },
+  {
+    "source_id": "immanuel_kant",
+    "target_id": "johann_gottlieb_fichte",
+    "type": "mentor",
+    "strength": 0.8,
+    "confidence": 0.9,
+    "reason": "Fichte visited Kant in Konigsberg in 1791 and Kant championed his first manuscript (Versuch einer Kritik aller Offenbarung), initially published anonymously and widely attributed to Kant himself, effectively launching Fichte's career as the leading post-Kantian idealist."
+  },
+  {
+    "source_id": "karl_marx",
+    "target_id": "friedrich_engels",
+    "type": "collaborator",
+    "strength": 1.0,
+    "confidence": 1.0,
+    "reason": "Marx and Engels co-authored the Communist Manifesto (1848) and collaborated intellectually for nearly forty years; Engels also financed Marx's research and edited the second and third volumes of Das Kapital after Marx's death."
+  },
+  {
+    "source_id": "mikhail_bakunin",
+    "target_id": "karl_marx",
+    "type": "rival",
+    "strength": 0.95,
+    "confidence": 0.98,
+    "reason": "Bakunin and Marx clashed bitterly within the First International over anarchism versus authoritarian socialism, culminating in Bakunin's expulsion in 1872 -- a split that defined the fault line between anarchist and Marxist movements for generations."
+  },
+  {
+    "source_id": "heinrich_heine",
+    "target_id": "karl_marx",
+    "type": "friend",
+    "strength": 0.75,
+    "confidence": 0.9,
+    "reason": "Heine and Marx became close friends in Paris in the 1840s, where Marx edited the Deutsch-Franzosische Jahrbucher and published Heine's political poetry; Heine reportedly called Marx one of the ablest men he had ever met."
+  },
+  {
+    "source_id": "vladimir_lenin",
+    "target_id": "joseph_stalin",
+    "type": "mentor",
+    "strength": 0.85,
+    "confidence": 0.95,
+    "reason": "Lenin promoted Stalin to General Secretary of the Communist Party in 1922, but by late 1922 privately urged his removal, calling him too rude; Stalin suppressed Lenin's Testament and used his mentored position to consolidate total power after Lenin's death."
+  },
+  {
+    "source_id": "joseph_stalin",
+    "target_id": "leon_trotsky",
+    "type": "rival",
+    "strength": 1.0,
+    "confidence": 1.0,
+    "reason": "Stalin outmaneuvered Trotsky in the post-Lenin succession struggle of the 1920s, expelled him from the Soviet Union in 1929, and in 1940 had him assassinated in Mexico City -- the defining personal and political rivalry of early Soviet history."
+  },
+  {
+    "source_id": "winston_churchill",
+    "target_id": "joseph_stalin",
+    "type": "ally",
+    "strength": 0.85,
+    "confidence": 0.98,
+    "reason": "Churchill and Stalin coordinated Allied strategy against Nazi Germany from 1941 to 1945, meeting at Tehran and Yalta; their 1944 percentages agreement informally divided postwar European spheres of influence."
+  },
+  {
+    "source_id": "pope_boniface_viii",
+    "target_id": "dante_alighieri",
+    "type": "enemy",
+    "strength": 0.9,
+    "confidence": 0.95,
+    "reason": "Boniface VIII's political maneuvering led directly to Dante's exile from Florence in 1302; Dante retaliated by placing Boniface in Hell in the Divine Comedy and attacking papal corruption throughout the poem."
+  },
+  {
+    "source_id": "dante_alighieri",
+    "target_id": "giotto",
+    "type": "friend",
+    "strength": 0.7,
+    "confidence": 0.8,
+    "reason": "Dante and Giotto were prominent contemporaries in Florence who almost certainly knew each other personally; Dante singled out Giotto by name in Purgatorio XI as the painter who had surpassed Cimabue, one of the earliest literary testimonies to Giotto's fame."
+  },
+  {
+    "source_id": "rené_descartes",
+    "target_id": "christina,_queen_of_sweden",
+    "type": "mentor",
+    "strength": 0.85,
+    "confidence": 0.98,
+    "reason": "Christina invited Descartes to Stockholm in 1649 to give her philosophy lessons at five in the morning; Descartes died there in February 1650, making the tutorship the last chapter of his life."
+  },
+  {
+    "source_id": "rené_descartes",
+    "target_id": "pierre_de_fermat",
+    "type": "rival",
+    "strength": 0.8,
+    "confidence": 0.9,
+    "reason": "Descartes and Fermat disputed priority and correctness in analytic geometry and the method of tangents through the 1630s and 1640s; their published arguments drove key advances in mathematics while generating notable personal animosity."
+  },
+  {
+    "source_id": "al-biruni",
+    "target_id": "avicenna",
+    "type": "rival",
+    "strength": 0.8,
+    "confidence": 0.88,
+    "reason": "Al-Biruni sent Avicenna a set of eighteen critical questions on Aristotelian natural philosophy; Avicenna's sharp replies and Al-Biruni's counter-critiques form one of the most important documented philosophical exchanges in the medieval Islamic world."
+  },
+  {
+    "source_id": "mark_antony",
+    "target_id": "augustus",
+    "type": "rival",
+    "strength": 1.0,
+    "confidence": 1.0,
+    "reason": "After Caesar's assassination, Antony and Octavian were briefly allied in the Second Triumvirate but fought the decisive Battle of Actium in 31 BCE; Antony's defeat and suicide left Octavian as sole master of the Roman world."
+  },
+  {
+    "source_id": "virgil",
+    "target_id": "augustus",
+    "type": "patron",
+    "strength": 0.95,
+    "confidence": 0.98,
+    "reason": "Augustus commissioned and supported Virgil through Maecenas, culminating in the Aeneid, which glorified the Julian line and the Augustan peace; Virgil read portions of the epic to Augustus directly before his death in 19 BCE."
+  },
+  {
+    "source_id": "augustus",
+    "target_id": "tiberius",
+    "type": "predecessor",
+    "strength": 1.0,
+    "confidence": 1.0,
+    "reason": "Augustus formally adopted Tiberius in 4 CE and designated him heir; on Augustus's death in 14 CE, Tiberius succeeded him as the second Roman Emperor."
+  },
+  {
+    "source_id": "christiaan_huygens",
+    "target_id": "gottfried_wilhelm_leibniz",
+    "type": "mentor",
+    "strength": 0.9,
+    "confidence": 0.95,
+    "reason": "During Leibniz's Paris years (1672-1676), Huygens served as his primary mathematics teacher; Leibniz later credited Huygens as his most important guide in mathematics, a mentorship that helped lay the groundwork for Leibniz's invention of calculus."
+  },
+  {
+    "source_id": "gottfried_wilhelm_leibniz",
+    "target_id": "peter_the_great",
+    "type": "mentor",
+    "strength": 0.75,
+    "confidence": 0.85,
+    "reason": "Leibniz met Peter the Great in 1711 and 1716, advising him on founding a Russian Academy of Sciences and modernizing Russian administration; Peter appointed Leibniz Privy Justice Councillor of Russia in recognition of his counsel."
+  },
+  {
+    "source_id": "gottfried_wilhelm_leibniz",
+    "target_id": "jacob_bernoulli",
+    "type": "collaborator",
+    "strength": 0.85,
+    "confidence": 0.92,
+    "reason": "Leibniz and Jacob Bernoulli corresponded extensively in the 1680s-1700s, jointly developing the notation and applications of calculus; Bernoulli was among the first to master Leibnizian calculus and helped popularize it across Europe."
+  },
+  {
+    "source_id": "mark_twain",
+    "target_id": "nikola_tesla",
+    "type": "friend",
+    "strength": 0.8,
+    "confidence": 0.9,
+    "reason": "Twain and Tesla were close friends in New York in the 1890s; Twain repeatedly visited Tesla's laboratory and enthusiastically participated in electrical demonstrations, and Tesla later credited these visits among his fondest memories."
+  },
+  {
+    "source_id": "nikola_tesla",
+    "target_id": "guglielmo_marconi",
+    "type": "rival",
+    "strength": 0.85,
+    "confidence": 0.9,
+    "reason": "Tesla and Marconi disputed priority in radio transmission; Marconi used patents Tesla had developed, and the U.S. Supreme Court ruled in 1943 (the year Tesla died) that Tesla's patents predated Marconi's key claims."
+  },
+  {
+    "source_id": "henri_matisse",
+    "target_id": "pablo_picasso",
+    "type": "rival",
+    "strength": 0.95,
+    "confidence": 0.98,
+    "reason": "Matisse and Picasso met in 1906 and spent the next five decades each regarding the other as their foremost artistic rival; they exchanged works, critiqued each other, and historians commonly treat their dynamic as the defining rivalry of modern art."
+  },
+  {
+    "source_id": "pablo_picasso",
+    "target_id": "joan_miró",
+    "type": "mentor",
+    "strength": 0.75,
+    "confidence": 0.85,
+    "reason": "Picasso championed Miro's early career in Paris, introduced him to the Parisian art world, and helped arrange his first Paris exhibition in 1921; Miro credited Picasso's encouragement as crucial to his success."
+  },
+  {
+    "source_id": "thomas_edison",
+    "target_id": "nikola_tesla",
+    "type": "rival",
+    "strength": 1.0,
+    "confidence": 1.0,
+    "reason": "Edison employed Tesla briefly in 1884 before a dispute over payment ended their working relationship; their War of Currents (DC vs AC electricity) defined the contest to electrify America and is one of history's most famous inventor rivalries."
+  },
+  {
+    "source_id": "thomas_edison",
+    "target_id": "henry_ford",
+    "type": "friend",
+    "strength": 0.9,
+    "confidence": 0.98,
+    "reason": "Edison and Ford became close personal friends after Ford sought Edison's advice in 1896; they camped together annually for years with Harvey Firestone and John Burroughs, and Ford purchased the house next to Edison's winter home in Fort Myers."
+  },
+  {
+    "source_id": "suleiman_the_magnificent",
+    "target_id": "hurrem_sultan",
+    "type": "spouse",
+    "strength": 1.0,
+    "confidence": 1.0,
+    "reason": "Suleiman married Hurrem Sultan (Roxelana) around 1533, the first Ottoman slave concubine formally wed to a sultan; their marriage transformed Ottoman court politics and produced Selim II, Suleiman's eventual successor."
+  },
+  {
+    "source_id": "pargalı_ibrahim_pasha",
+    "target_id": "suleiman_the_magnificent",
+    "type": "friend",
+    "strength": 0.95,
+    "confidence": 0.98,
+    "reason": "Ibrahim Pasha was Suleiman's childhood companion and closest confidant, appointed Grand Vizier in 1523 and entrusted with vast authority; Suleiman had him executed in 1536, one of the most dramatic betrayals of friendship in Ottoman history."
+  },
+  {
+    "source_id": "suleiman_the_magnificent",
+    "target_id": "selim_ii",
+    "type": "predecessor",
+    "strength": 1.0,
+    "confidence": 1.0,
+    "reason": "Selim II was Suleiman's son by Hurrem Sultan and succeeded him as Ottoman Sultan in 1566 upon Suleiman's death during the siege of Szigetvar."
+  },
+  {
+    "source_id": "suleiman_the_magnificent",
+    "target_id": "charles_v,_holy_roman_emperor",
+    "type": "rival",
+    "strength": 0.95,
+    "confidence": 0.98,
+    "reason": "Suleiman and Charles V were the dominant powers of the 16th century, clashing repeatedly across the Mediterranean and Central Europe -- from the Siege of Vienna (1529) to the naval Battle of Preveza (1538) -- in a rivalry that shaped the boundaries of Europe and the Ottoman Empire."
+  },
+  {
+    "source_id": "vladimir_lenin",
+    "target_id": "leon_trotsky",
+    "type": "ally",
+    "strength": 0.95,
+    "confidence": 0.98,
+    "reason": "Lenin and Trotsky coordinated the Bolshevik seizure of power in October 1917; Lenin appointed Trotsky War Commissar, making him architect of the Red Army's victory in the Civil War and Lenin's closest political partner until Lenin's death in 1924."
+  },
+  {
+    "source_id": "nicholas_ii_of_russia",
+    "target_id": "vladimir_lenin",
+    "type": "enemy",
+    "strength": 1.0,
+    "confidence": 1.0,
+    "reason": "Lenin led the Bolshevik revolution that overthrew Nicholas II in 1917, and the Soviet government later ordered the execution of Nicholas and his family in 1918; Lenin's lifelong revolutionary program was defined in opposition to the Romanov autocracy."
+  },
+  {
+    "source_id": "maxim_gorky",
+    "target_id": "vladimir_lenin",
+    "type": "friend",
+    "strength": 0.8,
+    "confidence": 0.9,
+    "reason": "Gorky and Lenin maintained a close personal friendship over many years, corresponding extensively and meeting often; Gorky supported the Bolsheviks financially before 1917 and later defended many intellectuals from Soviet repression, occasionally appealing directly to Lenin."
+  },
+  {
+    "source_id": "alexander_von_humboldt",
+    "target_id": "charles_darwin",
+    "type": "mentor",
+    "strength": 0.8,
+    "confidence": 0.88,
+    "reason": "Darwin credited Humboldt's Personal Narrative as the primary inspiration for his desire to travel, shaping the Beagle voyage that led to the theory of natural selection; they later met in 1842 and corresponded, with Humboldt praising Darwin's geological work."
+  },
+  {
+    "source_id": "heinrich_wilhelm_matthias_olbers",
+    "target_id": "carl_friedrich_gauss",
+    "type": "collaborator",
+    "strength": 0.85,
+    "confidence": 0.92,
+    "reason": "Olbers recruited Gauss to calculate the orbit of Ceres after its rediscovery in 1801, and the two collaborated closely on tracking Pallas as well; the work established Gauss's reputation and led directly to his method of least squares."
+  },
+  {
+    "source_id": "carl_friedrich_gauss",
+    "target_id": "bernhard_riemann",
+    "type": "teacher",
+    "strength": 0.9,
+    "confidence": 0.95,
+    "reason": "Riemann studied under Gauss at Gottingen; Gauss praised Riemann's 1851 doctoral dissertation as showing creative, active mathematical thinking and recognized the depth of his Habilitation lecture on the foundations of geometry, which Gauss alone in the audience fully understood."
+  },
+  {
+    "source_id": "saladin",
+    "target_id": "richard_i_of_england",
+    "type": "rival",
+    "strength": 1.0,
+    "confidence": 1.0,
+    "reason": "Saladin and Richard I led opposing forces in the Third Crusade (1189-1192); their conflict culminated in the Treaty of Jaffa, and their mutual military respect, celebrated in both Christian and Muslim chronicles, made them the defining adversaries of the Crusades."
+  },
+  {
+    "source_id": "saladin",
+    "target_id": "balian_of_ibelin",
+    "type": "enemy",
+    "strength": 0.85,
+    "confidence": 0.92,
+    "reason": "Balian of Ibelin defended Jerusalem against Saladin in 1187 and then negotiated its peaceful surrender; Saladin's decision to grant safe passage to the city's inhabitants rather than massacre them, a concession to Balian's desperate appeal, became one of history's most celebrated acts of chivalric mercy."
+  },
+  {
+    "source_id": "barnabas",
+    "target_id": "paul_the_apostle",
+    "type": "collaborator",
+    "strength": 0.9,
+    "confidence": 0.95,
+    "reason": "Barnabas introduced the newly converted Paul to the Jerusalem apostles and later partnered with him on the first missionary journey through Cyprus and Asia Minor (Acts 13-14); they separated after a sharp dispute over John Mark in Acts 15."
+  },
+  {
+    "source_id": "paul_the_apostle",
+    "target_id": "luke_the_evangelist",
+    "type": "collaborator",
+    "strength": 0.9,
+    "confidence": 0.9,
+    "reason": "Luke accompanied Paul on his missionary journeys (evidenced by the 'we' passages in Acts) and Paul refers to him as 'the beloved physician' in Colossians 4:14; Luke's account in Acts is the primary historical record of Paul's mission."
+  },
+  {
+    "source_id": "paul_the_apostle",
+    "target_id": "saint_timothy",
+    "type": "mentor",
+    "strength": 0.9,
+    "confidence": 0.92,
+    "reason": "Paul converted Timothy, took him as a missionary companion on his second journey, and addressed two epistles to him (1 and 2 Timothy) with detailed personal and pastoral instruction, making Timothy his most trusted disciple and delegate."
+  },
+  {
+    "source_id": "voltaire",
+    "target_id": "jean-jacques_rousseau",
+    "type": "rival",
+    "strength": 0.9,
+    "confidence": 0.95,
+    "reason": "Voltaire and Rousseau were the two dominant figures of the French Enlightenment and bitter intellectual opponents; Voltaire mocked Rousseau's romanticization of nature and the noble savage, while Rousseau accused Voltaire of corrupting Geneva's morals, and their public exchange of attacks became one of the era's most famous feuds."
+  },
+  {
+    "source_id": "jean-jacques_rousseau",
+    "target_id": "denis_diderot",
+    "type": "friend",
+    "strength": 0.8,
+    "confidence": 0.9,
+    "reason": "Rousseau and Diderot were close friends and intellectual collaborators in Paris in the 1740s-1750s; Diderot helped Rousseau with early commissions and encouraged his first Discourse, before their relationship ended in a public and bitter rupture around 1757-1758."
+  },
+  {
+    "source_id": "mehmed_vi",
+    "target_id": "mustafa_kemal_atatürk",
+    "type": "enemy",
+    "strength": 0.95,
+    "confidence": 0.98,
+    "reason": "Atatürk led the Turkish War of Independence against the occupying Allies and against Mehmed VI's collaborationist government; the Grand National Assembly formally deposed Mehmed VI in 1922, ending the Ottoman Sultanate and forcing the last Sultan into exile."
+  },
+  {
+    "source_id": "winston_churchill",
+    "target_id": "mustafa_kemal_atatürk",
+    "type": "rival",
+    "strength": 0.85,
+    "confidence": 0.9,
+    "reason": "Churchill, as First Lord of the Admiralty, was the primary architect of the Gallipoli campaign (1915-1916); Atatürk commanded the Ottoman defense that repelled the Allied landings, a victory that established his national reputation and ended Churchill's political career temporarily."
+  },
+  {
+    "source_id": "möngke_khan",
+    "target_id": "kublai_khan",
+    "type": "family",
+    "strength": 0.9,
+    "confidence": 0.95,
+    "reason": "Mongke, as fourth Great Khan, appointed Kublai administrator of northern China around 1251 and gave him the resources and authority that made his later rise to power possible; Mongke's death in 1259 triggered the succession war that Kublai ultimately won."
+  },
+  {
+    "source_id": "sigmund_freud",
+    "target_id": "carl_jung",
+    "type": "mentor",
+    "strength": 1.0,
+    "confidence": 1.0,
+    "reason": "Freud adopted Jung as his designated successor and 'crown prince' of psychoanalysis from 1907; their intense collaboration culminated in a bitter public split in 1913 over Jung's rejection of the primacy of sexuality, one of the defining intellectual ruptures of the 20th century."
+  },
+  {
+    "source_id": "sigmund_freud",
+    "target_id": "alfred_adler",
+    "type": "mentor",
+    "strength": 0.85,
+    "confidence": 0.92,
+    "reason": "Adler was an early member of Freud's Vienna Psychoanalytic Society and one of his most prominent disciples until a theoretical rift over the role of sexuality led to Adler's departure in 1911, after which he founded the rival school of Individual Psychology."
+  },
+  {
+    "source_id": "bartolomeu_dias",
+    "target_id": "vasco_da_gama",
+    "type": "mentor",
+    "strength": 0.8,
+    "confidence": 0.85,
+    "reason": "Dias rounded the Cape of Good Hope in 1488, proving the sea route to India was possible; he accompanied da Gama's first expedition as far as the Cape Verde Islands in 1497, passing on his navigational knowledge and making da Gama's voyage feasible."
+  },
+  {
+    "source_id": "pierre_de_fermat",
+    "target_id": "blaise_pascal",
+    "type": "collaborator",
+    "strength": 0.95,
+    "confidence": 0.98,
+    "reason": "Fermat and Pascal exchanged a series of letters in 1654 about the problem of points in gambling, founding the mathematical theory of probability; their correspondence is one of the most consequential intellectual exchanges in the history of mathematics."
+  },
+  {
+    "source_id": "charles_vii_of_france",
+    "target_id": "joan_of_arc",
+    "type": "ally",
+    "strength": 0.95,
+    "confidence": 0.99,
+    "reason": "Joan of Arc led French armies under Charles VII's banner and her military campaigns directly enabled his coronation at Reims in 1429, making their alliance the central political partnership of her life."
+  },
+  {
+    "source_id": "joan_of_arc",
+    "target_id": "henry_vi_of_england",
+    "type": "enemy",
+    "strength": 0.9,
+    "confidence": 0.95,
+    "reason": "Joan of Arc led French forces against the English during the Hundred Years War, directly opposing Henry VI's claim to the French throne; her capture was celebrated by the English and she was tried and executed as an enemy."
+  },
+  {
+    "source_id": "antonio_vivaldi",
+    "target_id": "charles_vi,_holy_roman_emperor",
+    "type": "patron",
+    "strength": 0.85,
+    "confidence": 0.9,
+    "reason": "Charles VI met Vivaldi in 1728 and reportedly spent more time with him than with his ministers, presenting the composer with gold medals, money, and letters of credit in an unusually personal form of imperial patronage."
+  },
+  {
+    "source_id": "pope_julius_ii",
+    "target_id": "raphael",
+    "type": "patron",
+    "strength": 0.98,
+    "confidence": 0.99,
+    "reason": "Pope Julius II commissioned Raphael to paint the Vatican Stanze, most famously the School of Athens in the Stanza della Segnatura, establishing Raphael's reputation as the leading painter of the High Renaissance."
+  },
+  {
+    "source_id": "donato_bramante",
+    "target_id": "raphael",
+    "type": "mentor",
+    "strength": 0.85,
+    "confidence": 0.9,
+    "reason": "Bramante, a kinsman of Raphael, brought the young painter to Rome and introduced him to Pope Julius II's court, directly enabling the Vatican commission that made Raphael's career."
+  },
+  {
+    "source_id": "johann_wolfgang_von_goethe",
+    "target_id": "friedrich_schiller",
+    "type": "friend",
+    "strength": 0.98,
+    "confidence": 0.99,
+    "reason": "Goethe and Schiller formed the defining friendship of the Weimar Classicism period, collaborating on poems, plays, and letters from 1794 until Schiller's death in 1805, producing some of German literature's most celebrated works."
+  },
+  {
+    "source_id": "johann_wolfgang_von_goethe",
+    "target_id": "alexander_von_humboldt",
+    "type": "friend",
+    "strength": 0.85,
+    "confidence": 0.9,
+    "reason": "Humboldt visited Goethe repeatedly at Weimar over several decades, sharing scientific observations and botanical specimens; their correspondence and discussions on natural philosophy shaped both men's thinking about the unity of nature."
+  },
+  {
+    "source_id": "saint_joseph",
+    "target_id": "jesus",
+    "type": "family",
+    "strength": 1.0,
+    "confidence": 0.85,
+    "reason": "Joseph was the earthly father of Jesus, raising him in Nazareth and playing a central role in the Nativity story as the husband of Mary and protector of the holy family."
+  },
+  {
+    "source_id": "timur",
+    "target_id": "bayezid_i",
+    "type": "enemy",
+    "strength": 0.98,
+    "confidence": 0.99,
+    "reason": "Timur defeated and captured the Ottoman Sultan Bayezid I at the Battle of Ankara in 1402, holding him prisoner until his death and temporarily reversing Ottoman expansion in Anatolia."
+  },
+  {
+    "source_id": "george_v",
+    "target_id": "george_vi",
+    "type": "family",
+    "strength": 1.0,
+    "confidence": 1.0,
+    "reason": "George V was the father of George VI, who was raised as the Duke of York before unexpectedly ascending the throne following his brother's abdication in 1936."
+  },
+  {
+    "source_id": "edward_viii",
+    "target_id": "george_vi",
+    "type": "predecessor",
+    "strength": 1.0,
+    "confidence": 1.0,
+    "reason": "Edward VIII abdicated the throne in December 1936 to marry Wallis Simpson, and his younger brother George VI immediately succeeded him as King of Great Britain."
+  },
+  {
+    "source_id": "winston_churchill",
+    "target_id": "george_vi",
+    "type": "ally",
+    "strength": 0.9,
+    "confidence": 0.99,
+    "reason": "Churchill served as Prime Minister under George VI throughout World War II and the two developed a close working relationship, with the king and queen remaining in London during the Blitz to share in the nation's hardship."
+  },
+  {
+    "source_id": "franz_joseph_i_of_austria",
+    "target_id": "empress_elisabeth_of_austria",
+    "type": "spouse",
+    "strength": 1.0,
+    "confidence": 1.0,
+    "reason": "Franz Joseph and Elisabeth of Bavaria married in 1854 and remained wed until her assassination in 1898, though their relationship was marked by distance and tragedy including the death of their son Rudolf at Mayerling."
+  },
+  {
+    "source_id": "ferdinand_i_of_austria",
+    "target_id": "franz_joseph_i_of_austria",
+    "type": "predecessor",
+    "strength": 1.0,
+    "confidence": 1.0,
+    "reason": "Ferdinand I abdicated during the revolutions of 1848 and was succeeded by his nephew Franz Joseph I, who ruled Austria-Hungary for the next 68 years until his death in 1916."
+  },
+  {
+    "source_id": "franz_joseph_i_of_austria",
+    "target_id": "archduke_franz_ferdinand_of_austria",
+    "type": "family",
+    "strength": 0.95,
+    "confidence": 1.0,
+    "reason": "Franz Ferdinand was Franz Joseph's nephew and heir to the Austro-Hungarian throne; his assassination in Sarajevo in 1914 prompted Franz Joseph to issue the ultimatum to Serbia that triggered World War I."
+  },
+  {
+    "source_id": "franz_joseph_i_of_austria",
+    "target_id": "charles_i_of_austria",
+    "type": "predecessor",
+    "strength": 1.0,
+    "confidence": 1.0,
+    "reason": "Franz Joseph I died in November 1916 after a 68-year reign and was succeeded by his grand-nephew Charles I, the last ruler of the Habsburg empire."
+  },
+  {
+    "source_id": "christiaan_huygens",
+    "target_id": "baruch_spinoza",
+    "type": "friend",
+    "strength": 0.7,
+    "confidence": 0.85,
+    "reason": "Huygens and Spinoza moved in overlapping Dutch intellectual circles and corresponded about optics and lens grinding, with Huygens commenting favorably on Spinoza's skill as a craftsman and natural philosopher."
+  },
+  {
+    "source_id": "baruch_spinoza",
+    "target_id": "gottfried_wilhelm_leibniz",
+    "type": "friend",
+    "strength": 0.75,
+    "confidence": 0.9,
+    "reason": "Leibniz traveled to The Hague in November 1676 to meet Spinoza in person, spending several days in philosophical discussion and reading the manuscript of the Ethics before Spinoza's death a few months later."
+  },
+  {
+    "source_id": "louis_xvi_of_france",
+    "target_id": "marie_antoinette",
+    "type": "spouse",
+    "strength": 1.0,
+    "confidence": 1.0,
+    "reason": "Louis XVI and Marie Antoinette married in 1770 in a dynastic union between France and Austria; they ruled together until both were guillotined during the Revolution, he in January 1793 and she in October 1793."
+  },
+  {
+    "source_id": "louis_xv_of_france",
+    "target_id": "louis_xvi_of_france",
+    "type": "predecessor",
+    "strength": 1.0,
+    "confidence": 1.0,
+    "reason": "Louis XV was Louis XVI's grandfather and the preceding King of France; he died in 1774 and was succeeded by his grandson Louis XVI, who inherited a kingdom already burdened by debt and social tension."
+  },
+  {
+    "source_id": "louis_xvi_of_france",
+    "target_id": "maximilien_robespierre",
+    "type": "enemy",
+    "strength": 1.0,
+    "confidence": 1.0,
+    "reason": "Robespierre was the leading voice in the National Convention demanding Louis XVI's execution without appeal; he delivered the decisive speech that secured the king's guillotining in January 1793."
+  },
+  {
+    "source_id": "louis_xvi_of_france",
+    "target_id": "louis_xvii_of_france",
+    "type": "family",
+    "strength": 1.0,
+    "confidence": 1.0,
+    "reason": "Louis XVII was the son of Louis XVI and Marie Antoinette; after his father's execution he was proclaimed king by royalists, but he died in 1795 in the Temple prison at age ten."
+  },
+  {
+    "source_id": "niccolò_machiavelli",
+    "target_id": "cesare_borgia",
+    "type": "collaborator",
+    "strength": 0.85,
+    "confidence": 0.95,
+    "reason": "Machiavelli served as Florentine envoy to Cesare Borgia's court during 1502-1503, observing him at close quarters over months of diplomatic negotiations; Borgia became the central model for the ideal prince in Machiavelli's treatise."
+  },
+  {
+    "source_id": "andrew_jackson",
+    "target_id": "martin_van_buren",
+    "type": "ally",
+    "strength": 0.95,
+    "confidence": 0.99,
+    "reason": "Van Buren served as Jackson's Secretary of State and then Vice President, and Jackson handpicked him as his successor; their political partnership defined the early Democratic Party."
+  },
+  {
+    "source_id": "andrew_jackson",
+    "target_id": "james_k._polk",
+    "type": "mentor",
+    "strength": 0.9,
+    "confidence": 0.95,
+    "reason": "Jackson championed Polk's dark-horse presidential candidacy in 1844 and served as his political patron throughout his career, earning Polk the nickname 'Young Hickory' after Jackson's own sobriquet 'Old Hickory.'"
+  },
+  {
+    "source_id": "ambrose",
+    "target_id": "augustine_of_hippo",
+    "type": "mentor",
+    "strength": 0.98,
+    "confidence": 0.99,
+    "reason": "Ambrose, as Bishop of Milan, baptized Augustine at Easter 387 and served as the decisive spiritual influence on his conversion from Neoplatonism to Christianity, a transformation Augustine described at length in his Confessions."
+  },
+  {
+    "source_id": "jerome",
+    "target_id": "augustine_of_hippo",
+    "type": "friend",
+    "strength": 0.85,
+    "confidence": 0.95,
+    "reason": "Jerome and Augustine exchanged a rich correspondence over decades on questions of scripture, translation, and theology; though they occasionally disagreed sharply, their letters are a landmark of early Christian intellectual exchange."
+  },
+  {
+    "source_id": "edgar_allan_poe",
+    "target_id": "charles_dickens",
+    "type": "friend",
+    "strength": 0.65,
+    "confidence": 0.85,
+    "reason": "When Dickens visited Philadelphia in 1842, Poe sought him out and they met twice; Dickens admired Poe's work and attempted to arrange an English publisher for him, though the effort ultimately came to nothing."
+  },
+  {
+    "source_id": "francis_bacon",
+    "target_id": "james_vi_and_i",
+    "type": "patron",
+    "strength": 0.9,
+    "confidence": 0.99,
+    "reason": "James I appointed Bacon as Solicitor General, Attorney General, and finally Lord Chancellor, and elevated him to Viscount St. Alban; Bacon dedicated several works to the king and served his government until his downfall in 1621."
+  },
+  {
+    "source_id": "francis_bacon",
+    "target_id": "thomas_hobbes",
+    "type": "mentor",
+    "strength": 0.8,
+    "confidence": 0.9,
+    "reason": "Hobbes served as a secretary and amanuensis for Bacon in his final years, helping him translate essays into Latin and engaging in philosophical discussions that contributed to Hobbes's own empiricist outlook."
+  },
+  {
+    "source_id": "friedrich_nietzsche",
+    "target_id": "august_strindberg",
+    "type": "friend",
+    "strength": 0.6,
+    "confidence": 0.85,
+    "reason": "Nietzsche and Strindberg exchanged several letters in late 1888 expressing mutual admiration; these were among the last correspondence Nietzsche wrote before his mental collapse in January 1889, and historians discuss them as a notable episode in the lives of both figures."
+  },
+  {
+    "source_id": "anders_celsius",
+    "target_id": "carl_linnaeus",
+    "type": "friend",
+    "strength": 0.75,
+    "confidence": 0.85,
+    "reason": "Celsius and Linnaeus were colleagues at Uppsala University during the 1730s and 1740s, moving in the same scientific circles and supporting each other's careers in Swedish natural philosophy."
+  },
+  {
+    "source_id": "hans_christian_andersen",
+    "target_id": "charles_dickens",
+    "type": "friend",
+    "strength": 0.8,
+    "confidence": 0.95,
+    "reason": "Andersen and Dickens corresponded and met several times; in 1857 Andersen stayed with Dickens and his family for five weeks at Gad's Hill Place, a visit that became legendary for the strain it put on their friendship."
+  },
+  {
+    "source_id": "hans_christian_ørsted",
+    "target_id": "hans_christian_andersen",
+    "type": "mentor",
+    "strength": 0.8,
+    "confidence": 0.9,
+    "reason": "Ørsted befriended the young Andersen in Copenhagen and became one of his most important patrons and supporters, helping him secure grants and recognition in Danish cultural life and encouraging his literary development."
+  },
+  {
+    "source_id": "sophocles",
+    "target_id": "herodotus",
+    "type": "friend",
+    "strength": 0.7,
+    "confidence": 0.75,
+    "reason": "Ancient sources record that Sophocles composed a poem for Herodotus and that the two were friends in Athens during the height of the Periclean golden age, though the full extent of their relationship is not precisely documented."
+  },
+  {
+    "source_id": "herodotus",
+    "target_id": "thucydides",
+    "type": "predecessor",
+    "strength": 0.9,
+    "confidence": 0.9,
+    "reason": "Herodotus founded the discipline of historical writing with his Histories, and Thucydides directly built on and responded to his work, positioning his own methodology as a more rigorous successor to Herodotus's narrative approach."
+  },
+  {
+    "source_id": "ptolemy_i_soter",
+    "target_id": "euclid",
+    "type": "patron",
+    "strength": 0.9,
+    "confidence": 0.85,
+    "reason": "Ptolemy I invited Euclid to Alexandria to teach at the Museum and support the Library; the anecdote in which Euclid tells the king that there is no royal road to geometry is set in this patronage relationship."
+  },
+  {
+    "source_id": "james_vi_and_i",
+    "target_id": "charles_i_of_england",
+    "type": "predecessor",
+    "strength": 1.0,
+    "confidence": 1.0,
+    "reason": "James I was the father of Charles I and preceded him as King of England, Scotland, and Ireland; Charles inherited a kingdom already in conflict with Parliament when James died in 1625."
+  },
+  {
+    "source_id": "anthony_van_dyck",
+    "target_id": "charles_i_of_england",
+    "type": "patron",
+    "strength": 0.98,
+    "confidence": 0.99,
+    "reason": "Charles I appointed Van Dyck as his Principal Painter in Ordinary in 1632, knighted him, and commissioned dozens of portraits; Van Dyck's equestrian images of Charles I became the defining visual representation of Stuart monarchy."
+  },
+  {
+    "source_id": "charles_i_of_england",
+    "target_id": "charles_ii_of_england",
+    "type": "family",
+    "strength": 1.0,
+    "confidence": 1.0,
+    "reason": "Charles II was the son of Charles I; after his father's execution in 1649, he spent years in exile before restoring the monarchy in 1660 as the direct heir to the Stuart crown."
+  },
+  {
+    "source_id": "albert_einstein",
+    "target_id": "charlie_chaplin",
+    "type": "friend",
+    "strength": 0.8,
+    "confidence": 0.9,
+    "reason": "Einstein and Chaplin met and developed a warm friendship; Einstein attended the 1931 Hollywood premiere of City Lights as Chaplin's guest, and their exchange on universal fame became one of the most-quoted anecdotes about both figures."
+  },
+  {
+    "source_id": "charlie_chaplin",
+    "target_id": "mary_pickford",
+    "type": "collaborator",
+    "strength": 0.9,
+    "confidence": 0.99,
+    "reason": "Chaplin and Pickford, together with D.W. Griffith and Douglas Fairbanks, co-founded United Artists in 1919 to distribute their films independently and maintain creative control over their work."
+  },
+  {
+    "source_id": "pepin_the_short",
+    "target_id": "charlemagne",
+    "type": "predecessor",
+    "strength": 1.0,
+    "confidence": 1.0,
+    "reason": "Pepin the Short was Charlemagne's father and the first Carolingian King of the Franks; at his death in 768 the kingdom was divided between Charlemagne and his brother Carloman, but Charlemagne became sole ruler after Carloman died in 771."
+  },
+  {
+    "source_id": "pope_adrian_i",
+    "target_id": "charlemagne",
+    "type": "ally",
+    "strength": 0.95,
+    "confidence": 0.99,
+    "reason": "Pope Adrian I formed a close alliance with Charlemagne, who answered his call for help against the Lombards in 773-774; the two maintained a warm correspondence and cooperative relationship until Adrian's death in 795."
+  },
+  {
+    "source_id": "charlemagne",
+    "target_id": "harun_al-rashid",
+    "type": "ally",
+    "strength": 0.8,
+    "confidence": 0.9,
+    "reason": "Charlemagne and Harun al-Rashid exchanged diplomatic embassies and gifts, most famously the elephant Abul-Abbas; their alliance was strategically motivated by shared opposition to the Umayyad emirate of Cordoba and Byzantium."
+  },
+  {
+    "source_id": "charlemagne",
+    "target_id": "louis_the_pious",
+    "type": "predecessor",
+    "strength": 1.0,
+    "confidence": 1.0,
+    "reason": "Louis the Pious was Charlemagne's son and sole heir; Charlemagne crowned him co-emperor in 813, and Louis succeeded him as sole ruler of the Carolingian Empire upon Charlemagne's death in 814."
+  },
+  {
+    "source_id": "edward_vii",
+    "target_id": "george_v",
+    "type": "predecessor",
+    "strength": 1.0,
+    "confidence": 1.0,
+    "reason": "Edward VII was George V's father and the preceding King of Great Britain; at his death in 1910, George V ascended the throne and immediately faced the constitutional crisis over the House of Lords."
+  },
+  {
+    "source_id": "george_v",
+    "target_id": "mary_of_teck",
+    "type": "spouse",
+    "strength": 1.0,
+    "confidence": 1.0,
+    "reason": "George V and Mary of Teck married in 1893 and remained married until his death in 1936, ruling together through World War I and forming a notably devoted partnership that stabilized the British monarchy during a turbulent era."
+  },
+  {
+    "source_id": "wilhelm_ii,_german_emperor",
+    "target_id": "george_v",
+    "type": "rival",
+    "strength": 0.9,
+    "confidence": 0.99,
+    "reason": "Wilhelm II and George V were first cousins, both grandsons of Queen Victoria, who found themselves leading opposite sides in World War I; their personal correspondence before the war gave way to bitter enmity as the war progressed."
+  },
+  {
+    "source_id": "george_v",
+    "target_id": "nicholas_ii_of_russia",
+    "type": "family",
+    "strength": 0.85,
+    "confidence": 0.99,
+    "reason": "George V and Nicholas II were first cousins who bore a striking physical resemblance; during the Russian Revolution of 1917, George V reversed an earlier offer of asylum to Nicholas and his family, a decision that historians have debated ever since."
+  },
+  {
+    "source_id": "mary,_queen_of_scots",
+    "target_id": "james_vi_and_i",
+    "type": "family",
+    "strength": 1.0,
+    "confidence": 1.0,
+    "reason": "Mary, Queen of Scots was James's mother; he was crowned King of Scotland as an infant after her forced abdication in 1567, grew up without knowing her, and in 1587 chose not to prevent her execution by his cousin Elizabeth I."
+  },
+  {
+    "source_id": "leo_tolstoy",
+    "target_id": "anton_chekhov",
+    "type": "friend",
+    "strength": 0.9,
+    "confidence": 0.95,
+    "reason": "Chekhov visited Tolstoy at Yasnaya Polyana on several occasions and the two men maintained a warm if sometimes intellectually tense relationship; Tolstoy profoundly admired Chekhov as a person though he had reservations about his plays."
+  },
+  {
+    "source_id": "leo_tolstoy",
+    "target_id": "maxim_gorky",
+    "type": "friend",
+    "strength": 0.85,
+    "confidence": 0.95,
+    "reason": "Gorky visited Tolstoy at Yasnaya Polyana on multiple occasions and their friendship is extensively documented in Gorky's famous memoir 'Reminiscences of Leo Nikolaevich Tolstoy'."
+  },
+  {
+    "source_id": "marcus_aurelius",
+    "target_id": "commodus",
+    "type": "family",
+    "strength": 1.0,
+    "confidence": 1.0,
+    "reason": "Commodus was the biological son of Marcus Aurelius, who broke with the Five Good Emperors tradition of adoptive succession by designating his own son as heir to the Roman Empire."
   }
 ]
