@@ -2086,5 +2086,669 @@
     "strength": 1.0,
     "confidence": 1.0,
     "reason": "Commodus was the biological son of Marcus Aurelius, who broke with the Five Good Emperors tradition of adoptive succession by designating his own son as heir to the Roman Empire."
+  },
+  {
+    "source_id": "frederick_ii,_holy_roman_emperor",
+    "target_id": "fibonacci",
+    "type": "patron",
+    "strength": 0.5,
+    "confidence": 0.8,
+    "reason": "Frederick II summoned Fibonacci to his court in Pisa around 1225, where Fibonacci participated in mathematical competitions organized under the emperor's patronage."
+  },
+  {
+    "source_id": "queen_victoria",
+    "target_id": "edward_vii",
+    "type": "predecessor",
+    "strength": 0.9,
+    "confidence": 1.0,
+    "reason": "Queen Victoria reigned as monarch of the United Kingdom until her death in 1901, when her son Edward VII succeeded her to the throne."
+  },
+  {
+    "source_id": "albert,_prince_consort",
+    "target_id": "edward_vii",
+    "type": "family",
+    "strength": 0.8,
+    "confidence": 1.0,
+    "reason": "Prince Albert was the father of Edward VII and played a significant role in shaping his son's education and early life before dying in 1861 when Edward was nineteen."
+  },
+  {
+    "source_id": "christian_ix_of_denmark",
+    "target_id": "edward_vii",
+    "type": "family",
+    "strength": 0.7,
+    "confidence": 1.0,
+    "reason": "Christian IX of Denmark was Edward VII's father-in-law; Edward married Christian's daughter Alexandra in 1863, making the Danish royal family central to Edward's personal and diplomatic life."
+  },
+  {
+    "source_id": "edward_vii",
+    "target_id": "alexander_iii_of_russia",
+    "type": "friend",
+    "strength": 0.7,
+    "confidence": 0.85,
+    "reason": "Edward VII and Alexander III were brothers-in-law (their wives Alexandra and Maria Feodorovna were sisters) and maintained a warm personal friendship that supported Anglo-Russian relations."
+  },
+  {
+    "source_id": "edward_vii",
+    "target_id": "wilhelm_ii,_german_emperor",
+    "type": "rival",
+    "strength": 0.85,
+    "confidence": 0.95,
+    "reason": "Edward VII and his nephew Wilhelm II had a deeply antagonistic relationship; Edward's diplomatic initiatives (Entente Cordiale, Anglo-Russian Convention) were aimed at encircling Germany, and Wilhelm bitterly resented his uncle's maneuvers."
+  },
+  {
+    "source_id": "henry_viii_of_england",
+    "target_id": "edward_vi_of_england",
+    "type": "family",
+    "strength": 0.9,
+    "confidence": 1.0,
+    "reason": "Henry VIII was Edward VI's father; Edward was Henry's long-sought male heir, and Henry's reign shaped the Protestant England Edward inherited and continued."
+  },
+  {
+    "source_id": "edward_vi_of_england",
+    "target_id": "lady_jane_grey",
+    "type": "predecessor",
+    "strength": 0.85,
+    "confidence": 1.0,
+    "reason": "Edward VI designated Lady Jane Grey as his successor in his 'Device for the Succession' to prevent Catholic Mary from inheriting the throne, directly placing Jane on it for nine days after his death."
+  },
+  {
+    "source_id": "elizabeth_i_of_england",
+    "target_id": "edward_vi_of_england",
+    "type": "family",
+    "strength": 0.75,
+    "confidence": 1.0,
+    "reason": "Elizabeth I and Edward VI were half-siblings, both children of Henry VIII; they grew up together at court and Elizabeth was a prominent figure during Edward's Protestant reign."
+  },
+  {
+    "source_id": "empress_elisabeth_of_austria",
+    "target_id": "rudolf,_crown_prince_of_austria",
+    "type": "family",
+    "strength": 0.9,
+    "confidence": 1.0,
+    "reason": "Empress Elisabeth was Crown Prince Rudolf's mother; their emotionally intense relationship and Rudolf's tragic suicide at Mayerling in 1889 deeply affected Elisabeth and shaped her final years."
+  },
+  {
+    "source_id": "empress_elisabeth_of_austria",
+    "target_id": "ludwig_ii_of_bavaria",
+    "type": "friend",
+    "strength": 0.8,
+    "confidence": 0.9,
+    "reason": "Empress Elisabeth and Ludwig II of Bavaria were first cousins and close friends who shared artistic temperaments, eccentricity, and a deep mutual understanding that historians frequently document."
+  },
+  {
+    "source_id": "victor_hugo",
+    "target_id": "napoleon_iii",
+    "type": "enemy",
+    "strength": 0.95,
+    "confidence": 1.0,
+    "reason": "Hugo went into nineteen years of exile after Napoleon III's 1851 coup and became his most famous literary opponent, attacking him in 'Napoleon le Petit' and 'Les Chatiments'."
+  },
+  {
+    "source_id": "victor_hugo",
+    "target_id": "alexandre_dumas",
+    "type": "friend",
+    "strength": 0.75,
+    "confidence": 0.85,
+    "reason": "Hugo and Dumas were close friends and leading figures of French Romanticism; Dumas attended the tumultuous premiere of Hugo's 'Hernani' in 1830 and they remained literary companions for decades."
+  },
+  {
+    "source_id": "victor_hugo",
+    "target_id": "charles_baudelaire",
+    "type": "mentor",
+    "strength": 0.7,
+    "confidence": 0.8,
+    "reason": "Hugo and Baudelaire corresponded and Hugo praised 'Les Fleurs du Mal', while Baudelaire held Hugo in high esteem and was shaped by his work; Hugo was a guiding presence for the younger poet."
+  },
+  {
+    "source_id": "honoré_de_balzac",
+    "target_id": "victor_hugo",
+    "type": "friend",
+    "strength": 0.65,
+    "confidence": 0.8,
+    "reason": "Balzac and Hugo were close colleagues in French literary life; Hugo delivered the eulogy at Balzac's funeral in 1850 and they had maintained a respectful friendship as the two titans of French Romantic prose."
+  },
+  {
+    "source_id": "maximilian_i,_holy_roman_emperor",
+    "target_id": "albrecht_dürer",
+    "type": "patron",
+    "strength": 0.85,
+    "confidence": 0.95,
+    "reason": "Maximilian I employed Dürer on major imperial projects including the monumental 'Triumphal Arch' and 'Triumphal Procession' woodcuts, making him one of Dürer's most important patrons."
+  },
+  {
+    "source_id": "erasmus",
+    "target_id": "albrecht_dürer",
+    "type": "friend",
+    "strength": 0.7,
+    "confidence": 0.85,
+    "reason": "Erasmus and Dürer met in the Netherlands in 1520, corresponded, and held each other in high esteem; Erasmus praised Dürer as the equal of the ancient painters and Dürer portrayed Erasmus in sketches."
+  },
+  {
+    "source_id": "albrecht_dürer",
+    "target_id": "raphael",
+    "type": "friend",
+    "strength": 0.65,
+    "confidence": 0.8,
+    "reason": "Dürer and Raphael exchanged drawings across the Alps as a gesture of mutual respect; Dürer sent Raphael one of his self-portraits, and Raphael sent works in return, making their friendship a celebrated Renaissance cross-cultural bond."
+  },
+  {
+    "source_id": "constantine_xi_palaiologos",
+    "target_id": "mehmed_the_conqueror",
+    "type": "enemy",
+    "strength": 1.0,
+    "confidence": 1.0,
+    "reason": "Constantine XI died defending Constantinople in 1453 against Mehmed II's siege, which ended the Byzantine Empire and marked one of history's most consequential military confrontations."
+  },
+  {
+    "source_id": "murad_ii",
+    "target_id": "mehmed_the_conqueror",
+    "type": "predecessor",
+    "strength": 0.9,
+    "confidence": 1.0,
+    "reason": "Murad II was Mehmed the Conqueror's father and the Ottoman Sultan who preceded him; he briefly abdicated in favor of the young Mehmed before resuming the sultanate, then definitively passed it to him at his death in 1451."
+  },
+  {
+    "source_id": "mehmed_the_conqueror",
+    "target_id": "bayezid_ii",
+    "type": "predecessor",
+    "strength": 0.85,
+    "confidence": 1.0,
+    "reason": "Mehmed the Conqueror was the father and Sultan who directly preceded Bayezid II; Bayezid inherited the Ottoman throne upon Mehmed's death in 1481."
+  },
+  {
+    "source_id": "skanderbeg",
+    "target_id": "mehmed_the_conqueror",
+    "type": "enemy",
+    "strength": 0.9,
+    "confidence": 0.95,
+    "reason": "Skanderbeg was the foremost Christian military opponent of Ottoman expansion in the Balkans, successfully resisting Mehmed the Conqueror's forces in Albania through multiple campaigns until his death in 1468."
+  },
+  {
+    "source_id": "vlad_the_impaler",
+    "target_id": "mehmed_the_conqueror",
+    "type": "enemy",
+    "strength": 0.85,
+    "confidence": 0.9,
+    "reason": "Vlad III of Wallachia fiercely resisted Ottoman expansion and famously greeted Mehmed's advance with a 'forest' of impaled Ottoman soldiers; Mehmed personally led campaigns against Wallachia in 1462 in response."
+  },
+  {
+    "source_id": "voltaire",
+    "target_id": "frederick_the_great",
+    "type": "friend",
+    "strength": 0.85,
+    "confidence": 0.95,
+    "reason": "Voltaire and Frederick the Great maintained a decades-long intellectual correspondence and Voltaire lived at Frederick's Potsdam court from 1750 to 1753, though their friendship eventually broke down over disputes about money and Voltaire's mockery of Maupertuis."
+  },
+  {
+    "source_id": "voltaire",
+    "target_id": "catherine_the_great",
+    "type": "friend",
+    "strength": 0.8,
+    "confidence": 0.9,
+    "reason": "Voltaire and Catherine the Great exchanged hundreds of letters from 1763 until Voltaire's death in 1778; he publicly praised her as an enlightened monarch and she considered him her intellectual hero."
+  },
+  {
+    "source_id": "voltaire",
+    "target_id": "denis_diderot",
+    "type": "collaborator",
+    "strength": 0.75,
+    "confidence": 0.85,
+    "reason": "Voltaire contributed articles to Diderot's Encyclopédie and the two were intellectual allies in the French Enlightenment, though their personal contact was limited by Voltaire's long exile from France."
+  },
+  {
+    "source_id": "voltaire",
+    "target_id": "jean_le_rond_d'alembert",
+    "type": "collaborator",
+    "strength": 0.8,
+    "confidence": 0.9,
+    "reason": "Voltaire and D'Alembert maintained an extensive correspondence and collaborated on the Encyclopédie project; D'Alembert was one of Voltaire's closest intellectual allies and Voltaire urged him to take over editorial leadership of the Encyclopédie."
+  },
+  {
+    "source_id": "madame_de_pompadour",
+    "target_id": "voltaire",
+    "type": "patron",
+    "strength": 0.7,
+    "confidence": 0.85,
+    "reason": "Madame de Pompadour championed Voltaire at Versailles, helped secure him the post of Royal Historiographer and a position in the Académie française, and protected him from his enemies at court."
+  },
+  {
+    "source_id": "david",
+    "target_id": "solomon",
+    "type": "predecessor",
+    "strength": 1.0,
+    "confidence": 0.85,
+    "reason": "David was Solomon's father and the King of Israel who directly preceded him; Solomon inherited David's throne and the Davidic covenant that defined Israelite kingship."
+  },
+  {
+    "source_id": "solomon",
+    "target_id": "queen_of_sheba",
+    "type": "ally",
+    "strength": 0.8,
+    "confidence": 0.6,
+    "reason": "The Queen of Sheba traveled to Jerusalem to test Solomon's legendary wisdom; the meeting recorded in 1 Kings 10 depicts a diplomatic and cultural exchange that became one of the most celebrated encounters in ancient tradition."
+  },
+  {
+    "source_id": "pyotr_ilyich_tchaikovsky",
+    "target_id": "edvard_grieg",
+    "type": "friend",
+    "strength": 0.75,
+    "confidence": 0.9,
+    "reason": "Tchaikovsky and Grieg met in Leipzig in 1888 and formed an immediate warm friendship; Tchaikovsky praised Grieg's music highly and they spent time together in a mutually admiring personal connection."
+  },
+  {
+    "source_id": "pyotr_ilyich_tchaikovsky",
+    "target_id": "nikolai_rimsky-korsakov",
+    "type": "friend",
+    "strength": 0.7,
+    "confidence": 0.85,
+    "reason": "Tchaikovsky and Rimsky-Korsakov were colleagues and friends in Russian musical life, belonging to different compositional camps but maintaining personal warmth; Rimsky-Korsakov later helped complete and revise some of Tchaikovsky's unfinished works."
+  },
+  {
+    "source_id": "camille_saint-saëns",
+    "target_id": "pyotr_ilyich_tchaikovsky",
+    "type": "friend",
+    "strength": 0.7,
+    "confidence": 0.85,
+    "reason": "Saint-Saens visited Moscow in 1875 and performed a four-hand piano piece with Tchaikovsky; they maintained a friendship of mutual admiration across subsequent meetings and correspondence."
+  },
+  {
+    "source_id": "leo_tolstoy",
+    "target_id": "pyotr_ilyich_tchaikovsky",
+    "type": "friend",
+    "strength": 0.65,
+    "confidence": 0.8,
+    "reason": "Tolstoy was moved to tears at a 1876 performance of Tchaikovsky's string quartet and wrote to him expressing deep admiration; they subsequently corresponded and Tchaikovsky was profoundly affected by Tolstoy's attention."
+  },
+  {
+    "source_id": "james_joyce",
+    "target_id": "ezra_pound",
+    "type": "friend",
+    "strength": 0.85,
+    "confidence": 0.95,
+    "reason": "Pound became Joyce's most active literary champion, arranging serial publication of 'A Portrait of the Artist' and 'Ulysses', securing financial grants for him, and maintaining a close personal friendship for years."
+  },
+  {
+    "source_id": "james_joyce",
+    "target_id": "t._s._eliot",
+    "type": "friend",
+    "strength": 0.75,
+    "confidence": 0.9,
+    "reason": "Joyce and Eliot met in London and Paris, maintained a respectful literary friendship, and Eliot championed Ulysses in the journal The Egoist; both were central pillars of literary modernism who shaped each other's reception."
+  },
+  {
+    "source_id": "james_joyce",
+    "target_id": "ernest_hemingway",
+    "type": "friend",
+    "strength": 0.7,
+    "confidence": 0.85,
+    "reason": "Joyce and Hemingway were Paris expatriates who frequented the same circles around Sylvia Beach's Shakespeare and Company; Hemingway admired Joyce greatly and later described their friendship in 'A Moveable Feast'."
+  },
+  {
+    "source_id": "aeschylus",
+    "target_id": "sophocles",
+    "type": "rival",
+    "strength": 0.85,
+    "confidence": 0.9,
+    "reason": "Sophocles defeated the older Aeschylus at the City Dionysia in 468 BCE, inaugurating a long theatrical rivalry between the two greatest tragedians of the age who competed repeatedly at Athenian dramatic festivals."
+  },
+  {
+    "source_id": "sophocles",
+    "target_id": "euripides",
+    "type": "rival",
+    "strength": 0.9,
+    "confidence": 0.9,
+    "reason": "Sophocles and Euripides were lifelong rivals who competed against each other for decades at Athenian dramatic festivals; both died in 406 BCE and their contrasting dramatic styles defined the two poles of Greek tragedy."
+  },
+  {
+    "source_id": "sophocles",
+    "target_id": "pericles",
+    "type": "friend",
+    "strength": 0.75,
+    "confidence": 0.8,
+    "reason": "Sophocles and Pericles were friends and colleagues in Periclean Athens; Sophocles served alongside Pericles as one of the ten elected strategoi in 441 BCE and both were central figures of Athens' Golden Age."
+  },
+  {
+    "source_id": "ali",
+    "target_id": "fatimah",
+    "type": "spouse",
+    "strength": 1.0,
+    "confidence": 1.0,
+    "reason": "Ali ibn Abi Talib married Fatimah, the daughter of the Prophet Muhammad; their union is foundational to Islamic history and through their descendants the Shia imamate is traced."
+  },
+  {
+    "source_id": "ali",
+    "target_id": "hasan_ibn_ali",
+    "type": "family",
+    "strength": 0.9,
+    "confidence": 1.0,
+    "reason": "Hasan ibn Ali was Ali's eldest son; after Ali's assassination in 661, Hasan briefly became Caliph before abdicating to Muawiyah I, and he is revered as the second Imam in Shia Islam."
+  },
+  {
+    "source_id": "ali",
+    "target_id": "husayn_ibn_ali",
+    "type": "family",
+    "strength": 0.95,
+    "confidence": 1.0,
+    "reason": "Husayn ibn Ali was Ali's second son; Husayn's martyrdom at the Battle of Karbala in 680 is the central tragedy of Shia Islam, and his lineage through Ali defines the Shia imamate."
+  },
+  {
+    "source_id": "ali",
+    "target_id": "muawiyah_i",
+    "type": "enemy",
+    "strength": 1.0,
+    "confidence": 1.0,
+    "reason": "Ali and Muawiyah I fought the First Islamic Civil War; Muawiyah challenged Ali's caliphate, leading to the Battle of Siffin (657) and the permanent Sunni-Shia split in Islam."
+  },
+  {
+    "source_id": "ali",
+    "target_id": "aisha",
+    "type": "enemy",
+    "strength": 0.9,
+    "confidence": 0.95,
+    "reason": "Ali and Aisha (the Prophet's widow) fought each other at the Battle of the Camel in 656, the first armed conflict among Muslims; Ali's victory and Aisha's capture marked a pivotal rupture in early Islamic history."
+  },
+  {
+    "source_id": "william_mckinley",
+    "target_id": "theodore_roosevelt",
+    "type": "predecessor",
+    "strength": 0.9,
+    "confidence": 1.0,
+    "reason": "McKinley chose Roosevelt as his Vice President in 1900; after McKinley's assassination in September 1901, Roosevelt succeeded him as President of the United States."
+  },
+  {
+    "source_id": "gioachino_rossini",
+    "target_id": "giuseppe_verdi",
+    "type": "mentor",
+    "strength": 0.75,
+    "confidence": 0.8,
+    "reason": "Rossini was the towering figure of Italian opera whom Verdi revered; they met briefly near the end of Rossini's life, Verdi organized a collective Requiem in Rossini's memory, and Rossini's tradition defined the framework Verdi both inherited and transformed."
+  },
+  {
+    "source_id": "giuseppe_garibaldi",
+    "target_id": "giuseppe_verdi",
+    "type": "ally",
+    "strength": 0.7,
+    "confidence": 0.8,
+    "reason": "Garibaldi and Verdi were fellow champions of Italian unification; Verdi's operas served as nationalist rallying cries, he corresponded with Garibaldi, and his fame was weaponized as an acrostic for 'Vittorio Emanuele Re D'Italia' during the Risorgimento."
+  },
+  {
+    "source_id": "giuseppe_verdi",
+    "target_id": "giacomo_puccini",
+    "type": "mentor",
+    "strength": 0.7,
+    "confidence": 0.8,
+    "reason": "Verdi evaluated Puccini's early operas and expressed admiration for his talent; as the reigning master of Italian opera, Verdi's endorsement helped establish Puccini's career as his successor in the tradition."
+  },
+  {
+    "source_id": "abu_bakr",
+    "target_id": "umar",
+    "type": "predecessor",
+    "strength": 0.95,
+    "confidence": 1.0,
+    "reason": "Abu Bakr was the first Caliph and directly preceded Umar; on his deathbed Abu Bakr nominated Umar as his successor, and Umar went on to vastly expand the Islamic caliphate during his reign from 634 to 644."
+  },
+  {
+    "source_id": "umar",
+    "target_id": "uthman",
+    "type": "predecessor",
+    "strength": 0.9,
+    "confidence": 1.0,
+    "reason": "Umar preceded Uthman as the second Caliph; before his death Umar appointed a six-man shura (consultative council) that selected Uthman as his successor in 644."
+  },
+  {
+    "source_id": "heraclius",
+    "target_id": "umar",
+    "type": "enemy",
+    "strength": 0.9,
+    "confidence": 0.95,
+    "reason": "Heraclius's Byzantine Empire lost Syria, Palestine, and Egypt to the Muslim armies during Umar's caliphate; the Islamic conquests under Umar's direction fundamentally dismembered the Byzantine Empire's richest eastern provinces."
+  },
+  {
+    "source_id": "umar",
+    "target_id": "ali",
+    "type": "ally",
+    "strength": 0.75,
+    "confidence": 0.85,
+    "reason": "Umar and Ali worked closely together during Umar's caliphate; Ali served as a key legal and religious adviser, and Umar reportedly acknowledged that Ali's counsel was indispensable to his rule."
+  },
+  {
+    "source_id": "louis_pasteur",
+    "target_id": "robert_koch",
+    "type": "rival",
+    "strength": 0.9,
+    "confidence": 0.95,
+    "reason": "Pasteur and Koch competed fiercely over priority in establishing the germ theory of disease; their rivalry was intensified by the Franco-Prussian War and they publicly attacked each other's methods and findings."
+  },
+  {
+    "source_id": "louis_pasteur",
+    "target_id": "joseph_lister",
+    "type": "mentor",
+    "strength": 0.85,
+    "confidence": 0.9,
+    "reason": "Lister developed antiseptic surgical techniques directly inspired by Pasteur's germ theory; Lister publicly credited Pasteur and they met at Pasteur's jubilee in 1892, where Lister embraced him before a large audience."
+  },
+  {
+    "source_id": "tycho_brahe",
+    "target_id": "johannes_kepler",
+    "type": "mentor",
+    "strength": 1.0,
+    "confidence": 1.0,
+    "reason": "Kepler worked as Tycho Brahe's assistant in Prague and inherited his astronomical data; Tycho's precise planetary observations, which Kepler used after Tycho's death, were the empirical foundation for Kepler's three laws of planetary motion."
+  },
+  {
+    "source_id": "rudolf_ii,_holy_roman_emperor",
+    "target_id": "johannes_kepler",
+    "type": "patron",
+    "strength": 0.85,
+    "confidence": 0.95,
+    "reason": "Rudolf II appointed Kepler as Imperial Mathematician in Prague in 1601, providing him court patronage and resources; Kepler named his landmark planetary tables the 'Rudolphine Tables' in the emperor's honor."
+  },
+  {
+    "source_id": "george_v",
+    "target_id": "edward_viii",
+    "type": "predecessor",
+    "strength": 0.95,
+    "confidence": 1.0,
+    "reason": "George V was Edward VIII's father and the British monarch who directly preceded him; Edward became King on George V's death in January 1936 and abdicated eleven months later."
+  },
+  {
+    "source_id": "edward_viii",
+    "target_id": "wallis_simpson",
+    "type": "spouse",
+    "strength": 1.0,
+    "confidence": 1.0,
+    "reason": "Edward VIII abdicated the British throne in December 1936 specifically to marry the twice-divorced American Wallis Simpson, marrying her in June 1937 in one of the 20th century's most famous royal love stories."
+  },
+  {
+    "source_id": "mary_of_teck",
+    "target_id": "edward_viii",
+    "type": "family",
+    "strength": 0.8,
+    "confidence": 1.0,
+    "reason": "Queen Mary was Edward VIII's mother; she deeply opposed his relationship with Wallis Simpson and his abdication, creating a lasting estrangement between them that defined her final decades."
+  },
+  {
+    "source_id": "winston_churchill",
+    "target_id": "edward_viii",
+    "type": "ally",
+    "strength": 0.7,
+    "confidence": 0.85,
+    "reason": "Churchill was almost alone among senior politicians in supporting Edward VIII's right to remain king during the 1936 abdication crisis, publicly defending him in the House of Commons and maintaining a personal friendship."
+  },
+  {
+    "source_id": "abraham_lincoln",
+    "target_id": "ulysses_s._grant",
+    "type": "ally",
+    "strength": 0.95,
+    "confidence": 1.0,
+    "reason": "Lincoln appointed Grant as General-in-Chief of the Union Army in 1864 and worked closely with him to bring the Civil War to a successful close; Lincoln trusted Grant when others doubted him."
+  },
+  {
+    "source_id": "ulysses_s._grant",
+    "target_id": "mark_twain",
+    "type": "friend",
+    "strength": 0.8,
+    "confidence": 0.9,
+    "reason": "Grant and Twain were close friends; Twain's publishing company published Grant's 'Personal Memoirs' in 1885, which Grant completed while dying of throat cancer to provide for his family, and Twain later called them among the finest military memoirs ever written."
+  },
+  {
+    "source_id": "george_washington",
+    "target_id": "george_iii_of_the_united_kingdom",
+    "type": "enemy",
+    "strength": 0.95,
+    "confidence": 1.0,
+    "reason": "Washington led the American Revolution against George III's rule, commanding forces that defeated the British Army and securing American independence in the war against the Crown."
+  },
+  {
+    "source_id": "george_iii_of_the_united_kingdom",
+    "target_id": "thomas_jefferson",
+    "type": "enemy",
+    "strength": 0.9,
+    "confidence": 1.0,
+    "reason": "Jefferson authored the Declaration of Independence, which enumerated twenty-seven specific grievances against George III by name, casting him as the principal tyrant whose abuses justified American independence."
+  },
+  {
+    "source_id": "george_iii_of_the_united_kingdom",
+    "target_id": "george_iv_of_the_united_kingdom",
+    "type": "predecessor",
+    "strength": 0.9,
+    "confidence": 1.0,
+    "reason": "George III was the father of George IV and his predecessor on the British throne; George IV served as Prince Regent from 1811 when his father was declared permanently insane, then became King on George III's death in 1820."
+  },
+  {
+    "source_id": "frederick_the_great",
+    "target_id": "george_iii_of_the_united_kingdom",
+    "type": "ally",
+    "strength": 0.75,
+    "confidence": 0.9,
+    "reason": "Britain under George III subsidized Frederick the Great's Prussia during the Seven Years' War, making them the principal alliance in the conflict against France, Austria, and Russia."
+  },
+  {
+    "source_id": "jesus",
+    "target_id": "andrew_the_apostle",
+    "type": "teacher",
+    "strength": 1.0,
+    "confidence": 1.0,
+    "reason": "Andrew was one of the first two disciples Jesus called, becoming one of the twelve apostles and among Jesus's closest followers throughout his ministry."
+  },
+  {
+    "source_id": "john_the_baptist",
+    "target_id": "andrew_the_apostle",
+    "type": "teacher",
+    "strength": 0.75,
+    "confidence": 0.85,
+    "reason": "According to the Gospel of John, Andrew was a disciple of John the Baptist before following Jesus; John the Baptist pointed to Jesus and Andrew then transferred his discipleship."
+  },
+  {
+    "source_id": "abu_bakr",
+    "target_id": "aisha",
+    "type": "family",
+    "strength": 1.0,
+    "confidence": 1.0,
+    "reason": "Aisha was Abu Bakr's daughter; he gave her in marriage to the Prophet Muhammad, and she later became one of the most influential figures in early Islam, transmitting thousands of hadiths after both her father and husband died."
+  },
+  {
+    "source_id": "abu_bakr",
+    "target_id": "bilal_ibn_rabah",
+    "type": "patron",
+    "strength": 0.9,
+    "confidence": 1.0,
+    "reason": "Abu Bakr purchased Bilal ibn Rabah from his master and freed him from slavery after Bilal was tortured for converting to Islam, enabling Bilal to become the first muezzin and one of the most honored companions of Muhammad."
+  },
+  {
+    "source_id": "abu_bakr",
+    "target_id": "ali",
+    "type": "rival",
+    "strength": 0.85,
+    "confidence": 0.9,
+    "reason": "Abu Bakr's election as the first Caliph after Muhammad's death was disputed by Ali's supporters who believed Ali was the rightful successor; this succession conflict became the foundational schism dividing Sunni and Shia Islam."
+  },
+  {
+    "source_id": "abu_bakr",
+    "target_id": "fatimah",
+    "type": "rival",
+    "strength": 0.75,
+    "confidence": 0.9,
+    "reason": "Abu Bakr refused Fatimah's claim to inherit the oasis of Fadak from her father Muhammad, citing a hadith that prophets leave no inheritance; Fatimah died months later reportedly without forgiving him, a grievance central to Shia historical memory."
+  },
+  {
+    "source_id": "zechariah_(new_testament_figure)",
+    "target_id": "john_the_baptist",
+    "type": "family",
+    "strength": 1.0,
+    "confidence": 1.0,
+    "reason": "Zechariah was John the Baptist's father; according to the Gospel of Luke, an angel announced John's birth to Zechariah while he served as a priest in the Temple, and Zechariah was struck mute until the child was named John."
+  },
+  {
+    "source_id": "elizabeth_(biblical_figure)",
+    "target_id": "john_the_baptist",
+    "type": "family",
+    "strength": 1.0,
+    "confidence": 1.0,
+    "reason": "Elizabeth was John the Baptist's mother; according to the Gospel of Luke, she was a relative of Mary (mother of Jesus) and conceived John in old age, with her pregnancy seen as a divine sign prefiguring Jesus's birth."
+  },
+  {
+    "source_id": "thales_of_miletus",
+    "target_id": "anaximander",
+    "type": "teacher",
+    "strength": 0.9,
+    "confidence": 0.9,
+    "reason": "Anaximander was Thales's student and successor as the head of the Milesian philosophical school, developing Thales's materialist approach into his own theory of the apeiron as the fundamental substance of reality."
+  },
+  {
+    "source_id": "xenophanes",
+    "target_id": "heraclitus",
+    "type": "rival",
+    "strength": 0.65,
+    "confidence": 0.8,
+    "reason": "Heraclitus explicitly criticized Xenophanes by name in his fragments as an example of worthless polymathy, stating that much learning does not teach wisdom; they represent competing visions of philosophical inquiry in early Greek thought."
+  },
+  {
+    "source_id": "helena_(empress)",
+    "target_id": "constantine_the_great",
+    "type": "family",
+    "strength": 0.9,
+    "confidence": 1.0,
+    "reason": "Helena was Constantine the Great's mother; her conversion to Christianity and famous pilgrimage to Jerusalem, where she reportedly discovered the True Cross, became a model of imperial Christian piety that closely mirrored her son's religious transformation of the Empire."
+  },
+  {
+    "source_id": "diocletian",
+    "target_id": "constantine_the_great",
+    "type": "predecessor",
+    "strength": 0.85,
+    "confidence": 0.9,
+    "reason": "Diocletian was the senior Roman Emperor who preceded Constantine; Constantine served at Diocletian's court before rising to power through the tetrarchic system Diocletian had established, ultimately reunifying the empire Diocletian had divided."
+  },
+  {
+    "source_id": "arius",
+    "target_id": "constantine_the_great",
+    "type": "rival",
+    "strength": 0.85,
+    "confidence": 0.9,
+    "reason": "Constantine convened the Council of Nicaea in 325 CE specifically to resolve the Arian controversy, personally presiding over the council that condemned Arius's theology and exiled him, though Constantine later vacillated and recalled Arius before his death."
+  },
+  {
+    "source_id": "eusebius",
+    "target_id": "constantine_the_great",
+    "type": "ally",
+    "strength": 0.85,
+    "confidence": 0.9,
+    "reason": "Eusebius of Caesarea served as Constantine's court bishop and chief religious advisor, participated in the Council of Nicaea, and wrote the 'Life of Constantine,' which became the primary historical source for Constantine's reign and religious conversion."
+  },
+  {
+    "source_id": "samuel",
+    "target_id": "david",
+    "type": "mentor",
+    "strength": 0.9,
+    "confidence": 0.85,
+    "reason": "Samuel the prophet secretly anointed the young David as the future king of Israel while Saul still reigned, thereby choosing and spiritually authorizing David's rise to power and royal destiny."
+  },
+  {
+    "source_id": "saul",
+    "target_id": "david",
+    "type": "enemy",
+    "strength": 0.9,
+    "confidence": 0.85,
+    "reason": "After David slew Goliath and won popular acclaim, Saul became consumed by jealousy and made repeated attempts on David's life, forcing David to live as a fugitive for years before Saul's death in battle allowed David to become king."
   }
 ]
