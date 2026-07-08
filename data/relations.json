@@ -4334,5 +4334,541 @@
     "strength": 0.7,
     "confidence": 0.9,
     "reason": "Ferdinand II of Aragon made Vespucci the first pilot major of Castile in 1508, charged with training pilots and keeping the master chart of the new discoveries."
+  },
+  {
+    "source_id": "eleanor_of_aquitaine",
+    "target_id": "richard_i_of_england",
+    "type": "family",
+    "strength": 0.9,
+    "confidence": 0.98,
+    "reason": "Eleanor of Aquitaine was Richard I's mother, ruled England as regent during his crusade, and personally negotiated his ransom from captivity."
+  },
+  {
+    "source_id": "richard_i_of_england",
+    "target_id": "philip_ii_of_france",
+    "type": "enemy",
+    "strength": 0.85,
+    "confidence": 0.95,
+    "reason": "Richard I and Philip II led the Third Crusade together but became bitter enemies, fighting a prolonged war over Richard's French territories until Richard's death."
+  },
+  {
+    "source_id": "joseph_stalin",
+    "target_id": "josip_broz_tito",
+    "type": "enemy",
+    "strength": 0.85,
+    "confidence": 0.95,
+    "reason": "The 1948 Tito-Stalin split expelled Yugoslavia from the Cominform, and Stalin repeatedly plotted to assassinate Tito."
+  },
+  {
+    "source_id": "winston_churchill",
+    "target_id": "josip_broz_tito",
+    "type": "ally",
+    "strength": 0.7,
+    "confidence": 0.9,
+    "reason": "Churchill switched Allied support to Tito's Partisans in 1943 and met him personally in Naples in 1944 to coordinate the war effort."
+  },
+  {
+    "source_id": "josip_broz_tito",
+    "target_id": "nikita_khrushchev",
+    "type": "ally",
+    "strength": 0.6,
+    "confidence": 0.9,
+    "reason": "Khrushchev traveled to Belgrade in 1955 to reconcile with Tito, ending the Soviet-Yugoslav split with the Belgrade Declaration."
+  },
+  {
+    "source_id": "fatimah",
+    "target_id": "hasan_ibn_ali",
+    "type": "family",
+    "strength": 0.85,
+    "confidence": 0.95,
+    "reason": "Fatimah was the mother of Hasan ibn Ali, through whom the Prophet Muhammad's lineage and the Shia imamate descended."
+  },
+  {
+    "source_id": "fatimah",
+    "target_id": "husayn_ibn_ali",
+    "type": "family",
+    "strength": 0.85,
+    "confidence": 0.95,
+    "reason": "Fatimah was the mother of Husayn ibn Ali, whose martyrdom at Karbala as the Prophet's grandson defines Shia Islam."
+  },
+  {
+    "source_id": "murad_ii",
+    "target_id": "vlad_the_impaler",
+    "type": "patron",
+    "strength": 0.6,
+    "confidence": 0.8,
+    "reason": "Murad II held the young Vlad hostage at the Ottoman court for years and in 1448 installed him on the Wallachian throne with Ottoman backing."
+  },
+  {
+    "source_id": "anaxagoras",
+    "target_id": "pericles",
+    "type": "teacher",
+    "strength": 0.75,
+    "confidence": 0.85,
+    "reason": "Anaxagoras was Pericles' teacher and closest intellectual adviser, and Pericles defended him when he was tried for impiety in Athens."
+  },
+  {
+    "source_id": "pericles",
+    "target_id": "aspasia",
+    "type": "romantic",
+    "strength": 0.85,
+    "confidence": 0.95,
+    "reason": "Aspasia was Pericles' lifelong companion and the mother of his son; their union was the most famous partnership in classical Athens."
+  },
+  {
+    "source_id": "pericles",
+    "target_id": "phidias",
+    "type": "patron",
+    "strength": 0.8,
+    "confidence": 0.9,
+    "reason": "Pericles put his friend Phidias in charge of the Acropolis building program, commissioning the Parthenon sculptures and the statue of Athena."
+  },
+  {
+    "source_id": "catherine_of_aragon",
+    "target_id": "anne_boleyn",
+    "type": "rival",
+    "strength": 0.85,
+    "confidence": 0.95,
+    "reason": "Anne Boleyn displaced Catherine of Aragon as Henry VIII's queen, and the struggle over Catherine's annulment triggered the English Reformation."
+  },
+  {
+    "source_id": "queen_victoria",
+    "target_id": "albert,_prince_consort",
+    "type": "spouse",
+    "strength": 0.95,
+    "confidence": 1.0,
+    "reason": "Albert was Victoria's husband and closest political adviser; his death in 1861 sent her into decades of mourning that defined her reign."
+  },
+  {
+    "source_id": "queen_victoria",
+    "target_id": "alexandra_feodorovna_(alix_of_hesse)",
+    "type": "family",
+    "strength": 0.6,
+    "confidence": 0.9,
+    "reason": "Victoria helped raise her granddaughter Alix of Hesse after her mother's death, and through her Victoria's hemophilia gene passed to the Russian imperial family."
+  },
+  {
+    "source_id": "septimius_severus",
+    "target_id": "geta_(emperor)",
+    "type": "family",
+    "strength": 0.7,
+    "confidence": 0.95,
+    "reason": "Septimius Severus was Geta's father and raised him to co-emperor in 209, hoping his sons would rule jointly after his death."
+  },
+  {
+    "source_id": "caracalla",
+    "target_id": "geta_(emperor)",
+    "type": "rival",
+    "strength": 0.85,
+    "confidence": 0.95,
+    "reason": "Brothers Caracalla and Geta ruled as hostile co-emperors after their father's death until Caracalla had Geta murdered in their mother's arms in 211."
+  },
+  {
+    "source_id": "tiberius",
+    "target_id": "caligula",
+    "type": "predecessor",
+    "strength": 0.8,
+    "confidence": 0.95,
+    "reason": "Caligula lived under Tiberius's watch on Capri as his adopted grandson and directly succeeded him as Roman emperor in 37."
+  },
+  {
+    "source_id": "caligula",
+    "target_id": "claudius",
+    "type": "predecessor",
+    "strength": 0.75,
+    "confidence": 0.95,
+    "reason": "Caligula's uncle Claudius was proclaimed emperor by the Praetorian Guard immediately after Caligula's assassination in 41."
+  },
+  {
+    "source_id": "herod_agrippa",
+    "target_id": "caligula",
+    "type": "friend",
+    "strength": 0.65,
+    "confidence": 0.85,
+    "reason": "Herod Agrippa was a close personal friend of Caligula, who freed him from Tiberius's prison and made him king of Judean territories."
+  },
+  {
+    "source_id": "sun_yat-sen",
+    "target_id": "chiang_kai-shek",
+    "type": "mentor",
+    "strength": 0.85,
+    "confidence": 0.95,
+    "reason": "Sun Yat-sen was Chiang's political patron and mentor, appointing him commandant of the Whampoa Military Academy; Chiang succeeded him as leader of the Kuomintang."
+  },
+  {
+    "source_id": "chiang_kai-shek",
+    "target_id": "mao_zedong",
+    "type": "enemy",
+    "strength": 0.95,
+    "confidence": 0.98,
+    "reason": "Chiang Kai-shek and Mao Zedong fought the decades-long Chinese Civil War, which ended with Mao's communists taking the mainland and Chiang retreating to Taiwan in 1949."
+  },
+  {
+    "source_id": "franklin_d._roosevelt",
+    "target_id": "chiang_kai-shek",
+    "type": "ally",
+    "strength": 0.65,
+    "confidence": 0.9,
+    "reason": "Roosevelt backed Chiang's China as a key wartime ally against Japan and met him at the 1943 Cairo Conference to plan the postwar order in Asia."
+  },
+  {
+    "source_id": "septimius_severus",
+    "target_id": "caracalla",
+    "type": "family",
+    "strength": 0.8,
+    "confidence": 0.95,
+    "reason": "Septimius Severus was Caracalla's father, made him co-emperor as a boy, and on his deathbed advised him to enrich the soldiers and scorn everyone else."
+  },
+  {
+    "source_id": "caracalla",
+    "target_id": "macrinus",
+    "type": "predecessor",
+    "strength": 0.7,
+    "confidence": 0.9,
+    "reason": "Macrinus, Caracalla's praetorian prefect, arranged his assassination in 217 and directly succeeded him as Roman emperor."
+  },
+  {
+    "source_id": "franklin_d._roosevelt",
+    "target_id": "eleanor_roosevelt",
+    "type": "spouse",
+    "strength": 0.95,
+    "confidence": 1.0,
+    "reason": "Eleanor was FDR's wife and political partner, acting as his eyes and ears across the country and transforming the role of First Lady during his four terms."
+  },
+  {
+    "source_id": "theodore_roosevelt",
+    "target_id": "eleanor_roosevelt",
+    "type": "family",
+    "strength": 0.6,
+    "confidence": 0.95,
+    "reason": "Theodore Roosevelt was Eleanor's uncle and gave her away at her 1905 wedding to Franklin, anchoring her in the family's political tradition."
+  },
+  {
+    "source_id": "harry_s._truman",
+    "target_id": "eleanor_roosevelt",
+    "type": "ally",
+    "strength": 0.6,
+    "confidence": 0.85,
+    "reason": "Truman appointed Eleanor Roosevelt to the US delegation to the United Nations, where she chaired the commission that drafted the Universal Declaration of Human Rights."
+  },
+  {
+    "source_id": "michael_faraday",
+    "target_id": "william_thomson,_1st_baron_kelvin",
+    "type": "collaborator",
+    "strength": 0.55,
+    "confidence": 0.8,
+    "reason": "Kelvin's 1845 letter suggesting an experiment on light and magnetism led Faraday directly to discover the magneto-optic Faraday effect, and the two exchanged scientific ideas for decades."
+  },
+  {
+    "source_id": "antoine_lavoisier",
+    "target_id": "pierre-simon_laplace",
+    "type": "collaborator",
+    "strength": 0.7,
+    "confidence": 0.9,
+    "reason": "Lavoisier and Laplace built an ice calorimeter together and co-authored the 1783 'Memoire sur la chaleur', founding the science of calorimetry."
+  },
+  {
+    "source_id": "benjamin_franklin",
+    "target_id": "antoine_lavoisier",
+    "type": "collaborator",
+    "strength": 0.55,
+    "confidence": 0.85,
+    "reason": "Franklin and Lavoisier served together on the 1784 French royal commission that investigated and debunked Mesmer's animal magnetism."
+  },
+  {
+    "source_id": "george_washington",
+    "target_id": "gilbert_du_motier,_marquis_de_lafayette",
+    "type": "mentor",
+    "strength": 0.85,
+    "confidence": 0.95,
+    "reason": "Washington took the young Lafayette under his wing as a surrogate son and protege, commanding him through the Revolutionary War from Valley Forge to Yorktown."
+  },
+  {
+    "source_id": "paul_cézanne",
+    "target_id": "pierre-auguste_renoir",
+    "type": "friend",
+    "strength": 0.6,
+    "confidence": 0.85,
+    "reason": "Renoir and Cezanne were close friends from the Impressionist circle who repeatedly stayed and painted together in Provence in the 1880s."
+  },
+  {
+    "source_id": "pope_pius_x",
+    "target_id": "pope_benedict_xv",
+    "type": "predecessor",
+    "strength": 0.8,
+    "confidence": 1.0,
+    "reason": "Pius X was the direct predecessor of Benedict XV, who was elected pope weeks after Pius X's death at the outbreak of the First World War."
+  },
+  {
+    "source_id": "pope_anacletus",
+    "target_id": "pope_clement_i",
+    "type": "predecessor",
+    "strength": 0.7,
+    "confidence": 0.9,
+    "reason": "In the traditional papal succession Anacletus was the direct predecessor of Clement I, the fourth bishop of Rome."
+  },
+  {
+    "source_id": "saint_peter",
+    "target_id": "pope_clement_i",
+    "type": "mentor",
+    "strength": 0.6,
+    "confidence": 0.7,
+    "reason": "Early Christian tradition holds that Clement knew the apostles and was personally ordained by Peter, whose Roman church he later led."
+  },
+  {
+    "source_id": "pope_benedict_xv",
+    "target_id": "pope_pius_xii",
+    "type": "patron",
+    "strength": 0.6,
+    "confidence": 0.9,
+    "reason": "Benedict XV personally consecrated Eugenio Pacelli bishop in 1917 and sent him as nuncio to Bavaria, launching the diplomatic career that carried him to the papacy as Pius XII."
+  },
+  {
+    "source_id": "constantine_the_great",
+    "target_id": "julian_(emperor)",
+    "type": "family",
+    "strength": 0.65,
+    "confidence": 0.9,
+    "reason": "Julian was Constantine the Great's nephew and the last emperor of his dynasty, famous for trying to reverse his uncle's Christianization of the empire."
+  },
+  {
+    "source_id": "gregory_of_nazianzus",
+    "target_id": "julian_(emperor)",
+    "type": "enemy",
+    "strength": 0.55,
+    "confidence": 0.8,
+    "reason": "Gregory of Nazianzus studied alongside Julian in Athens and later wrote his famous invectives against Julian's pagan revival and his ban on Christian teachers."
+  },
+  {
+    "source_id": "amenhotep_iii",
+    "target_id": "akhenaten",
+    "type": "predecessor",
+    "strength": 0.8,
+    "confidence": 0.9,
+    "reason": "Amenhotep III was Akhenaten's father and immediate predecessor as pharaoh, whose traditional solar court Akhenaten transformed into the revolutionary Aten cult."
+  },
+  {
+    "source_id": "joseph_stalin",
+    "target_id": "franklin_d._roosevelt",
+    "type": "ally",
+    "strength": 0.8,
+    "confidence": 0.95,
+    "reason": "Stalin and Roosevelt were two of the Big Three Allied leaders of WWII, meeting at Tehran and Yalta to coordinate the war against Germany and design the postwar order."
+  },
+  {
+    "source_id": "theodore_roosevelt",
+    "target_id": "franklin_d._roosevelt",
+    "type": "family",
+    "strength": 0.7,
+    "confidence": 0.95,
+    "reason": "Theodore Roosevelt was FDR's fifth cousin and political role model; FDR married Theodore's niece Eleanor and consciously followed his path to the presidency."
+  },
+  {
+    "source_id": "franklin_d._roosevelt",
+    "target_id": "harry_s._truman",
+    "type": "predecessor",
+    "strength": 0.75,
+    "confidence": 1.0,
+    "reason": "Truman was FDR's fourth-term vice president and succeeded to the presidency on Roosevelt's death in April 1945, inheriting the war's endgame and the atomic bomb decision."
+  },
+  {
+    "source_id": "franklin_d._roosevelt",
+    "target_id": "adolf_hitler",
+    "type": "enemy",
+    "strength": 0.85,
+    "confidence": 0.95,
+    "reason": "Roosevelt and Hitler led opposing sides of the Second World War in Europe, with Hitler declaring war on the United States in December 1941."
+  },
+  {
+    "source_id": "benjamin_franklin",
+    "target_id": "david_hume",
+    "type": "friend",
+    "strength": 0.5,
+    "confidence": 0.8,
+    "reason": "Franklin stayed as Hume's houseguest in Edinburgh and the two maintained a warm friendship and scientific-philosophical correspondence."
+  },
+  {
+    "source_id": "benjamin_franklin",
+    "target_id": "louis_xvi_of_france",
+    "type": "ally",
+    "strength": 0.65,
+    "confidence": 0.85,
+    "reason": "As American envoy Franklin negotiated the 1778 Treaty of Alliance with Louis XVI, whose military support proved decisive for American independence."
+  },
+  {
+    "source_id": "nerva",
+    "target_id": "trajan",
+    "type": "predecessor",
+    "strength": 0.8,
+    "confidence": 0.95,
+    "reason": "Nerva adopted the general Trajan as his heir to secure the army's loyalty and was directly succeeded by him, beginning the era of the adoptive 'Five Good Emperors'."
+  },
+  {
+    "source_id": "trajan",
+    "target_id": "hadrian",
+    "type": "predecessor",
+    "strength": 0.8,
+    "confidence": 0.95,
+    "reason": "Trajan was Hadrian's guardian and kinsman who advanced his career; Hadrian succeeded him as emperor in 117 amid claims of a deathbed adoption."
+  },
+  {
+    "source_id": "frederick_i,_holy_roman_emperor",
+    "target_id": "saladin",
+    "type": "enemy",
+    "strength": 0.6,
+    "confidence": 0.85,
+    "reason": "After Saladin captured Jerusalem, Frederick Barbarossa sent him a formal declaration of war and led the Third Crusade against him, drowning on the march in 1190."
+  },
+  {
+    "source_id": "hurrem_sultan",
+    "target_id": "selim_ii",
+    "type": "family",
+    "strength": 0.7,
+    "confidence": 0.95,
+    "reason": "Hurrem Sultan was Selim II's mother and worked within the palace to steer the Ottoman succession toward her own sons."
+  },
+  {
+    "source_id": "selim_ii",
+    "target_id": "nurbanu_sultan",
+    "type": "spouse",
+    "strength": 0.7,
+    "confidence": 0.9,
+    "reason": "Nurbanu Sultan was Selim II's favorite and legal wife, wielding great influence at his court and founding the era of the 'Sultanate of Women' as valide sultan."
+  },
+  {
+    "source_id": "selim_ii",
+    "target_id": "murad_iii",
+    "type": "predecessor",
+    "strength": 0.75,
+    "confidence": 1.0,
+    "reason": "Selim II was the father and direct predecessor of Murad III, who succeeded him as Ottoman Sultan in 1574."
+  },
+  {
+    "source_id": "selim_ii",
+    "target_id": "mimar_sinan",
+    "type": "patron",
+    "strength": 0.7,
+    "confidence": 0.9,
+    "reason": "Selim II commissioned Mimar Sinan to build the Selimiye Mosque in Edirne, which Sinan himself regarded as his masterpiece."
+  },
+  {
+    "source_id": "frederick_the_great",
+    "target_id": "joseph_ii,_holy_roman_emperor",
+    "type": "rival",
+    "strength": 0.6,
+    "confidence": 0.85,
+    "reason": "Joseph II admired and consciously imitated Frederick the Great, met him twice, and then fought him in the War of the Bavarian Succession as they competed for leadership in Germany."
+  },
+  {
+    "source_id": "robert_schumann",
+    "target_id": "johannes_brahms",
+    "type": "mentor",
+    "strength": 0.9,
+    "confidence": 0.98,
+    "reason": "Schumann hailed the twenty-year-old Brahms as music's coming genius in his 1853 article 'Neue Bahnen' and launched his career by introducing him to publishers."
+  },
+  {
+    "source_id": "clara_schumann",
+    "target_id": "johannes_brahms",
+    "type": "friend",
+    "strength": 0.9,
+    "confidence": 0.95,
+    "reason": "Clara Schumann and Brahms shared a passionate, lifelong friendship from Robert's collapse until her death, exchanging letters and championing each other's music for over forty years."
+  },
+  {
+    "source_id": "franz_liszt",
+    "target_id": "johannes_brahms",
+    "type": "rival",
+    "strength": 0.55,
+    "confidence": 0.85,
+    "reason": "Brahms publicly signed the 1860 manifesto against the New German School led by Liszt, cementing their positions on opposite sides of the War of the Romantics."
+  },
+  {
+    "source_id": "johannes_brahms",
+    "target_id": "antonín_dvořák",
+    "type": "mentor",
+    "strength": 0.75,
+    "confidence": 0.95,
+    "reason": "Brahms discovered Dvorak through the Austrian State Stipendium jury, recommended him to his publisher Simrock, and guided his rise to international fame."
+  },
+  {
+    "source_id": "george_bernard_shaw",
+    "target_id": "h._g._wells",
+    "type": "rival",
+    "strength": 0.6,
+    "confidence": 0.85,
+    "reason": "Wells and Shaw were friendly antagonists for half a century, most famously when Wells tried to seize control of the Fabian Society from Shaw's old guard and was outmaneuvered."
+  },
+  {
+    "source_id": "thomas_hobbes",
+    "target_id": "rené_descartes",
+    "type": "rival",
+    "strength": 0.65,
+    "confidence": 0.9,
+    "reason": "Hobbes wrote the hostile Third Set of Objections to Descartes' Meditations, and the two philosophers carried on an acrimonious dispute over materialism and the foundations of knowledge."
+  },
+  {
+    "source_id": "thomas_hobbes",
+    "target_id": "charles_ii_of_england",
+    "type": "teacher",
+    "strength": 0.7,
+    "confidence": 0.9,
+    "reason": "Hobbes tutored the exiled future Charles II in mathematics in Paris, and as king Charles protected his old teacher with a pension when Leviathan drew charges of atheism."
+  },
+  {
+    "source_id": "thomas_hobbes",
+    "target_id": "robert_boyle",
+    "type": "rival",
+    "strength": 0.6,
+    "confidence": 0.9,
+    "reason": "Hobbes and Boyle fought a famous public controversy in the 1660s over Boyle's air-pump experiments and the existence of the vacuum, a defining dispute about experimental science."
+  },
+  {
+    "source_id": "mikhail_bakunin",
+    "target_id": "friedrich_engels",
+    "type": "rival",
+    "strength": 0.55,
+    "confidence": 0.85,
+    "reason": "Engels led the Marxist campaign against Bakunin's anarchist faction in the First International, culminating in Bakunin's expulsion at the 1872 Hague Congress."
+  },
+  {
+    "source_id": "adolf_hitler",
+    "target_id": "francisco_franco",
+    "type": "ally",
+    "strength": 0.75,
+    "confidence": 0.95,
+    "reason": "Hitler's Condor Legion helped Franco win the Spanish Civil War, and the two dictators famously negotiated Spain's wartime role at Hendaye in 1940."
+  },
+  {
+    "source_id": "antónio_de_oliveira_salazar",
+    "target_id": "francisco_franco",
+    "type": "ally",
+    "strength": 0.6,
+    "confidence": 0.9,
+    "reason": "Salazar and Franco, the two Iberian dictators, signed the 1939 Iberian Pact and coordinated to keep the peninsula out of the Second World War."
+  },
+  {
+    "source_id": "pablo_picasso",
+    "target_id": "francisco_franco",
+    "type": "enemy",
+    "strength": 0.6,
+    "confidence": 0.85,
+    "reason": "Picasso became Franco's most famous artistic enemy, painting Guernica and the satirical 'Dream and Lie of Franco' and refusing to set foot in Spain while Franco ruled."
+  },
+  {
+    "source_id": "justinian_i",
+    "target_id": "theodora_(6th_century)",
+    "type": "spouse",
+    "strength": 0.9,
+    "confidence": 0.98,
+    "reason": "Theodora was Justinian's wife and effective co-ruler, famously steeling him to stay and crush the Nika riots instead of fleeing Constantinople."
+  },
+  {
+    "source_id": "justinian_i",
+    "target_id": "belisarius",
+    "type": "patron",
+    "strength": 0.8,
+    "confidence": 0.95,
+    "reason": "Justinian entrusted Belisarius with the great campaigns to reconquer North Africa and Italy, alternately elevating and disgracing his most brilliant general."
   }
 ]
