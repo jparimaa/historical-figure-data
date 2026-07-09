@@ -5598,5 +5598,493 @@
     "strength": 0.7,
     "confidence": 0.9,
     "reason": "Pius V organized the Holy League with Philip II and Venice against the Ottoman Empire, an alliance that achieved the decisive naval victory at the Battle of Lepanto in 1571."
+  },
+  {
+    "source_id": "hurrem_sultan",
+    "target_id": "şehzade_mustafa",
+    "type": "enemy",
+    "strength": 0.8,
+    "confidence": 0.8,
+    "reason": "Hurrem is widely held to have conspired with Rustem Pasha to convince Suleiman that his popular eldest son Mustafa, born to a rival consort, was plotting treason, leading to Suleiman ordering his strangulation in 1553 to secure succession for her own sons."
+  },
+  {
+    "source_id": "pargalı_ibrahim_pasha",
+    "target_id": "hurrem_sultan",
+    "type": "rival",
+    "strength": 0.65,
+    "confidence": 0.7,
+    "reason": "Hurrem and Suleiman's powerful Grand Vizier Ibrahim Pasha competed for the sultan's favor at court, a rivalry historians link to Ibrahim's sudden execution in 1536."
+  },
+  {
+    "source_id": "pope_pius_viii",
+    "target_id": "pope_gregory_xvi",
+    "type": "predecessor",
+    "strength": 0.5,
+    "confidence": 0.9,
+    "reason": "Gregory XVI was elected pope in 1831 following the death of Pius VIII the previous year."
+  },
+  {
+    "source_id": "pope_gregory_xvi",
+    "target_id": "klemens_von_metternich",
+    "type": "ally",
+    "strength": 0.6,
+    "confidence": 0.85,
+    "reason": "Gregory XVI relied on Metternich's Austria to send troops that crushed the 1831 liberal uprisings in the Papal States, part of their shared conservative front against revolutionary movements in Italy."
+  },
+  {
+    "source_id": "genghis_khan",
+    "target_id": "hulagu_khan",
+    "type": "family",
+    "strength": 0.6,
+    "confidence": 0.85,
+    "reason": "Hulagu was Genghis Khan's grandson through Tolui, inheriting command of the western Mongol armies that he used to found the Ilkhanate in Persia and the Middle East."
+  },
+  {
+    "source_id": "möngke_khan",
+    "target_id": "hulagu_khan",
+    "type": "family",
+    "strength": 0.7,
+    "confidence": 0.85,
+    "reason": "Great Khan Mongke personally dispatched his brother Hulagu on the westward campaign that destroyed the Abbasid Caliphate at Baghdad in 1258 and established the Ilkhanate."
+  },
+  {
+    "source_id": "kublai_khan",
+    "target_id": "hulagu_khan",
+    "type": "ally",
+    "strength": 0.55,
+    "confidence": 0.75,
+    "reason": "During the Toluid Civil War following Mongke's death, Hulagu backed his brother Kublai's claim to be Great Khan over their brother Ariq Boke, helping legitimize Kublai's rule."
+  },
+  {
+    "source_id": "mehmed_i",
+    "target_id": "murad_ii",
+    "type": "predecessor",
+    "strength": 0.6,
+    "confidence": 0.9,
+    "reason": "Murad II succeeded his father Mehmed I as Ottoman Sultan upon his death in 1421."
+  },
+  {
+    "source_id": "murad_ii",
+    "target_id": "skanderbeg",
+    "type": "enemy",
+    "strength": 0.75,
+    "confidence": 0.9,
+    "reason": "Skanderbeg led a prolonged Albanian revolt against Ottoman rule beginning in 1443, repeatedly defeating Murad II's forces and personally repelling the sultan's own siege of Kruje in 1450."
+  },
+  {
+    "source_id": "bartolomeu_dias",
+    "target_id": "christopher_columbus",
+    "type": "rival",
+    "strength": 0.45,
+    "confidence": 0.65,
+    "reason": "Columbus was reportedly present at the Portuguese court in December 1488 when Dias returned from rounding the Cape of Good Hope, a triumph that helped doom Columbus's westward proposal there and pushed him to seek Spanish backing instead."
+  },
+  {
+    "source_id": "bartolomeu_dias",
+    "target_id": "pedro_álvares_cabral",
+    "type": "collaborator",
+    "strength": 0.6,
+    "confidence": 0.85,
+    "reason": "Dias commanded a ship in Cabral's 1500 fleet to India, the voyage that incidentally discovered Brazil, and died when a storm sank four of the fleet's ships off the Cape of Good Hope."
+  },
+  {
+    "source_id": "louis_xvi_of_france",
+    "target_id": "louis_xviii_of_france",
+    "type": "family",
+    "strength": 0.7,
+    "confidence": 0.9,
+    "reason": "Louis XVIII fled France as his older brother Louis XVI was arrested and executed during the Revolution, spending decades in exile before eventually reclaiming the throne their family had lost."
+  },
+  {
+    "source_id": "louis_xviii_of_france",
+    "target_id": "charles_x_of_france",
+    "type": "predecessor",
+    "strength": 0.6,
+    "confidence": 0.9,
+    "reason": "Charles X succeeded his older brother Louis XVIII as King of France upon his death in 1824."
+  },
+  {
+    "source_id": "louis_xviii_of_france",
+    "target_id": "napoleon",
+    "type": "enemy",
+    "strength": 0.8,
+    "confidence": 0.9,
+    "reason": "Louis XVIII was restored to the French throne after Napoleon's 1814 abdication, only to flee again when Napoleon returned during the Hundred Days, before reclaiming his throne for good after Waterloo."
+  },
+  {
+    "source_id": "louis_xviii_of_france",
+    "target_id": "louis_xvii_of_france",
+    "type": "family",
+    "strength": 0.5,
+    "confidence": 0.8,
+    "reason": "Louis XVIII recognized his young imprisoned nephew as the rightful King Louis XVII from exile, only assuming the royal title and numbering himself after the boy's death in captivity in 1795."
+  },
+  {
+    "source_id": "sulla",
+    "target_id": "marcus_licinius_crassus",
+    "type": "mentor",
+    "strength": 0.6,
+    "confidence": 0.8,
+    "reason": "Crassus served under Sulla in the civil war, playing a key role in the decisive Battle of the Colline Gate in 82 BCE, and built the foundation of his enormous fortune buying up properties confiscated in Sulla's proscriptions."
+  },
+  {
+    "source_id": "herod_agrippa",
+    "target_id": "claudius",
+    "type": "friend",
+    "strength": 0.7,
+    "confidence": 0.85,
+    "reason": "Herod Agrippa, raised alongside Claudius in Rome, personally negotiated with the Senate on his behalf after Caligula's assassination in 41, helping secure his acclamation as emperor."
+  },
+  {
+    "source_id": "claudius",
+    "target_id": "vespasian",
+    "type": "patron",
+    "strength": 0.55,
+    "confidence": 0.8,
+    "reason": "Claudius gave Vespasian command of the Second Augusta Legion during the 43 CE invasion of Britain, the campaign that launched his military reputation and eventual path to the imperial throne."
+  },
+  {
+    "source_id": "nicholas_i_of_russia",
+    "target_id": "alexander_pushkin",
+    "type": "patron",
+    "strength": 0.6,
+    "confidence": 0.85,
+    "reason": "After the Decembrist uprising, Nicholas I personally appointed himself Pushkin's sole censor, granting him certain freedoms denied other writers while tightly controlling what he could publish."
+  },
+  {
+    "source_id": "alexander_pushkin",
+    "target_id": "nikolai_gogol",
+    "type": "mentor",
+    "strength": 0.65,
+    "confidence": 0.85,
+    "reason": "Pushkin befriended the younger Gogol and is credited with giving him the original plot ideas for both The Government Inspector and Dead Souls."
+  },
+  {
+    "source_id": "johann_strauss_i",
+    "target_id": "johann_strauss_ii",
+    "type": "family",
+    "strength": 0.65,
+    "confidence": 0.85,
+    "reason": "Johann Strauss I opposed his son's musical ambitions and competed with him as a rival orchestra leader in Vienna, but the younger Strauss ultimately eclipsed his father's fame as the 'Waltz King.'"
+  },
+  {
+    "source_id": "johann_strauss_ii",
+    "target_id": "johannes_brahms",
+    "type": "friend",
+    "strength": 0.7,
+    "confidence": 0.85,
+    "reason": "Strauss and Brahms were close friends and mutual admirers in Vienna; Brahms famously signed a fan's autograph book with a few bars of The Blue Danube captioned 'Unfortunately, not by Brahms.'"
+  },
+  {
+    "source_id": "jacques_offenbach",
+    "target_id": "johann_strauss_ii",
+    "type": "mentor",
+    "strength": 0.5,
+    "confidence": 0.7,
+    "reason": "Offenbach met Strauss in Vienna and encouraged him to try composing for the stage, advice that led Strauss toward the operettas, including Die Fledermaus, that became central to his legacy."
+  },
+  {
+    "source_id": "philip_ii_of_spain",
+    "target_id": "titian",
+    "type": "patron",
+    "strength": 0.75,
+    "confidence": 0.9,
+    "reason": "Philip II continued his father Charles V's patronage of Titian, commissioning the celebrated 'poesie' mythological paintings that occupied the artist for decades of his later career."
+  },
+  {
+    "source_id": "maria_montessori",
+    "target_id": "benito_mussolini",
+    "type": "enemy",
+    "strength": 0.6,
+    "confidence": 0.85,
+    "reason": "Mussolini's government initially funded and promoted Montessori's method as a point of national pride, but she refused to force fascist uniforms and salutes on her students, prompting Mussolini to shut down all Montessori schools in Italy in 1934 and drive her into exile."
+  },
+  {
+    "source_id": "mahatma_gandhi",
+    "target_id": "maria_montessori",
+    "type": "ally",
+    "strength": 0.45,
+    "confidence": 0.7,
+    "reason": "Gandhi visited Montessori's teacher training course in London in 1931 and expressed deep admiration for her method, forming a mutual regard rooted in their shared commitment to child-centered, humanitarian education."
+  },
+  {
+    "source_id": "hadrian",
+    "target_id": "antoninus_pius",
+    "type": "predecessor",
+    "strength": 0.8,
+    "confidence": 0.95,
+    "reason": "Hadrian adopted Antoninus Pius as his heir in 138 CE shortly before his death, on the condition that Antoninus in turn adopt Marcus Aurelius, securing the succession for decades to come."
+  },
+  {
+    "source_id": "auguste_rodin",
+    "target_id": "gustav_klimt",
+    "type": "friend",
+    "strength": 0.4,
+    "confidence": 0.65,
+    "reason": "Rodin visited the 1902 Vienna Secession exhibition to see Klimt's Beethoven Frieze displayed alongside his own sculptures, a visit Klimt described as deeply moving validation from a master he revered."
+  },
+  {
+    "source_id": "robert_schumann",
+    "target_id": "clara_schumann",
+    "type": "spouse",
+    "strength": 0.95,
+    "confidence": 1.0,
+    "reason": "Robert and Clara married in 1840 after a legal battle to overcome her father's fierce opposition, forming one of the era's great musical partnerships until Robert's institutionalization and death in the mid-1850s."
+  },
+  {
+    "source_id": "felix_mendelssohn",
+    "target_id": "robert_schumann",
+    "type": "friend",
+    "strength": 0.65,
+    "confidence": 0.85,
+    "reason": "Mendelssohn and Schumann were close friends and colleagues in Leipzig's musical life, with Mendelssohn conducting premieres of Schumann's works and both shaping the city's conservatory and concert scene together."
+  },
+  {
+    "source_id": "pope_alexander_vi",
+    "target_id": "pope_julius_ii",
+    "type": "enemy",
+    "strength": 0.75,
+    "confidence": 0.9,
+    "reason": "As Cardinal Giuliano della Rovere, the future Julius II was Alexander VI's fiercest rival and fled Rome fearing for his life during the Borgia pope's reign, later working to dismantle Borgia power once he himself became pope."
+  },
+  {
+    "source_id": "pope_julius_ii",
+    "target_id": "donato_bramante",
+    "type": "patron",
+    "strength": 0.85,
+    "confidence": 0.95,
+    "reason": "Julius II appointed Bramante as chief architect for his ambitious rebuilding of St. Peter's Basilica, begun in 1506, the most consequential architectural commission of the High Renaissance."
+  },
+  {
+    "source_id": "pope_julius_ii",
+    "target_id": "louis_xii_of_france",
+    "type": "enemy",
+    "strength": 0.65,
+    "confidence": 0.85,
+    "reason": "After allying with Louis XII against Venice in the League of Cambrai, Julius II reversed course and formed the Holy League to drive French forces out of Italy, famously declaring his intent to expel the 'barbarians.'"
+  },
+  {
+    "source_id": "pope_julius_ii",
+    "target_id": "pope_leo_x",
+    "type": "predecessor",
+    "strength": 0.5,
+    "confidence": 0.9,
+    "reason": "Giovanni de' Medici was elected Pope Leo X in 1513 immediately following Julius II's death."
+  },
+  {
+    "source_id": "albert_a._michelson",
+    "target_id": "albert_einstein",
+    "type": "friend",
+    "strength": 0.4,
+    "confidence": 0.65,
+    "reason": "Einstein visited the elderly Michelson in California in 1931, months before his death, paying tribute to the precision experiments whose null result had helped clear the way for special relativity."
+  },
+  {
+    "source_id": "parmenides",
+    "target_id": "zeno_of_elea",
+    "type": "teacher",
+    "strength": 0.75,
+    "confidence": 0.85,
+    "reason": "Zeno was Parmenides's most famous student, devising his celebrated paradoxes of motion specifically to defend his teacher's monist doctrine that reality is a single, unchanging whole."
+  },
+  {
+    "source_id": "euripides",
+    "target_id": "aristophanes",
+    "type": "rival",
+    "strength": 0.55,
+    "confidence": 0.75,
+    "reason": "Aristophanes repeatedly parodied Euripides as a clever but morally suspect innovator in comedies including Acharnians, Thesmophoriazusae, and Frogs, making him a recurring target of his comic satire."
+  },
+  {
+    "source_id": "aristophanes",
+    "target_id": "plato",
+    "type": "friend",
+    "strength": 0.5,
+    "confidence": 0.65,
+    "reason": "Plato, a younger contemporary in Athens's small literary circle, featured Aristophanes as a central and sympathetically drawn character in his Symposium, giving him the famous speech on the mythical origin of love."
+  },
+  {
+    "source_id": "hans_christian_andersen",
+    "target_id": "søren_kierkegaard",
+    "type": "rival",
+    "strength": 0.4,
+    "confidence": 0.7,
+    "reason": "Kierkegaard's first published work, a 1838 review of Andersen's novel Only a Fiddler, sharply criticized Andersen for lacking a coherent life-view, launching his career with a direct literary attack on his fellow Copenhagen writer."
+  },
+  {
+    "source_id": "pope_pius_v",
+    "target_id": "pope_gregory_xiii",
+    "type": "predecessor",
+    "strength": 0.5,
+    "confidence": 0.9,
+    "reason": "Gregory XIII was elected pope in 1572 following the death of Pius V."
+  },
+  {
+    "source_id": "pope_gregory_xiii",
+    "target_id": "pope_sixtus_v",
+    "type": "predecessor",
+    "strength": 0.5,
+    "confidence": 0.9,
+    "reason": "Sixtus V was elected pope in 1585 following the death of Gregory XIII."
+  },
+  {
+    "source_id": "pope_gregory_xiii",
+    "target_id": "catherine_de'_medici",
+    "type": "ally",
+    "strength": 0.6,
+    "confidence": 0.85,
+    "reason": "Gregory XIII celebrated Catherine de' Medici's orchestration of the 1572 St. Bartholomew's Day Massacre of Huguenots with a Te Deum mass and a commemorative medal, hailing it as a victory for the Catholic cause."
+  },
+  {
+    "source_id": "pope_gregory_xiii",
+    "target_id": "philip_ii_of_spain",
+    "type": "ally",
+    "strength": 0.6,
+    "confidence": 0.8,
+    "reason": "Gregory XIII backed Philip II's Counter-Reformation efforts, including support for plots against Elizabeth I of England and the suppression of the Protestant revolt in the Netherlands."
+  },
+  {
+    "source_id": "thomas_hardy",
+    "target_id": "virginia_woolf",
+    "type": "friend",
+    "strength": 0.4,
+    "confidence": 0.65,
+    "reason": "Woolf visited the elderly Hardy at Max Gate in 1926, recording the meeting in her diary as a memorable encounter with a writer she deeply admired."
+  },
+  {
+    "source_id": "charles_baudelaire",
+    "target_id": "édouard_manet",
+    "type": "friend",
+    "strength": 0.65,
+    "confidence": 0.85,
+    "reason": "Baudelaire and Manet were close companions in the Parisian avant-garde circle, and Manet painted portraits of Baudelaire and his mistress Jeanne Duval."
+  },
+  {
+    "source_id": "andré_gide",
+    "target_id": "marcel_proust",
+    "type": "friend",
+    "strength": 0.55,
+    "confidence": 0.8,
+    "reason": "As a reader for the NRF publishing house, Gide famously rejected the manuscript of Swann's Way in 1912, one of literary history's most regretted decisions, and later apologized profusely as the two became friends and mutual admirers."
+  },
+  {
+    "source_id": "marcel_proust",
+    "target_id": "jean_cocteau",
+    "type": "friend",
+    "strength": 0.5,
+    "confidence": 0.75,
+    "reason": "Proust and Cocteau moved in the same elite Parisian literary salons, with the younger Cocteau becoming a friend and early champion who helped promote Proust's work among the avant-garde."
+  },
+  {
+    "source_id": "elagabalus",
+    "target_id": "severus_alexander",
+    "type": "family",
+    "strength": 0.7,
+    "confidence": 0.9,
+    "reason": "Under pressure from their grandmother Julia Maesa, Elagabalus adopted his cousin Severus Alexander as heir, then grew jealous and reportedly plotted against him before being assassinated by the Praetorian Guard in 222, who then proclaimed Alexander emperor."
+  },
+  {
+    "source_id": "niccolò_paganini",
+    "target_id": "gioachino_rossini",
+    "type": "friend",
+    "strength": 0.5,
+    "confidence": 0.7,
+    "reason": "Paganini and Rossini were friends and fellow Italian musical celebrities who moved in the same circles in Italy and Paris, each the most famous figure of his respective musical domain."
+  },
+  {
+    "source_id": "niccolò_paganini",
+    "target_id": "hector_berlioz",
+    "type": "patron",
+    "strength": 0.6,
+    "confidence": 0.85,
+    "reason": "Deeply moved after hearing Harold in Italy, the viola concerto he had commissioned but declined to perform himself, Paganini gave Berlioz a gift of 20,000 francs in 1838, declaring him Beethoven's true successor."
+  },
+  {
+    "source_id": "catherine_de'_medici",
+    "target_id": "henry_iv_of_france",
+    "type": "enemy",
+    "strength": 0.75,
+    "confidence": 0.9,
+    "reason": "Catherine de' Medici orchestrated the St. Bartholomew's Day Massacre during the Paris wedding celebrations of her daughter Marguerite to the Protestant Henry, forcing him to convert to Catholicism to survive and holding him a virtual prisoner at court for years afterward."
+  },
+  {
+    "source_id": "philip_ii_of_spain",
+    "target_id": "henry_iv_of_france",
+    "type": "enemy",
+    "strength": 0.7,
+    "confidence": 0.85,
+    "reason": "Philip II backed the Catholic League against Henry IV in the French Wars of Religion, sending Spanish troops to help besiege Paris and pushing his own daughter's claim to the French throne."
+  },
+  {
+    "source_id": "elizabeth_i_of_england",
+    "target_id": "henry_iv_of_france",
+    "type": "ally",
+    "strength": 0.6,
+    "confidence": 0.8,
+    "reason": "Elizabeth I sent troops and subsidies to support the Protestant Henry IV against the Catholic League and Spain during the French Wars of Religion."
+  },
+  {
+    "source_id": "henry_iv_of_france",
+    "target_id": "marie_de'_medici",
+    "type": "spouse",
+    "strength": 0.75,
+    "confidence": 0.9,
+    "reason": "Henry IV married Marie de' Medici in 1600 after his first marriage was annulled, and she bore him his heir, the future Louis XIII."
+  },
+  {
+    "source_id": "henri_becquerel",
+    "target_id": "pierre_curie",
+    "type": "collaborator",
+    "strength": 0.7,
+    "confidence": 0.9,
+    "reason": "Becquerel's discovery of radioactivity in uranium salts directly launched the Curies' research program, and the three shared the 1903 Nobel Prize in Physics for their combined work on the phenomenon."
+  },
+  {
+    "source_id": "pierre_curie",
+    "target_id": "irène_joliot-curie",
+    "type": "family",
+    "strength": 0.5,
+    "confidence": 0.8,
+    "reason": "Pierre Curie's daughter Irene, only nine when he died in 1906, went on to continue the family's radioactivity research and win her own Nobel Prize in Chemistry."
+  },
+  {
+    "source_id": "uthman",
+    "target_id": "ali",
+    "type": "predecessor",
+    "strength": 0.8,
+    "confidence": 0.9,
+    "reason": "Ali became the fourth Rashidun Caliph after Uthman was assassinated by rebels in 656, a succession clouded by controversy that helped ignite the First Fitna civil war."
+  },
+  {
+    "source_id": "pope_clement_viii",
+    "target_id": "pope_leo_xi",
+    "type": "predecessor",
+    "strength": 0.5,
+    "confidence": 0.9,
+    "reason": "Leo XI was elected pope in April 1605 following the death of Clement VIII the previous month."
+  },
+  {
+    "source_id": "pope_leo_xi",
+    "target_id": "pope_paul_v",
+    "type": "predecessor",
+    "strength": 0.4,
+    "confidence": 0.9,
+    "reason": "Paul V was elected pope in May 1605 after Leo XI died just twenty-seven days into his own pontificate."
+  },
+  {
+    "source_id": "pope_leo_xi",
+    "target_id": "henry_iv_of_france",
+    "type": "ally",
+    "strength": 0.6,
+    "confidence": 0.8,
+    "reason": "As papal legate to France, the future Leo XI personally received Henry IV's abjuration of Protestantism in 1595, and his reputation as a friend of France helped secure his own election as pope a decade later."
+  },
+  {
+    "source_id": "denis_diderot",
+    "target_id": "jean_le_rond_d'alembert",
+    "type": "collaborator",
+    "strength": 0.85,
+    "confidence": 0.95,
+    "reason": "Diderot and d'Alembert co-edited the Encyclopedie for years, the monumental Enlightenment project that d'Alembert eventually abandoned under censorship pressure, leaving Diderot to see it through alone."
   }
 ]
