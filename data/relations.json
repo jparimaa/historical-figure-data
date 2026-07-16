@@ -6086,5 +6086,949 @@
     "strength": 0.85,
     "confidence": 0.95,
     "reason": "Diderot and d'Alembert co-edited the Encyclopedie for years, the monumental Enlightenment project that d'Alembert eventually abandoned under censorship pressure, leaving Diderot to see it through alone."
+  },
+  {
+    "source_id": "joseph_fourier",
+    "target_id": "andré-marie_ampère",
+    "type": "mentor",
+    "strength": 0.5,
+    "confidence": 0.7,
+    "reason": "As prefect of Isere, Fourier recognized the young Ampere's mathematical talent in Grenoble and encouraged his early scientific career."
+  },
+  {
+    "source_id": "andré-marie_ampère",
+    "target_id": "michael_faraday",
+    "type": "rival",
+    "strength": 0.5,
+    "confidence": 0.6,
+    "reason": "Ampere's action-at-distance theory of electromagnetism and Faraday's field-based approach put the two scientists in direct scientific competition, spurring Faraday's 1821 rotation experiments."
+  },
+  {
+    "source_id": "nurbanu_sultan",
+    "target_id": "murad_iii",
+    "type": "family",
+    "strength": 0.7,
+    "confidence": 0.8,
+    "reason": "As Valide Sultan, Nurbanu wielded major political influence over the Ottoman court during the reign of her son Murad III."
+  },
+  {
+    "source_id": "murad_iii",
+    "target_id": "mehmed_iii",
+    "type": "predecessor",
+    "strength": 0.6,
+    "confidence": 0.85,
+    "reason": "Mehmed III succeeded his father Murad III as Ottoman Sultan in 1595."
+  },
+  {
+    "source_id": "elizabeth_i_of_england",
+    "target_id": "murad_iii",
+    "type": "ally",
+    "strength": 0.5,
+    "confidence": 0.75,
+    "reason": "Elizabeth I and Murad III exchanged letters establishing an Anglo-Ottoman trade and diplomatic alliance, partly aimed against Habsburg Spain."
+  },
+  {
+    "source_id": "pope_pius_vi",
+    "target_id": "pope_pius_vii",
+    "type": "predecessor",
+    "strength": 0.6,
+    "confidence": 0.9,
+    "reason": "Pius VII was elected pope in 1800 following the death of Pius VI, who had died in French captivity."
+  },
+  {
+    "source_id": "pope_pius_vii",
+    "target_id": "pope_leo_xii",
+    "type": "predecessor",
+    "strength": 0.6,
+    "confidence": 0.9,
+    "reason": "Leo XII was elected pope in 1823 following the death of Pius VII."
+  },
+  {
+    "source_id": "titian",
+    "target_id": "el_greco",
+    "type": "teacher",
+    "strength": 0.6,
+    "confidence": 0.75,
+    "reason": "El Greco trained in Titian's workshop in Venice, absorbing the Venetian colorist technique that shaped his mature style."
+  },
+  {
+    "source_id": "philip_ii_of_spain",
+    "target_id": "el_greco",
+    "type": "patron",
+    "strength": 0.4,
+    "confidence": 0.7,
+    "reason": "Philip II commissioned El Greco to paint works for El Escorial, including The Martyrdom of St. Maurice, though the king's dissatisfaction with the result ended hopes of further royal patronage."
+  },
+  {
+    "source_id": "michelangelo",
+    "target_id": "el_greco",
+    "type": "rival",
+    "strength": 0.3,
+    "confidence": 0.6,
+    "reason": "In Rome, El Greco publicly criticized Michelangelo's Last Judgment and offered to repaint it more decently, a boast that scandalized Roman art circles and damaged his own reputation there."
+  },
+  {
+    "source_id": "wenceslaus_iv_of_bohemia",
+    "target_id": "jan_hus",
+    "type": "patron",
+    "strength": 0.5,
+    "confidence": 0.7,
+    "reason": "King Wenceslaus IV issued the 1409 Kutna Hora Decree giving Czech masters control of Prague University, cementing Hus's position and protecting the reform movement for years."
+  },
+  {
+    "source_id": "édouard_manet",
+    "target_id": "émile_zola",
+    "type": "friend",
+    "strength": 0.7,
+    "confidence": 0.85,
+    "reason": "Zola publicly defended Manet's controversial paintings in print, and Manet repaid the friendship by painting a celebrated portrait of Zola in 1868."
+  },
+  {
+    "source_id": "gustave_flaubert",
+    "target_id": "émile_zola",
+    "type": "friend",
+    "strength": 0.6,
+    "confidence": 0.8,
+    "reason": "Zola was a regular guest at Flaubert's Paris salon alongside fellow realist and naturalist writers, and the two maintained a close literary friendship until Flaubert's death."
+  },
+  {
+    "source_id": "émile_zola",
+    "target_id": "guy_de_maupassant",
+    "type": "mentor",
+    "strength": 0.6,
+    "confidence": 0.8,
+    "reason": "Maupassant was the standout contributor to Les Soirees de Medan, the 1880 naturalist anthology organized around Zola, who served as the movement's leading figure and guide for younger writers."
+  },
+  {
+    "source_id": "mehmed_iii",
+    "target_id": "ahmed_i",
+    "type": "predecessor",
+    "strength": 0.6,
+    "confidence": 0.85,
+    "reason": "Ahmed I succeeded his father Mehmed III as Ottoman Sultan in 1603."
+  },
+  {
+    "source_id": "ahmed_i",
+    "target_id": "mustafa_i",
+    "type": "predecessor",
+    "strength": 0.5,
+    "confidence": 0.8,
+    "reason": "Upon Ahmed I's death in 1617, his brother Mustafa I succeeded him as Ottoman Sultan, the first time the throne passed to the eldest surviving male of the dynasty rather than a son."
+  },
+  {
+    "source_id": "ahmed_i",
+    "target_id": "kösem_sultan",
+    "type": "spouse",
+    "strength": 0.6,
+    "confidence": 0.7,
+    "reason": "Kosem Sultan was the favorite consort and legal wife of Ahmed I, and mother of two future sultans, Murad IV and Ibrahim."
+  },
+  {
+    "source_id": "albert_einstein",
+    "target_id": "erwin_schrödinger",
+    "type": "collaborator",
+    "strength": 0.7,
+    "confidence": 0.85,
+    "reason": "Einstein and Schrodinger exchanged extensive correspondence probing the interpretation of quantum mechanics, an exchange that directly led Schrodinger to devise the Schrodinger's cat thought experiment in response to Einstein's EPR paper."
+  },
+  {
+    "source_id": "erwin_schrödinger",
+    "target_id": "louis_de_broglie",
+    "type": "collaborator",
+    "strength": 0.6,
+    "confidence": 0.8,
+    "reason": "Schrodinger built his wave equation directly on de Broglie's matter-wave hypothesis, and the two physicists remained aligned in advocating a wave-based, realist interpretation of quantum mechanics."
+  },
+  {
+    "source_id": "diocletian",
+    "target_id": "saint_barbara",
+    "type": "enemy",
+    "strength": 0.6,
+    "confidence": 0.6,
+    "reason": "According to Christian tradition, Barbara was martyred in 306 during the Diocletianic persecution of Christians for refusing to renounce her faith."
+  },
+  {
+    "source_id": "mark_antony",
+    "target_id": "herod_the_great",
+    "type": "patron",
+    "strength": 0.6,
+    "confidence": 0.8,
+    "reason": "Mark Antony backed Herod's appointment as King of Judea by the Roman Senate in 40 BC, establishing his rule."
+  },
+  {
+    "source_id": "augustus",
+    "target_id": "herod_the_great",
+    "type": "patron",
+    "strength": 0.7,
+    "confidence": 0.85,
+    "reason": "After Actium, Augustus confirmed Herod as client king of Judea and expanded his territory, backing his rule for the rest of his reign."
+  },
+  {
+    "source_id": "herod_the_great",
+    "target_id": "jesus",
+    "type": "enemy",
+    "strength": 0.7,
+    "confidence": 0.7,
+    "reason": "According to the Gospel of Matthew, Herod ordered the Massacre of the Innocents in Bethlehem in an attempt to kill the infant Jesus, whom he saw as a threat to his throne."
+  },
+  {
+    "source_id": "herod_the_great",
+    "target_id": "herod_agrippa",
+    "type": "family",
+    "strength": 0.5,
+    "confidence": 0.7,
+    "reason": "Herod the Great executed Agrippa's father Aristobulus IV on suspicion of conspiracy, orphaning the young Agrippa and sending him to be raised in Rome, a family tragedy that shaped Agrippa's later path to the throne his grandfather once held."
+  },
+  {
+    "source_id": "lorenzo_de'_medici",
+    "target_id": "pope_leo_x",
+    "type": "family",
+    "strength": 0.8,
+    "confidence": 0.9,
+    "reason": "Lorenzo de' Medici groomed his son Giovanni for a church career from childhood and secured his cardinalate at age 13, laying the groundwork for his eventual election as Pope Leo X."
+  },
+  {
+    "source_id": "pope_leo_x",
+    "target_id": "michelangelo",
+    "type": "patron",
+    "strength": 0.6,
+    "confidence": 0.8,
+    "reason": "Leo X, a fellow Medici, commissioned Michelangelo for major Medici family projects including the facade of San Lorenzo in Florence."
+  },
+  {
+    "source_id": "pope_leo_x",
+    "target_id": "raphael",
+    "type": "patron",
+    "strength": 0.75,
+    "confidence": 0.9,
+    "reason": "Leo X was Raphael's chief patron in Rome, commissioning the Vatican tapestry cartoons and naming him chief architect of St. Peter's Basilica."
+  },
+  {
+    "source_id": "pope_leo_x",
+    "target_id": "charles_v,_holy_roman_emperor",
+    "type": "ally",
+    "strength": 0.6,
+    "confidence": 0.8,
+    "reason": "In the 1521 Treaty of Worms, Leo X allied with Charles V against France in the Italian Wars, an alliance sealed shortly before Leo's death that year."
+  },
+  {
+    "source_id": "pope_leo_x",
+    "target_id": "francis_i_of_france",
+    "type": "rival",
+    "strength": 0.5,
+    "confidence": 0.7,
+    "reason": "After negotiating the 1516 Concordat of Bologna with Francis I, Leo X reversed course and allied with Charles V against France in the Italian Wars, contesting French control of Milan."
+  },
+  {
+    "source_id": "pope_leo_x",
+    "target_id": "pope_adrian_vi",
+    "type": "predecessor",
+    "strength": 0.5,
+    "confidence": 0.85,
+    "reason": "Adrian VI was elected pope in 1522 following the death of Leo X."
+  },
+  {
+    "source_id": "bernard_montgomery",
+    "target_id": "erwin_rommel",
+    "type": "rival",
+    "strength": 0.8,
+    "confidence": 0.9,
+    "reason": "Montgomery's Eighth Army defeated Rommel's Afrika Korps at El Alamein in 1942, making the two commanders the defining rival generals of the North African campaign."
+  },
+  {
+    "source_id": "bernard_montgomery",
+    "target_id": "dwight_d._eisenhower",
+    "type": "collaborator",
+    "strength": 0.6,
+    "confidence": 0.85,
+    "reason": "Montgomery served as a top Allied ground commander under Supreme Allied Commander Eisenhower during the Normandy invasion and subsequent campaign in Europe, despite frequent friction over strategy."
+  },
+  {
+    "source_id": "winston_churchill",
+    "target_id": "bernard_montgomery",
+    "type": "patron",
+    "strength": 0.5,
+    "confidence": 0.75,
+    "reason": "Churchill appointed Montgomery to command the Eighth Army in North Africa in 1942, a decision that launched his rise to Britain's most prominent wartime general."
+  },
+  {
+    "source_id": "pope_leo_xii",
+    "target_id": "pope_pius_viii",
+    "type": "predecessor",
+    "strength": 0.5,
+    "confidence": 0.85,
+    "reason": "Pius VIII was elected pope in 1829 following the death of Leo XII."
+  },
+  {
+    "source_id": "saint_peter",
+    "target_id": "john_the_apostle",
+    "type": "collaborator",
+    "strength": 0.7,
+    "confidence": 0.8,
+    "reason": "Peter and John were paired repeatedly in the early church's ministry, jointly healing a lame man at the Temple and being sent together to confirm converts in Samaria."
+  },
+  {
+    "source_id": "jean_le_rond_d'alembert",
+    "target_id": "joseph-louis_lagrange",
+    "type": "mentor",
+    "strength": 0.6,
+    "confidence": 0.75,
+    "reason": "D'Alembert corresponded with and encouraged the young Lagrange and helped recommend him for the post at the Berlin Academy of Sciences."
+  },
+  {
+    "source_id": "frederick_the_great",
+    "target_id": "joseph-louis_lagrange",
+    "type": "patron",
+    "strength": 0.6,
+    "confidence": 0.8,
+    "reason": "Frederick the Great invited Lagrange to Berlin to succeed Euler as director of mathematics at the Prussian Academy of Sciences, where he worked for over twenty years."
+  },
+  {
+    "source_id": "napoleon",
+    "target_id": "joseph-louis_lagrange",
+    "type": "patron",
+    "strength": 0.5,
+    "confidence": 0.75,
+    "reason": "Napoleon honored Lagrange with a senatorship and made him a Count of the Empire, recognizing him as one of France's leading scientific figures."
+  },
+  {
+    "source_id": "joseph-louis_lagrange",
+    "target_id": "pierre-simon_laplace",
+    "type": "collaborator",
+    "strength": 0.6,
+    "confidence": 0.75,
+    "reason": "As the two leading figures of the French Academy of Sciences, Lagrange and Laplace worked alongside each other for decades on celestial mechanics and mathematical physics, examining and building on each other's results."
+  },
+  {
+    "source_id": "wassily_kandinsky",
+    "target_id": "paul_klee",
+    "type": "friend",
+    "strength": 0.7,
+    "confidence": 0.85,
+    "reason": "Kandinsky and Klee were close friends and colleagues who taught together at the Bauhaus and later formed the exhibiting group Die Blaue Vier (The Blue Four)."
+  },
+  {
+    "source_id": "pope_sixtus_iv",
+    "target_id": "lorenzo_de'_medici",
+    "type": "enemy",
+    "strength": 0.8,
+    "confidence": 0.85,
+    "reason": "Sixtus IV backed the 1478 Pazzi Conspiracy against Lorenzo, an assassination plot that killed his brother Giuliano and led to war between the Papal States and Florence."
+  },
+  {
+    "source_id": "lorenzo_de'_medici",
+    "target_id": "girolamo_savonarola",
+    "type": "rival",
+    "strength": 0.5,
+    "confidence": 0.6,
+    "reason": "Savonarola's fiery sermons condemning Medici excess and corruption made him Lorenzo's chief moral antagonist in Florence in the final years of his rule, and tradition holds Savonarola was summoned to Lorenzo's deathbed."
+  },
+  {
+    "source_id": "george_iii_of_the_united_kingdom",
+    "target_id": "james_cook",
+    "type": "patron",
+    "strength": 0.6,
+    "confidence": 0.75,
+    "reason": "Cook's three Pacific voyages of exploration were commissioned and funded by the Royal Navy under George III, who took a personal interest in their scientific and geographic discoveries."
+  },
+  {
+    "source_id": "gustave_flaubert",
+    "target_id": "guy_de_maupassant",
+    "type": "mentor",
+    "strength": 0.8,
+    "confidence": 0.9,
+    "reason": "Flaubert, a friend of Maupassant's mother, took the young writer under his wing for years, rigorously critiquing his early drafts and introducing him to literary Paris, including Zola's circle."
+  },
+  {
+    "source_id": "socrates",
+    "target_id": "euripides",
+    "type": "friend",
+    "strength": 0.5,
+    "confidence": 0.6,
+    "reason": "Ancient sources report that Socrates rarely attended the theater except to see Euripides's plays and was rumored to have collaborated with him on his tragedies, reflecting a documented mutual regard."
+  },
+  {
+    "source_id": "li_bai",
+    "target_id": "du_fu",
+    "type": "friend",
+    "strength": 0.8,
+    "confidence": 0.9,
+    "reason": "The two greatest poets of the Tang dynasty met in 744, traveled together, and exchanged poems of mutual admiration that survive as some of the most celebrated friendship poetry in Chinese literature."
+  },
+  {
+    "source_id": "judas_iscariot",
+    "target_id": "matthias_the_apostle",
+    "type": "predecessor",
+    "strength": 0.6,
+    "confidence": 0.85,
+    "reason": "Matthias was chosen by lot to replace Judas Iscariot as the twelfth apostle after Judas's betrayal and death, as recounted in Acts 1."
+  },
+  {
+    "source_id": "jesus",
+    "target_id": "matthias_the_apostle",
+    "type": "teacher",
+    "strength": 0.5,
+    "confidence": 0.6,
+    "reason": "According to Acts, Matthias had accompanied Jesus and his followers throughout his entire ministry, from John's baptism to the ascension, qualifying him to be chosen as a replacement apostle."
+  },
+  {
+    "source_id": "édouard_manet",
+    "target_id": "edgar_degas",
+    "type": "friend",
+    "strength": 0.6,
+    "confidence": 0.8,
+    "reason": "Manet and Degas were close but prickly friends in the Paris avant-garde; Manet once slashed apart a double portrait Degas had painted of him and his wife because he disliked how she was depicted."
+  },
+  {
+    "source_id": "octave_mirbeau",
+    "target_id": "auguste_rodin",
+    "type": "friend",
+    "strength": 0.7,
+    "confidence": 0.85,
+    "reason": "Mirbeau was one of Rodin's earliest and most vocal champions in the press, writing influential articles defending his sculpture against public and critical hostility."
+  },
+  {
+    "source_id": "octave_mirbeau",
+    "target_id": "claude_monet",
+    "type": "friend",
+    "strength": 0.7,
+    "confidence": 0.85,
+    "reason": "Mirbeau was a close friend and neighbor of Monet at Giverny and one of the most influential critical defenders of Impressionism in the French press."
+  },
+  {
+    "source_id": "émile_zola",
+    "target_id": "octave_mirbeau",
+    "type": "ally",
+    "strength": 0.6,
+    "confidence": 0.8,
+    "reason": "Mirbeau was one of the earliest and fiercest defenders of Zola's J'Accuse and the cause of Alfred Dreyfus, aligning with him publicly during the Dreyfus Affair."
+  },
+  {
+    "source_id": "james,_brother_of_jesus",
+    "target_id": "paul_the_apostle",
+    "type": "collaborator",
+    "strength": 0.6,
+    "confidence": 0.8,
+    "reason": "As leader of the Jerusalem church, James met with Paul and extended him the right hand of fellowship at the Council of Jerusalem, formally endorsing his mission to the Gentiles."
+  },
+  {
+    "source_id": "james,_brother_of_jesus",
+    "target_id": "saint_peter",
+    "type": "collaborator",
+    "strength": 0.6,
+    "confidence": 0.75,
+    "reason": "James and Peter were the two central leaders of the early Jerusalem church, jointly shaping its direction, including the resolution of the dispute over requirements for Gentile converts."
+  },
+  {
+    "source_id": "vespasian",
+    "target_id": "titus",
+    "type": "predecessor",
+    "strength": 0.7,
+    "confidence": 0.9,
+    "reason": "Titus succeeded his father Vespasian as Roman emperor in 79 AD, having already served as his designated heir and military commander."
+  },
+  {
+    "source_id": "titus",
+    "target_id": "domitian",
+    "type": "predecessor",
+    "strength": 0.6,
+    "confidence": 0.85,
+    "reason": "Domitian succeeded his brother Titus as Roman emperor in 81 AD after Titus's sudden death, amid persistent rumors that Domitian had a hand in it."
+  },
+  {
+    "source_id": "titus",
+    "target_id": "josephus",
+    "type": "patron",
+    "strength": 0.5,
+    "confidence": 0.75,
+    "reason": "Josephus served Titus as an interpreter and advisor during the siege of Jerusalem, and Titus later brought him to Rome under Flavian patronage where he wrote his histories."
+  },
+  {
+    "source_id": "diocletian",
+    "target_id": "saint_lucy",
+    "type": "enemy",
+    "strength": 0.6,
+    "confidence": 0.6,
+    "reason": "According to Christian tradition, Lucy was martyred in 304 during the Diocletianic persecution of Christians for refusing to renounce her faith and give up her virginity."
+  },
+  {
+    "source_id": "diocletian",
+    "target_id": "catherine_of_alexandria",
+    "type": "enemy",
+    "strength": 0.6,
+    "confidence": 0.6,
+    "reason": "According to Christian tradition, Catherine was martyred around 305 for publicly denouncing Diocletian's persecution of Christians and refusing to renounce her faith."
+  },
+  {
+    "source_id": "hatshepsut",
+    "target_id": "thutmose_iii",
+    "type": "predecessor",
+    "strength": 0.7,
+    "confidence": 0.85,
+    "reason": "Hatshepsut ruled as senior co-regent and pharaoh while her stepson Thutmose III was a minor; after her death he became sole pharaoh and later ordered her images and cartouches systematically erased from monuments."
+  },
+  {
+    "source_id": "adolf_hitler",
+    "target_id": "hermann_göring",
+    "type": "ally",
+    "strength": 0.85,
+    "confidence": 0.9,
+    "reason": "Goring was one of Hitler's earliest and most loyal supporters from the 1923 Beer Hall Putsch onward, rose to command the Luftwaffe, and was named Hitler's official successor until their final falling-out in 1945."
+  },
+  {
+    "source_id": "hermann_göring",
+    "target_id": "joachim_von_ribbentrop",
+    "type": "rival",
+    "strength": 0.5,
+    "confidence": 0.7,
+    "reason": "Goring openly despised Ribbentrop, mocking his diplomatic judgment, and the two competed bitterly for Hitler's favor and influence over German foreign and military policy."
+  },
+  {
+    "source_id": "george_marshall",
+    "target_id": "dwight_d._eisenhower",
+    "type": "mentor",
+    "strength": 0.75,
+    "confidence": 0.85,
+    "reason": "Marshall recognized Eisenhower's talent early, jumped him over dozens of more senior officers, and appointed him Supreme Allied Commander for the invasion of Europe."
+  },
+  {
+    "source_id": "franklin_d._roosevelt",
+    "target_id": "george_marshall",
+    "type": "ally",
+    "strength": 0.8,
+    "confidence": 0.85,
+    "reason": "Roosevelt appointed Marshall Army Chief of Staff and relied on him as his principal military strategist throughout World War II, an exceptionally close working partnership."
+  },
+  {
+    "source_id": "george_marshall",
+    "target_id": "harry_s._truman",
+    "type": "collaborator",
+    "strength": 0.7,
+    "confidence": 0.85,
+    "reason": "Truman appointed Marshall Secretary of State and later Secretary of Defense, relying on him to design the Marshall Plan and shape early Cold War policy."
+  },
+  {
+    "source_id": "james_v_of_scotland",
+    "target_id": "mary,_queen_of_scots",
+    "type": "predecessor",
+    "strength": 0.7,
+    "confidence": 0.9,
+    "reason": "Mary became Queen of Scots at just six days old upon the death of her father James V in 1542."
+  },
+  {
+    "source_id": "saint_stephen",
+    "target_id": "paul_the_apostle",
+    "type": "enemy",
+    "strength": 0.7,
+    "confidence": 0.8,
+    "reason": "Saul, later Paul, gave approval to and guarded the cloaks of those who stoned Stephen to death, the first Christian martyr, an event Acts frames as the backdrop to Paul's own persecution of the early church."
+  },
+  {
+    "source_id": "elizabeth_(biblical_figure)",
+    "target_id": "zechariah_(new_testament_figure)",
+    "type": "spouse",
+    "strength": 0.8,
+    "confidence": 0.85,
+    "reason": "Elizabeth was the wife of the priest Zechariah, and their unexpected conception of John the Baptist in old age, announced to Zechariah by the angel Gabriel, is a central episode in the Gospel of Luke."
+  },
+  {
+    "source_id": "j._j._thomson",
+    "target_id": "ernest_rutherford",
+    "type": "mentor",
+    "strength": 0.8,
+    "confidence": 0.9,
+    "reason": "Thomson supervised Rutherford's early research at the Cavendish Laboratory, and Rutherford went on to succeed him as the laboratory's director in 1919."
+  },
+  {
+    "source_id": "j._j._thomson",
+    "target_id": "niels_bohr",
+    "type": "mentor",
+    "strength": 0.4,
+    "confidence": 0.65,
+    "reason": "Bohr came to work under Thomson at the Cavendish Laboratory in 1911, though the strained fit led him to move to Rutherford's lab in Manchester, where he developed his atomic model."
+  },
+  {
+    "source_id": "j._j._thomson",
+    "target_id": "charles_thomson_rees_wilson",
+    "type": "mentor",
+    "strength": 0.6,
+    "confidence": 0.75,
+    "reason": "Wilson developed the cloud chamber while working under Thomson's direction at the Cavendish Laboratory, a device that became essential to experimental particle physics."
+  },
+  {
+    "source_id": "mark_antony",
+    "target_id": "marcus_aemilius_lepidus_(triumvir)",
+    "type": "ally",
+    "strength": 0.6,
+    "confidence": 0.85,
+    "reason": "Antony, Lepidus, and Octavian formed the Second Triumvirate in 43 BCE, jointly ruling Rome and conducting the proscriptions before Lepidus was sidelined from power."
+  },
+  {
+    "source_id": "oscar_wilde",
+    "target_id": "andré_gide",
+    "type": "friend",
+    "strength": 0.6,
+    "confidence": 0.8,
+    "reason": "Wilde befriended the young Gide in Paris and North Africa in the early 1890s, and their conversations profoundly shook Gide's sense of morality and creative freedom, an influence Gide later chronicled in his memoirs."
+  },
+  {
+    "source_id": "henry_ii_of_france",
+    "target_id": "catherine_de'_medici",
+    "type": "spouse",
+    "strength": 0.7,
+    "confidence": 0.9,
+    "reason": "Henry II married Catherine de' Medici in 1533, though he favored his mistress Diane de Poitiers throughout the marriage; Catherine became regent for their sons after his death."
+  },
+  {
+    "source_id": "catherine_de'_medici",
+    "target_id": "charles_ix_of_france",
+    "type": "family",
+    "strength": 0.8,
+    "confidence": 0.9,
+    "reason": "Catherine ruled as regent and the dominant political power behind her son Charles IX for most of his reign, including during the St. Bartholomew's Day Massacre."
+  },
+  {
+    "source_id": "catherine_de'_medici",
+    "target_id": "henry_iii_of_france",
+    "type": "family",
+    "strength": 0.8,
+    "confidence": 0.9,
+    "reason": "Catherine was her favorite son Henry III's closest political advisor and worked to secure his elections first as King of Poland and then of France."
+  },
+  {
+    "source_id": "mark_twain",
+    "target_id": "helen_keller",
+    "type": "friend",
+    "strength": 0.7,
+    "confidence": 0.85,
+    "reason": "Twain befriended Helen Keller as a young woman, calling her one of the most remarkable people of the age, and helped arrange the funding that allowed her to attend Radcliffe College."
+  },
+  {
+    "source_id": "henrik_ibsen",
+    "target_id": "bjørnstjerne_bjørnson",
+    "type": "rival",
+    "strength": 0.6,
+    "confidence": 0.75,
+    "reason": "Ibsen and Bjornson were Norway's two towering literary figures of the era, moving between close friendship and bitter rivalry over politics, theater, and public reputation throughout their careers."
+  },
+  {
+    "source_id": "henrik_ibsen",
+    "target_id": "august_strindberg",
+    "type": "rival",
+    "strength": 0.7,
+    "confidence": 0.8,
+    "reason": "Strindberg waged a one-sided literary feud against Ibsen for years, attacking his plays in print, while Ibsen reportedly kept a portrait of Strindberg on his wall to keep himself provoked while writing."
+  },
+  {
+    "source_id": "henrik_ibsen",
+    "target_id": "edvard_grieg",
+    "type": "collaborator",
+    "strength": 0.6,
+    "confidence": 0.85,
+    "reason": "Ibsen commissioned Grieg to compose the incidental music for Peer Gynt, resulting in one of the most famous orchestral scores ever written for a play."
+  },
+  {
+    "source_id": "pope_adrian_vi",
+    "target_id": "pope_clement_vii",
+    "type": "predecessor",
+    "strength": 0.5,
+    "confidence": 0.85,
+    "reason": "Clement VII was elected pope in 1523 following the death of Adrian VI."
+  },
+  {
+    "source_id": "pope_adrian_vi",
+    "target_id": "charles_v,_holy_roman_emperor",
+    "type": "teacher",
+    "strength": 0.6,
+    "confidence": 0.8,
+    "reason": "Adrian tutored the young Charles V in the Netherlands and later served as his regent in Spain, a relationship of trust that helped secure Adrian's own election as pope."
+  },
+  {
+    "source_id": "pope_adrian_vi",
+    "target_id": "martin_luther",
+    "type": "enemy",
+    "strength": 0.5,
+    "confidence": 0.7,
+    "reason": "As pope, Adrian VI confronted the spreading Lutheran Reformation, sending envoys to the 1522 Diet of Nuremberg who candidly admitted Church corruption while still demanding action against Luther's teachings."
+  },
+  {
+    "source_id": "nero",
+    "target_id": "vespasian",
+    "type": "patron",
+    "strength": 0.5,
+    "confidence": 0.75,
+    "reason": "Nero appointed Vespasian to command the Roman legions suppressing the Jewish revolt in 67 AD, a command that became the springboard for Vespasian's own bid for the throne after Nero's death."
+  },
+  {
+    "source_id": "vespasian",
+    "target_id": "josephus",
+    "type": "patron",
+    "strength": 0.6,
+    "confidence": 0.85,
+    "reason": "Vespasian spared the captured Jewish commander Josephus after Josephus predicted he would become emperor, and once the prophecy came true, Vespasian freed him and became his lifelong patron in Rome."
+  },
+  {
+    "source_id": "vespasian",
+    "target_id": "domitian",
+    "type": "family",
+    "strength": 0.6,
+    "confidence": 0.8,
+    "reason": "Domitian was Vespasian's younger son, and though Vespasian favored his elder son Titus with real power, Domitian eventually became the third and final Flavian emperor."
+  },
+  {
+    "source_id": "james_prescott_joule",
+    "target_id": "william_thomson,_1st_baron_kelvin",
+    "type": "collaborator",
+    "strength": 0.8,
+    "confidence": 0.9,
+    "reason": "Joule and Thomson collaborated on experiments establishing an absolute temperature scale, discovering the Joule-Thomson effect used in modern refrigeration."
+  },
+  {
+    "source_id": "michael_faraday",
+    "target_id": "james_prescott_joule",
+    "type": "mentor",
+    "strength": 0.5,
+    "confidence": 0.7,
+    "reason": "Faraday recognized the significance of Joule's early experiments on the mechanical equivalent of heat when other scientists dismissed them, and helped present his work to the Royal Society."
+  },
+  {
+    "source_id": "ludwig_van_beethoven",
+    "target_id": "gioachino_rossini",
+    "type": "friend",
+    "strength": 0.4,
+    "confidence": 0.75,
+    "reason": "Rossini visited the deaf and ailing Beethoven in Vienna in 1822, a meeting of the era's two most famous living composers that Rossini recounted vividly for the rest of his life."
+  },
+  {
+    "source_id": "gioachino_rossini",
+    "target_id": "gaetano_donizetti",
+    "type": "rival",
+    "strength": 0.5,
+    "confidence": 0.7,
+    "reason": "Rossini and Donizetti were the leading rivals of early 19th-century Italian opera, competing for the same audiences and opera houses across Italy before Rossini's early retirement from composing."
+  },
+  {
+    "source_id": "gioachino_rossini",
+    "target_id": "richard_wagner",
+    "type": "friend",
+    "strength": 0.4,
+    "confidence": 0.7,
+    "reason": "Wagner visited the elderly Rossini in Paris in 1860, and their long conversation, later documented by Edmond Michotte, revealed unexpected mutual respect between two composers often seen as opposites."
+  },
+  {
+    "source_id": "ignatius_of_loyola",
+    "target_id": "francis_xavier",
+    "type": "collaborator",
+    "strength": 0.85,
+    "confidence": 0.9,
+    "reason": "Xavier was one of Ignatius's original companions at the University of Paris and co-founded the Society of Jesus with him in 1540, later becoming its greatest missionary."
+  },
+  {
+    "source_id": "pope_paul_iii",
+    "target_id": "ignatius_of_loyola",
+    "type": "patron",
+    "strength": 0.7,
+    "confidence": 0.9,
+    "reason": "Pope Paul III formally approved the founding of the Society of Jesus in 1540, giving Ignatius's new order papal sanction and setting it on course to become a central force of the Counter-Reformation."
+  },
+  {
+    "source_id": "pope_callixtus_iii",
+    "target_id": "skanderbeg",
+    "type": "patron",
+    "strength": 0.5,
+    "confidence": 0.75,
+    "reason": "Pope Callixtus III named Skanderbeg Captain General of the Holy See and sent him financial and material support for his resistance against the Ottomans."
+  },
+  {
+    "source_id": "pope_pius_ii",
+    "target_id": "skanderbeg",
+    "type": "patron",
+    "strength": 0.5,
+    "confidence": 0.75,
+    "reason": "Pope Pius II championed Skanderbeg's cause and was organizing a crusade to relieve Albania from Ottoman pressure when he died in 1464 at Ancona awaiting the fleet's departure."
+  },
+  {
+    "source_id": "napoleon",
+    "target_id": "stendhal",
+    "type": "patron",
+    "strength": 0.4,
+    "confidence": 0.7,
+    "reason": "Stendhal served as an official in Napoleon's military administration, including during the Russian campaign, and his lifelong admiration for Napoleon shaped his fiction's fascination with ambition and energy."
+  },
+  {
+    "source_id": "stendhal",
+    "target_id": "honoré_de_balzac",
+    "type": "ally",
+    "strength": 0.5,
+    "confidence": 0.75,
+    "reason": "Balzac wrote a lengthy, glowing public review praising Stendhal's The Charterhouse of Parma, a rare and significant endorsement between two major French novelists of the era."
+  },
+  {
+    "source_id": "mary_of_teck",
+    "target_id": "george_vi",
+    "type": "family",
+    "strength": 0.8,
+    "confidence": 0.9,
+    "reason": "Queen Mary was George VI's mother, and after Edward VIII's abdication she gave her second son strong public and private support as he took the throne unexpectedly."
+  },
+  {
+    "source_id": "theodosius_i",
+    "target_id": "ambrose",
+    "type": "rival",
+    "strength": 0.75,
+    "confidence": 0.9,
+    "reason": "Bishop Ambrose of Milan excommunicated Theodosius and forced him to perform public penance after the emperor's troops massacred thousands of civilians at Thessalonica in 390, a landmark assertion of Church authority over the state."
+  },
+  {
+    "source_id": "theodosius_i",
+    "target_id": "honorius_(emperor)",
+    "type": "predecessor",
+    "strength": 0.7,
+    "confidence": 0.85,
+    "reason": "Theodosius was the father of Honorius and, upon his death in 395, split the empire between his two sons, with Honorius receiving the Western Roman Empire."
+  },
+  {
+    "source_id": "mahmud_of_ghazni",
+    "target_id": "al-biruni",
+    "type": "patron",
+    "strength": 0.6,
+    "confidence": 0.8,
+    "reason": "After conquering Al-Biruni's homeland of Khwarazm, Mahmud of Ghazni brought him to his court and later took him to India, where his patronage, however coercive, enabled Al-Biruni's landmark research into Indian science and culture."
+  },
+  {
+    "source_id": "ecgberht,_king_of_wessex",
+    "target_id": "æthelwulf,_king_of_wessex",
+    "type": "predecessor",
+    "strength": 0.6,
+    "confidence": 0.85,
+    "reason": "Aethelwulf succeeded his father Ecgberht as King of Wessex in 839, continuing the expansion of West Saxon power that his father had begun."
+  },
+  {
+    "source_id": "baldwin_iv_of_jerusalem",
+    "target_id": "saladin",
+    "type": "enemy",
+    "strength": 0.85,
+    "confidence": 0.9,
+    "reason": "Despite suffering from leprosy, Baldwin personally led the Crusader army that decisively defeated Saladin at the Battle of Montgisard in 1177, and the two remained the central opposing figures of the Kingdom of Jerusalem's wars until Baldwin's death."
+  },
+  {
+    "source_id": "baldwin_iv_of_jerusalem",
+    "target_id": "balian_of_ibelin",
+    "type": "ally",
+    "strength": 0.6,
+    "confidence": 0.75,
+    "reason": "Balian of Ibelin was a trusted baron in Baldwin IV's court and military campaigns, later leading the defense and negotiated surrender of Jerusalem to Saladin in 1187."
+  },
+  {
+    "source_id": "domitian",
+    "target_id": "nerva",
+    "type": "predecessor",
+    "strength": 0.6,
+    "confidence": 0.85,
+    "reason": "Nerva was proclaimed emperor by the Senate immediately after Domitian's assassination in 96 AD, ending the Flavian dynasty and beginning the era of the adoptive emperors."
+  },
+  {
+    "source_id": "domitian",
+    "target_id": "john_the_apostle",
+    "type": "enemy",
+    "strength": 0.5,
+    "confidence": 0.6,
+    "reason": "Christian tradition holds that Domitian's persecution of Christians led to John's exile to the island of Patmos, where he is said to have written the Book of Revelation."
+  },
+  {
+    "source_id": "constantine_the_great",
+    "target_id": "anthony_the_great",
+    "type": "ally",
+    "strength": 0.4,
+    "confidence": 0.65,
+    "reason": "Constantine and his sons wrote to Anthony seeking his counsel, treating the desert hermit as a spiritual authority, though Anthony largely declined the emperor's invitation to visit Constantinople."
+  },
+  {
+    "source_id": "cardinal_richelieu",
+    "target_id": "gustavus_adolphus_of_sweden",
+    "type": "ally",
+    "strength": 0.7,
+    "confidence": 0.85,
+    "reason": "Richelieu negotiated the 1631 Treaty of Barwalde, subsidizing Gustavus Adolphus's Swedish campaign against the Habsburgs in the Thirty Years' War even though Catholic France was backing a Protestant army."
+  },
+  {
+    "source_id": "gustavus_adolphus_of_sweden",
+    "target_id": "christina,_queen_of_sweden",
+    "type": "predecessor",
+    "strength": 0.7,
+    "confidence": 0.85,
+    "reason": "Christina inherited the Swedish throne at age six after her father Gustavus Adolphus was killed at the Battle of Lutzen in 1632."
+  },
+  {
+    "source_id": "pope_gregory_xv",
+    "target_id": "pope_urban_viii",
+    "type": "predecessor",
+    "strength": 0.5,
+    "confidence": 0.85,
+    "reason": "Urban VIII was elected pope in 1623 following the death of Gregory XV."
+  },
+  {
+    "source_id": "pope_urban_viii",
+    "target_id": "pope_innocent_x",
+    "type": "predecessor",
+    "strength": 0.5,
+    "confidence": 0.85,
+    "reason": "Innocent X was elected pope in 1644 following the death of Urban VIII, and moved quickly to investigate the Barberini family's finances."
+  },
+  {
+    "source_id": "pope_urban_viii",
+    "target_id": "gian_lorenzo_bernini",
+    "type": "patron",
+    "strength": 0.85,
+    "confidence": 0.9,
+    "reason": "Urban VIII was Bernini's greatest patron, commissioning the bronze Baldachin over St. Peter's tomb and numerous other major works throughout his pontificate."
+  },
+  {
+    "source_id": "jesus",
+    "target_id": "mary_magdalene",
+    "type": "teacher",
+    "strength": 0.85,
+    "confidence": 0.85,
+    "reason": "Mary Magdalene was one of Jesus's closest followers, present at the crucifixion and, according to all four Gospels, the first witness to his resurrection, earning her the traditional title 'apostle to the apostles'."
+  },
+  {
+    "source_id": "aeschylus",
+    "target_id": "pericles",
+    "type": "collaborator",
+    "strength": 0.5,
+    "confidence": 0.75,
+    "reason": "As a young man, Pericles served as choregos, the wealthy sponsor funding the production, for Aeschylus's play The Persians in 472 BCE, one of his first public roles in Athenian civic life."
+  },
+  {
+    "source_id": "michel_de_montaigne",
+    "target_id": "henry_iv_of_france",
+    "type": "ally",
+    "strength": 0.5,
+    "confidence": 0.7,
+    "reason": "Montaigne, serving as mayor of Bordeaux and a moderate Catholic during the Wars of Religion, met with and advised the Protestant Henry of Navarre, who later became Henry IV and cited Montaigne's counsel."
+  },
+  {
+    "source_id": "pope_innocent_viii",
+    "target_id": "bayezid_ii",
+    "type": "ally",
+    "strength": 0.5,
+    "confidence": 0.8,
+    "reason": "Pope Innocent VIII held Bayezid's rival brother Cem Sultan in custody and received a substantial annual payment from Bayezid to keep him away from the Ottoman throne."
+  },
+  {
+    "source_id": "pope_alexander_vi",
+    "target_id": "bayezid_ii",
+    "type": "ally",
+    "strength": 0.5,
+    "confidence": 0.8,
+    "reason": "Pope Alexander VI continued holding Bayezid's brother Cem Sultan hostage in exchange for large payments, and Bayezid is reported to have paid Alexander to have Cem poisoned before handing him to Charles VIII of France."
+  },
+  {
+    "source_id": "ernest_rutherford",
+    "target_id": "edward_victor_appleton",
+    "type": "mentor",
+    "strength": 0.5,
+    "confidence": 0.7,
+    "reason": "Appleton conducted his early radio research at the Cavendish Laboratory during Rutherford's tenure as director, part of the generation of physicists Rutherford shaped there."
   }
 ]
