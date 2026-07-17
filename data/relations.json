@@ -8150,5 +8150,317 @@
     "strength": 0.65,
     "confidence": 0.85,
     "reason": "Ferdinand II was Joanna's father, and after Philip's death he had her declared mentally unfit and acted as regent of Castile, later keeping her confined at Tordesillas for the rest of her life."
+  },
+  {
+    "source_id": "archduke_franz_ferdinand_of_austria",
+    "target_id": "gavrilo_princip",
+    "type": "enemy",
+    "strength": 1.0,
+    "confidence": 1.0,
+    "reason": "Gavrilo Princip assassinated Franz Ferdinand and his wife Sophie in Sarajevo on June 28, 1914, the act that triggered the July Crisis and the outbreak of World War I."
+  },
+  {
+    "source_id": "pablo_picasso",
+    "target_id": "marc_chagall",
+    "type": "rival",
+    "strength": 0.45,
+    "confidence": 0.7,
+    "reason": "Picasso and Chagall were the two dominant modernist painters of the Ecole de Paris, maintaining a wary mutual respect; Picasso famously remarked that Chagall would be the only painter left who truly understood color once Matisse was gone."
+  },
+  {
+    "source_id": "pope_sylvester_i",
+    "target_id": "constantine_the_great",
+    "type": "ally",
+    "strength": 0.6,
+    "confidence": 0.8,
+    "reason": "Sylvester I was pope throughout Constantine's reign as the first Christian emperor, and the two became linked by the later medieval legend of the Donation of Constantine, which claimed the emperor had granted him vast temporal authority over the Western Roman Empire."
+  },
+  {
+    "source_id": "adolf_hitler",
+    "target_id": "erwin_rommel",
+    "type": "enemy",
+    "strength": 0.7,
+    "confidence": 0.9,
+    "reason": "After suspecting Rommel of involvement in the July 20, 1944 plot to assassinate him, Hitler forced Germany's most celebrated general to commit suicide with cyanide in exchange for sparing his family and staging a state funeral."
+  },
+  {
+    "source_id": "pope_innocent_x",
+    "target_id": "pope_alexander_vii",
+    "type": "predecessor",
+    "strength": 0.5,
+    "confidence": 0.9,
+    "reason": "Alexander VII was elected pope in 1655 following the death of Innocent X."
+  },
+  {
+    "source_id": "jesus",
+    "target_id": "thomas_the_apostle",
+    "type": "teacher",
+    "strength": 0.85,
+    "confidence": 0.9,
+    "reason": "Thomas was one of Jesus's twelve apostles, remembered for doubting reports of the resurrection until he could touch Jesus's wounds himself, giving rise to the phrase 'doubting Thomas.'"
+  },
+  {
+    "source_id": "charles_x_of_france",
+    "target_id": "louis_philippe_i",
+    "type": "predecessor",
+    "strength": 0.6,
+    "confidence": 0.85,
+    "reason": "Charles X was overthrown in the July Revolution of 1830 and abdicated in favor of his distant cousin Louis Philippe, who was proclaimed King of the French in his place."
+  },
+  {
+    "source_id": "louis_xvi_of_france",
+    "target_id": "charles_x_of_france",
+    "type": "family",
+    "strength": 0.6,
+    "confidence": 0.85,
+    "reason": "Charles was Louis XVI's younger brother; while Louis was executed during the Revolution, Charles fled into exile and led the ultra-royalist emigres, eventually becoming king himself in 1824."
+  },
+  {
+    "source_id": "charles_iv,_holy_roman_emperor",
+    "target_id": "wenceslaus_iv_of_bohemia",
+    "type": "predecessor",
+    "strength": 0.6,
+    "confidence": 0.9,
+    "reason": "Wenceslaus was Charles IV's son, crowned King of the Romans in his father's lifetime and succeeding him as ruler of Bohemia and nominal Holy Roman Emperor upon his death in 1378."
+  },
+  {
+    "source_id": "pope_clement_vi",
+    "target_id": "charles_iv,_holy_roman_emperor",
+    "type": "mentor",
+    "strength": 0.7,
+    "confidence": 0.85,
+    "reason": "As Pierre Roger, the future Clement VI tutored the young Charles at the French court in Paris, and as pope he later backed Charles's election as King of the Romans against Louis IV."
+  },
+  {
+    "source_id": "pope_paul_v",
+    "target_id": "pope_gregory_xv",
+    "type": "predecessor",
+    "strength": 0.5,
+    "confidence": 0.9,
+    "reason": "Gregory XV was elected pope in 1621 following the death of Paul V."
+  },
+  {
+    "source_id": "pope_gregory_xv",
+    "target_id": "cardinal_richelieu",
+    "type": "patron",
+    "strength": 0.6,
+    "confidence": 0.85,
+    "reason": "Gregory XV elevated Richelieu to cardinal in 1622, a promotion that paved the way for his rise to become Louis XIII's chief minister two years later."
+  },
+  {
+    "source_id": "harun_al-rashid",
+    "target_id": "abu_nuwas",
+    "type": "patron",
+    "strength": 0.6,
+    "confidence": 0.85,
+    "reason": "Abu Nuwas served as a court poet under Harun al-Rashid in Baghdad, though his libertine verse and irreverence periodically landed him in the caliph's disfavor and even prison."
+  },
+  {
+    "source_id": "franz_liszt",
+    "target_id": "bedřich_smetana",
+    "type": "ally",
+    "strength": 0.55,
+    "confidence": 0.8,
+    "reason": "Liszt championed Smetana's early career, helping him secure a publisher for his first piano works, and Smetana dedicated several compositions to Liszt in gratitude."
+  },
+  {
+    "source_id": "pope_gregory_ix",
+    "target_id": "frederick_ii,_holy_roman_emperor",
+    "type": "enemy",
+    "strength": 0.85,
+    "confidence": 0.95,
+    "reason": "Gregory IX excommunicated Frederick II twice, first for delaying his promised crusade and again after Frederick negotiated the return of Jerusalem by treaty rather than conquest, fueling decades of open war between the papacy and the empire."
+  },
+  {
+    "source_id": "pope_innocent_iii",
+    "target_id": "frederick_ii,_holy_roman_emperor",
+    "type": "mentor",
+    "strength": 0.6,
+    "confidence": 0.85,
+    "reason": "Innocent III served as Frederick II's guardian and regent of Sicily during his minority and later backed his claim to the imperial throne, though Frederick's later independence would put his successors at war with the empire."
+  },
+  {
+    "source_id": "sulla",
+    "target_id": "mithridates_vi_of_pontus",
+    "type": "enemy",
+    "strength": 0.7,
+    "confidence": 0.9,
+    "reason": "Sulla led Roman forces against Mithridates in the First Mithridatic War, defeating his armies in Greece and forcing him to accept the Peace of Dardanos in 85 BCE."
+  },
+  {
+    "source_id": "charles_thomson_rees_wilson",
+    "target_id": "ernest_rutherford",
+    "type": "collaborator",
+    "strength": 0.6,
+    "confidence": 0.8,
+    "reason": "Wilson and Rutherford worked together for decades at Cambridge's Cavendish Laboratory, where Rutherford's group relied heavily on Wilson's cloud chamber to visualize particle tracks, and Rutherford called it the most original instrument in scientific history."
+  },
+  {
+    "source_id": "jesus",
+    "target_id": "bartholomew_the_apostle",
+    "type": "teacher",
+    "strength": 0.7,
+    "confidence": 0.75,
+    "reason": "Bartholomew, often identified with Nathanael, was one of the twelve apostles Jesus chose to spread his teachings, with the Gospel of John recounting Jesus praising him as 'an Israelite in whom there is no deceit.'"
+  },
+  {
+    "source_id": "toyotomi_hideyoshi",
+    "target_id": "tokugawa_ieyasu",
+    "type": "rival",
+    "strength": 0.75,
+    "confidence": 0.85,
+    "reason": "Ieyasu submitted as a vassal to Hideyoshi after their armies fought to a standstill in 1584, but following Hideyoshi's death Ieyasu destroyed the loyalist faction at Sekigahara and later eliminated Hideyoshi's heir, founding the Tokugawa Shogunate."
+  },
+  {
+    "source_id": "mustafa_i",
+    "target_id": "murad_iv",
+    "type": "predecessor",
+    "strength": 0.6,
+    "confidence": 0.85,
+    "reason": "Murad IV succeeded his mentally unstable uncle Mustafa I as Ottoman Sultan in 1623 after Mustafa was deposed for a second and final time."
+  },
+  {
+    "source_id": "murad_iv",
+    "target_id": "ibrahim_of_the_ottoman_empire",
+    "type": "family",
+    "strength": 0.65,
+    "confidence": 0.85,
+    "reason": "Murad IV ordered the execution of his other brothers to secure his line, but spared Ibrahim, who became the last surviving male Ottoman heir and succeeded him as sultan in 1640."
+  },
+  {
+    "source_id": "j._j._thomson",
+    "target_id": "owen_willans_richardson",
+    "type": "teacher",
+    "strength": 0.6,
+    "confidence": 0.8,
+    "reason": "Richardson studied under J. J. Thomson at Cambridge's Cavendish Laboratory, where his early research into thermionic emission from heated metals began, work that later won him the 1928 Nobel Prize."
+  },
+  {
+    "source_id": "pope_paul_iv",
+    "target_id": "pope_pius_iv",
+    "type": "predecessor",
+    "strength": 0.5,
+    "confidence": 0.9,
+    "reason": "Pius IV was elected pope in 1559 following the death of Paul IV, and promptly moved to prosecute Paul's corrupt Carafa nephews."
+  },
+  {
+    "source_id": "pope_gregory_vii",
+    "target_id": "pope_urban_ii",
+    "type": "mentor",
+    "strength": 0.7,
+    "confidence": 0.85,
+    "reason": "Urban II served as one of Gregory VII's closest cardinal-advisors during the Investiture Controversy and, upon becoming pope himself, continued Gregory's program of church reform and papal authority."
+  },
+  {
+    "source_id": "pope_urban_ii",
+    "target_id": "henry_iv,_holy_roman_emperor",
+    "type": "enemy",
+    "strength": 0.7,
+    "confidence": 0.85,
+    "reason": "Urban II continued the papacy's Investiture Controversy struggle against Henry IV, who backed a rival antipope, Clement III, in opposition to Urban's authority throughout much of his pontificate."
+  },
+  {
+    "source_id": "pope_innocent_vii",
+    "target_id": "pope_gregory_xii",
+    "type": "predecessor",
+    "strength": 0.5,
+    "confidence": 0.85,
+    "reason": "Gregory XII was elected pope in the Roman line in 1406 following the death of Innocent VII, inheriting the ongoing Western Schism against the rival Avignon papacy."
+  },
+  {
+    "source_id": "pope_gregory_xii",
+    "target_id": "sigismund,_holy_roman_emperor",
+    "type": "ally",
+    "strength": 0.55,
+    "confidence": 0.8,
+    "reason": "Sigismund convened the Council of Constance to end the Western Schism, and Gregory XII cooperated by sending representatives to formally open the council before voluntarily resigning the papacy in 1415."
+  },
+  {
+    "source_id": "edgar_degas",
+    "target_id": "henri_de_toulouse-lautrec",
+    "type": "mentor",
+    "strength": 0.5,
+    "confidence": 0.75,
+    "reason": "Toulouse-Lautrec revered Degas as his artistic hero, visited his studio, and closely modeled his own compositions of dancers and cafe life on Degas's unconventional angles and cropping."
+  },
+  {
+    "source_id": "antonie_van_leeuwenhoek",
+    "target_id": "robert_hooke",
+    "type": "collaborator",
+    "strength": 0.6,
+    "confidence": 0.85,
+    "reason": "The Royal Society, skeptical of van Leeuwenhoek's reports of microscopic 'animalcules,' tasked Hooke with replicating his observations, and Hooke's eventual confirmation was crucial to the wider scientific acceptance of his discoveries."
+  },
+  {
+    "source_id": "muhammad",
+    "target_id": "khalid_ibn_al-walid",
+    "type": "ally",
+    "strength": 0.75,
+    "confidence": 0.9,
+    "reason": "Khalid commanded the Meccan cavalry that defeated Muhammad's forces at Uhud, but converted to Islam in 629 and became one of Muhammad's most trusted generals, earning the title 'Sword of Allah.'"
+  },
+  {
+    "source_id": "abu_bakr",
+    "target_id": "khalid_ibn_al-walid",
+    "type": "ally",
+    "strength": 0.8,
+    "confidence": 0.9,
+    "reason": "Abu Bakr relied on Khalid as his chief general to crush the Ridda Wars of apostasy and to launch the early Muslim conquests of Iraq and Syria, cementing the new caliphate's survival."
+  },
+  {
+    "source_id": "augustus",
+    "target_id": "vitruvius",
+    "type": "patron",
+    "strength": 0.6,
+    "confidence": 0.85,
+    "reason": "Vitruvius served under Augustus and dedicated his treatise 'De Architectura' to him, securing a pension from the emperor that let him complete the work that became the foundational text of Western architecture."
+  },
+  {
+    "source_id": "maxim_gorky",
+    "target_id": "joseph_stalin",
+    "type": "enemy",
+    "strength": 0.55,
+    "confidence": 0.65,
+    "reason": "Stalin lured Gorky back to the Soviet Union in 1932 to be celebrated as the founder of Socialist Realism, but Gorky grew increasingly uneasy with the purges, and his sudden death in 1936 was later cited by Stalin's own prosecutors as a murder plot, fueling long-standing suspicion that the regime had him killed."
+  },
+  {
+    "source_id": "abdul_hamid_ii",
+    "target_id": "theodor_herzl",
+    "type": "rival",
+    "strength": 0.5,
+    "confidence": 0.8,
+    "reason": "Herzl repeatedly sought an audience with Abdul Hamid II to negotiate a charter for Jewish settlement in Ottoman Palestine in exchange for financial help with imperial debts, but the sultan refused, famously declaring he would not sell 'so much as a foot of land.'"
+  },
+  {
+    "source_id": "güyük_khan",
+    "target_id": "möngke_khan",
+    "type": "predecessor",
+    "strength": 0.6,
+    "confidence": 0.8,
+    "reason": "After Guyuk's death in 1248 triggered years of succession conflict, Mongke became the next Great Khan in 1251 by violently purging rival Ogedeid and Chagataid princes in the so-called Toluid Revolution."
+  },
+  {
+    "source_id": "henry_iii_of_france",
+    "target_id": "henry_iv_of_france",
+    "type": "predecessor",
+    "strength": 0.7,
+    "confidence": 0.9,
+    "reason": "Henry III named his former enemy Henry of Navarre his heir and allied with him to besiege Catholic League-held Paris, but was assassinated in 1589, leaving Navarre to succeed him as Henry IV and found the Bourbon dynasty."
+  },
+  {
+    "source_id": "ibrahim_of_the_ottoman_empire",
+    "target_id": "mehmed_iv",
+    "type": "predecessor",
+    "strength": 0.6,
+    "confidence": 0.85,
+    "reason": "Mehmed IV was Ibrahim's son, enthroned at age six by the same palace faction that had just deposed and executed his father in 1648."
+  },
+  {
+    "source_id": "clovis_i",
+    "target_id": "theodoric_the_great",
+    "type": "rival",
+    "strength": 0.6,
+    "confidence": 0.8,
+    "reason": "After Clovis crushed the Visigoths and killed King Alaric II at the Battle of Vouille in 507, Theodoric the Great intervened militarily to save the remaining Visigothic territory in southern Gaul from Frankish conquest, checking Clovis's expansion."
   }
 ]
