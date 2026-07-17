@@ -7030,5 +7030,1125 @@
     "strength": 0.5,
     "confidence": 0.7,
     "reason": "Appleton conducted his early radio research at the Cavendish Laboratory during Rutherford's tenure as director, part of the generation of physicists Rutherford shaped there."
+  },
+  {
+    "source_id": "hasan_ibn_ali",
+    "target_id": "husayn_ibn_ali",
+    "type": "family",
+    "strength": 0.85,
+    "confidence": 0.9,
+    "reason": "Hasan and Husayn were brothers, sons of Ali and grandsons of Muhammad, both revered as the second and third Shia Imams; Hasan's earlier abdication of the caliphate to Muawiyah set the stage for Husayn's later stand at Karbala."
+  },
+  {
+    "source_id": "muawiyah_i",
+    "target_id": "husayn_ibn_ali",
+    "type": "rival",
+    "strength": 0.6,
+    "confidence": 0.75,
+    "reason": "Muawiyah's efforts to secure the succession of his son Yazid as caliph, in violation of his treaty with Hasan, put him in direct political tension with Husayn, who refused to recognize the arrangement and would later be killed resisting it at Karbala."
+  },
+  {
+    "source_id": "murad_i",
+    "target_id": "bayezid_i",
+    "type": "predecessor",
+    "strength": 0.7,
+    "confidence": 0.9,
+    "reason": "Bayezid succeeded his father Murad I as Ottoman Sultan on the battlefield at Kosovo in 1389, immediately after Murad was assassinated following the Ottoman victory."
+  },
+  {
+    "source_id": "bayezid_i",
+    "target_id": "mehmed_i",
+    "type": "predecessor",
+    "strength": 0.6,
+    "confidence": 0.8,
+    "reason": "After Bayezid I's death in Timurid captivity, his son Mehmed I emerged victorious from the decade-long Ottoman Interregnum among his brothers to reunify and restore the Ottoman state."
+  },
+  {
+    "source_id": "sigismund,_holy_roman_emperor",
+    "target_id": "bayezid_i",
+    "type": "enemy",
+    "strength": 0.7,
+    "confidence": 0.85,
+    "reason": "Bayezid crushed Sigismund's Crusader army at the Battle of Nicopolis in 1396, one of the largest Crusades of the late Middle Ages and a defining defeat of Sigismund's early reign."
+  },
+  {
+    "source_id": "napoleon",
+    "target_id": "pope_pius_vi",
+    "type": "enemy",
+    "strength": 0.85,
+    "confidence": 0.9,
+    "reason": "French forces under Napoleon's directive invaded the Papal States, and Pius VI was taken prisoner to France in 1799, where he died in captivity within weeks."
+  },
+  {
+    "source_id": "pope_pius_vi",
+    "target_id": "joseph_ii,_holy_roman_emperor",
+    "type": "rival",
+    "strength": 0.5,
+    "confidence": 0.75,
+    "reason": "Pius VI traveled personally to Vienna in 1782 in an unprecedented attempt to persuade Joseph II to reverse his Josephinist reforms curbing Church authority, but the emperor's policies continued largely unchanged."
+  },
+  {
+    "source_id": "pope_clement_xiv",
+    "target_id": "pope_pius_vi",
+    "type": "predecessor",
+    "strength": 0.5,
+    "confidence": 0.85,
+    "reason": "Pius VI was elected pope in 1775 following the death of Clement XIV."
+  },
+  {
+    "source_id": "winston_churchill",
+    "target_id": "harry_s._truman",
+    "type": "ally",
+    "strength": 0.7,
+    "confidence": 0.85,
+    "reason": "Churchill delivered his famous Iron Curtain speech in Truman's home state with the president on stage beside him, and the two worked closely to define the early Western strategy of the Cold War."
+  },
+  {
+    "source_id": "joseph_stalin",
+    "target_id": "harry_s._truman",
+    "type": "rival",
+    "strength": 0.8,
+    "confidence": 0.9,
+    "reason": "Truman and Stalin negotiated tensely at the 1945 Potsdam Conference, where Truman revealed the atomic bomb's existence, and their deepening mutual distrust set the stage for the Cold War."
+  },
+  {
+    "source_id": "harry_s._truman",
+    "target_id": "dwight_d._eisenhower",
+    "type": "predecessor",
+    "strength": 0.5,
+    "confidence": 0.85,
+    "reason": "Eisenhower succeeded Truman as U.S. president in 1953, after a relationship that had soured over Cold War policy disagreements and mutual personal resentment."
+  },
+  {
+    "source_id": "pope_alexander_vii",
+    "target_id": "christina,_queen_of_sweden",
+    "type": "patron",
+    "strength": 0.6,
+    "confidence": 0.8,
+    "reason": "After Christina abdicated the Swedish throne and converted to Catholicism, Pope Alexander VII personally welcomed her into Rome with elaborate ceremony and gave her a residence and lifelong patronage in the city."
+  },
+  {
+    "source_id": "parmenides",
+    "target_id": "empedocles",
+    "type": "teacher",
+    "strength": 0.5,
+    "confidence": 0.6,
+    "reason": "Ancient sources including Diogenes Laertius report that Empedocles was an associate or student of Parmenides, whose philosophy of being shaped Empedocles's own cosmological system of the four elements."
+  },
+  {
+    "source_id": "empedocles",
+    "target_id": "gorgias",
+    "type": "teacher",
+    "strength": 0.5,
+    "confidence": 0.6,
+    "reason": "Diogenes Laertius records Gorgias as a student of Empedocles, from whom he learned the rhetorical and philosophical techniques he later developed into his own sophistic teaching."
+  },
+  {
+    "source_id": "theodora_(6th_century)",
+    "target_id": "belisarius",
+    "type": "rival",
+    "strength": 0.5,
+    "confidence": 0.6,
+    "reason": "According to Procopius's Secret History, Theodora distrusted Belisarius's growing power and repeatedly used his wife Antonina, her close ally, to keep the general politically off balance."
+  },
+  {
+    "source_id": "pope_innocent_x",
+    "target_id": "gian_lorenzo_bernini",
+    "type": "patron",
+    "strength": 0.5,
+    "confidence": 0.75,
+    "reason": "Innocent X initially sidelined Bernini in favor of his rival Borromini but later restored his favor, commissioning the celebrated Fountain of the Four Rivers in Piazza Navona."
+  },
+  {
+    "source_id": "pope_alexander_vii",
+    "target_id": "gian_lorenzo_bernini",
+    "type": "patron",
+    "strength": 0.8,
+    "confidence": 0.9,
+    "reason": "Alexander VII commissioned Bernini to design the great colonnade of St. Peter's Square, one of his defining architectural achievements."
+  },
+  {
+    "source_id": "louis_xiv_of_france",
+    "target_id": "gian_lorenzo_bernini",
+    "type": "patron",
+    "strength": 0.5,
+    "confidence": 0.75,
+    "reason": "Louis XIV invited Bernini to Paris in 1665 to redesign the Louvre and had him sculpt a celebrated marble bust of the king, though his architectural plans for the palace were ultimately rejected."
+  },
+  {
+    "source_id": "john_dalton",
+    "target_id": "jöns_jacob_berzelius",
+    "type": "collaborator",
+    "strength": 0.5,
+    "confidence": 0.7,
+    "reason": "Berzelius corresponded with Dalton and built directly on his atomic theory, refining Dalton's atomic weight tables with far more accurate measurements and devising the modern chemical symbol notation."
+  },
+  {
+    "source_id": "orhan",
+    "target_id": "murad_i",
+    "type": "predecessor",
+    "strength": 0.7,
+    "confidence": 0.85,
+    "reason": "Murad I succeeded his father Orhan as Ottoman ruler in 1362, continuing the beylik's expansion into the Balkans and formally taking the title of Sultan."
+  },
+  {
+    "source_id": "felix_mendelssohn",
+    "target_id": "clara_schumann",
+    "type": "friend",
+    "strength": 0.6,
+    "confidence": 0.8,
+    "reason": "Mendelssohn was a close friend and admirer of Clara Schumann, championing her performances in Leipzig and dedicating some of his own works partly in recognition of her artistry."
+  },
+  {
+    "source_id": "felix_mendelssohn",
+    "target_id": "queen_victoria",
+    "type": "friend",
+    "strength": 0.5,
+    "confidence": 0.8,
+    "reason": "Mendelssohn performed privately for Queen Victoria and Prince Albert at Buckingham Palace, and the couple, both devoted amateur musicians, considered him a personal friend and their favorite living composer."
+  },
+  {
+    "source_id": "trajan",
+    "target_id": "plutarch",
+    "type": "patron",
+    "strength": 0.4,
+    "confidence": 0.6,
+    "reason": "Later Roman tradition holds that Trajan granted Plutarch consular rank and administrative authority over Greece in recognition of his standing as a philosopher and man of letters."
+  },
+  {
+    "source_id": "hadrian",
+    "target_id": "plutarch",
+    "type": "patron",
+    "strength": 0.4,
+    "confidence": 0.6,
+    "reason": "Hadrian is recorded as having appointed the aging Plutarch procurator of the province of Achaea, a mark of imperial favor toward the philosopher in his final years."
+  },
+  {
+    "source_id": "christian_ix_of_denmark",
+    "target_id": "alexander_iii_of_russia",
+    "type": "family",
+    "strength": 0.7,
+    "confidence": 0.95,
+    "reason": "Christian IX was Alexander III's father-in-law after the tsar married his daughter Dagmar, who took the name Maria Feodorovna, cementing Denmark's ties to the Russian imperial family."
+  },
+  {
+    "source_id": "christian_ix_of_denmark",
+    "target_id": "christian_x_of_denmark",
+    "type": "family",
+    "strength": 0.5,
+    "confidence": 0.8,
+    "reason": "Christian X was Christian IX's grandson, inheriting the Danish throne within the Glucksburg dynasty that his grandfather had founded when elected king in 1863."
+  },
+  {
+    "source_id": "franz_liszt",
+    "target_id": "edvard_grieg",
+    "type": "mentor",
+    "strength": 0.6,
+    "confidence": 0.8,
+    "reason": "Liszt met with the young Grieg in Rome in 1870, sight-read and enthusiastically praised his newly composed Piano Concerto, and wrote him a letter of recommendation that helped secure state funding for his career."
+  },
+  {
+    "source_id": "rabindranath_tagore",
+    "target_id": "albert_einstein",
+    "type": "friend",
+    "strength": 0.5,
+    "confidence": 0.85,
+    "reason": "Tagore and Einstein held a celebrated 1930 dialogue at Einstein's home in Berlin debating the nature of truth and reality, a meeting of science and spirituality later published and widely discussed."
+  },
+  {
+    "source_id": "rabindranath_tagore",
+    "target_id": "romain_rolland",
+    "type": "friend",
+    "strength": 0.5,
+    "confidence": 0.75,
+    "reason": "Rolland became one of Tagore's most devoted European admirers and correspondents, helping introduce his work and pacifist internationalism to French intellectual circles."
+  },
+  {
+    "source_id": "rudolf_ii,_holy_roman_emperor",
+    "target_id": "tycho_brahe",
+    "type": "patron",
+    "strength": 0.7,
+    "confidence": 0.85,
+    "reason": "After losing favor in Denmark, Tycho was welcomed to Prague by Rudolf II, who appointed him imperial mathematician and gave him the resources to continue his astronomical work until his death."
+  },
+  {
+    "source_id": "pope_julius_iii",
+    "target_id": "giovanni_pierluigi_da_palestrina",
+    "type": "patron",
+    "strength": 0.7,
+    "confidence": 0.85,
+    "reason": "Julius III, who had known Palestrina as choirmaster in his native Palestrina, appointed him to head the Julian Chapel choir and later admitted him to the Sistine Chapel choir."
+  },
+  {
+    "source_id": "pope_marcellus_ii",
+    "target_id": "giovanni_pierluigi_da_palestrina",
+    "type": "patron",
+    "strength": 0.5,
+    "confidence": 0.7,
+    "reason": "Palestrina dedicated his celebrated Missa Papae Marcelli to Marcellus II, honoring the pope's brief reign and his concern that sacred polyphony remain intelligible to worshippers."
+  },
+  {
+    "source_id": "pope_pius_iv",
+    "target_id": "giovanni_pierluigi_da_palestrina",
+    "type": "patron",
+    "strength": 0.6,
+    "confidence": 0.75,
+    "reason": "Pius IV reinstated Palestrina at the Vatican as maestro of the Cappella Giulia after he had earlier been dismissed under Paul IV, and his reign coincided with the Council of Trent's deliberations that shaped Palestrina's mature liturgical style."
+  },
+  {
+    "source_id": "alexander_von_humboldt",
+    "target_id": "simón_bolívar",
+    "type": "friend",
+    "strength": 0.6,
+    "confidence": 0.8,
+    "reason": "Bolivar met Humboldt in Paris in 1804 and was profoundly influenced by his scientific accounts of South America, later crediting him as having done more to reveal the continent's true nature than any conqueror."
+  },
+  {
+    "source_id": "guglielmo_marconi",
+    "target_id": "benito_mussolini",
+    "type": "ally",
+    "strength": 0.6,
+    "confidence": 0.8,
+    "reason": "Marconi was an enthusiastic supporter of Mussolini's Fascist regime, joining the Fascist Party and serving as president of the Royal Academy of Italy and a member of the Fascist Grand Council."
+  },
+  {
+    "source_id": "pope_boniface_viii",
+    "target_id": "philip_iv_of_france",
+    "type": "enemy",
+    "strength": 0.9,
+    "confidence": 0.95,
+    "reason": "Philip IV's dispute with Boniface VIII over royal taxation of the clergy escalated into the Outrage of Anagni, where Philip's agents seized and beat the elderly pope, who died weeks later."
+  },
+  {
+    "source_id": "philip_iv_of_france",
+    "target_id": "pope_clement_v",
+    "type": "ally",
+    "strength": 0.7,
+    "confidence": 0.85,
+    "reason": "Philip IV secured the election of the French Clement V, who moved the papacy to Avignon and, under Philip's pressure, suppressed the Knights Templar and posthumously absolved Boniface VIII's memory of heresy charges."
+  },
+  {
+    "source_id": "william_thomson,_1st_baron_kelvin",
+    "target_id": "james_clerk_maxwell",
+    "type": "collaborator",
+    "strength": 0.6,
+    "confidence": 0.8,
+    "reason": "Maxwell and Kelvin exchanged extensive correspondence on electromagnetism and thermodynamics, with Kelvin's earlier field-theoretic thinking helping shape the mathematical framework Maxwell developed for his electromagnetic theory."
+  },
+  {
+    "source_id": "charles_martel",
+    "target_id": "pepin_the_short",
+    "type": "predecessor",
+    "strength": 0.7,
+    "confidence": 0.85,
+    "reason": "Pepin the Short inherited his father Charles Martel's position as Mayor of the Palace, ruling the Franks in all but name before eventually deposing the last Merovingian king to take the crown himself."
+  },
+  {
+    "source_id": "pepin_the_short",
+    "target_id": "pope-elect_stephen",
+    "type": "ally",
+    "strength": 0.7,
+    "confidence": 0.8,
+    "reason": "Pope Stephen II traveled to Francia to anoint Pepin king, and in return Pepin led campaigns against the Lombards and issued the Donation of Pepin, granting the papacy temporal rule over central Italy and founding the Papal States."
+  },
+  {
+    "source_id": "pericles",
+    "target_id": "protagoras",
+    "type": "patron",
+    "strength": 0.6,
+    "confidence": 0.75,
+    "reason": "Pericles personally selected Protagoras to draft the law code for the new Athenian colony of Thurii around 444 BCE, a mark of the statesman's trust in the sophist's expertise."
+  },
+  {
+    "source_id": "sigmund_freud",
+    "target_id": "stefan_zweig",
+    "type": "friend",
+    "strength": 0.7,
+    "confidence": 0.85,
+    "reason": "Zweig and Freud maintained a close friendship and correspondence over many years, and Zweig delivered the eulogy at Freud's funeral in London in 1939."
+  },
+  {
+    "source_id": "romain_rolland",
+    "target_id": "stefan_zweig",
+    "type": "friend",
+    "strength": 0.7,
+    "confidence": 0.85,
+    "reason": "Rolland and Zweig formed a close friendship and extensive correspondence rooted in shared pacifism during World War I, and Zweig later wrote a biography of Rolland."
+  },
+  {
+    "source_id": "richard_strauss",
+    "target_id": "stefan_zweig",
+    "type": "collaborator",
+    "strength": 0.6,
+    "confidence": 0.85,
+    "reason": "Zweig wrote the libretto for Strauss's opera Die schweigsame Frau, and Strauss's insistence on keeping his Jewish collaborator's name on the program despite Nazi pressure led to the opera's suppression and Strauss's temporary fall from official favor."
+  },
+  {
+    "source_id": "thomas_mann",
+    "target_id": "albert_einstein",
+    "type": "ally",
+    "strength": 0.5,
+    "confidence": 0.7,
+    "reason": "As prominent German exiles in America, Mann and Einstein were allied voices against Nazism, jointly lending their names and public support to anti-fascist committees and refugee causes during the 1930s and 1940s."
+  },
+  {
+    "source_id": "pope_innocent_iii",
+    "target_id": "philip_ii_of_france",
+    "type": "rival",
+    "strength": 0.6,
+    "confidence": 0.8,
+    "reason": "Innocent III placed France under interdict in 1200 to force Philip II to take back his repudiated wife Ingeborg of Denmark, a direct clash between papal authority over marriage and royal will."
+  },
+  {
+    "source_id": "marie_louise,_duchess_of_parma",
+    "target_id": "napoleon_ii",
+    "type": "family",
+    "strength": 0.7,
+    "confidence": 0.9,
+    "reason": "Marie Louise was the mother of Napoleon II, though she left him in Austria after Napoleon's fall."
+  },
+  {
+    "source_id": "francis_ii,_holy_roman_emperor",
+    "target_id": "napoleon_ii",
+    "type": "family",
+    "strength": 0.6,
+    "confidence": 0.85,
+    "reason": "Francis II was the maternal grandfather of Napoleon II and raised him at the Habsburg court in Vienna after Napoleon's downfall."
+  },
+  {
+    "source_id": "david_hume",
+    "target_id": "jean-jacques_rousseau",
+    "type": "enemy",
+    "strength": 0.6,
+    "confidence": 0.9,
+    "reason": "Hume gave the exiled Rousseau refuge in England in 1766, but Rousseau's paranoid accusations of conspiracy against him led to a bitter, publicly documented falling out."
+  },
+  {
+    "source_id": "pope_pius_ii",
+    "target_id": "pope_pius_iii",
+    "type": "family",
+    "strength": 0.6,
+    "confidence": 0.9,
+    "reason": "Pius III was the nephew of Pius II, who made him a cardinal-archbishop at age 21, launching his ecclesiastical career; he later took the name Pius in his uncle's honor."
+  },
+  {
+    "source_id": "pope_pius_iii",
+    "target_id": "pope_julius_ii",
+    "type": "predecessor",
+    "strength": 0.5,
+    "confidence": 0.9,
+    "reason": "Julius II was elected pope in 1503 immediately following Pius III's death after a reign of less than a month."
+  },
+  {
+    "source_id": "bertrand_russell",
+    "target_id": "ludwig_wittgenstein",
+    "type": "teacher",
+    "strength": 0.85,
+    "confidence": 0.95,
+    "reason": "Russell supervised Wittgenstein's studies in logic at Cambridge and championed him as a philosophical genius who would carry his work forward."
+  },
+  {
+    "source_id": "john_maynard_keynes",
+    "target_id": "ludwig_wittgenstein",
+    "type": "friend",
+    "strength": 0.6,
+    "confidence": 0.85,
+    "reason": "Keynes, a longtime friend from Cambridge circles, personally arranged and funded Wittgenstein's return to Cambridge in 1929."
+  },
+  {
+    "source_id": "marie_thérèse_of_france",
+    "target_id": "louis_xvii_of_france",
+    "type": "family",
+    "strength": 0.6,
+    "confidence": 0.9,
+    "reason": "Marie Therese was Louis XVII's elder sister; the two siblings were imprisoned together in the Temple, and she was the only member of their immediate family to survive the ordeal."
+  },
+  {
+    "source_id": "arius",
+    "target_id": "eusebius",
+    "type": "ally",
+    "strength": 0.6,
+    "confidence": 0.8,
+    "reason": "Eusebius of Caesarea sympathized with Arius's theological position during the Arian controversy, corresponded in his defense, and worked to have him readmitted to communion after the Council of Nicaea."
+  },
+  {
+    "source_id": "queen_victoria",
+    "target_id": "florence_nightingale",
+    "type": "patron",
+    "strength": 0.6,
+    "confidence": 0.85,
+    "reason": "Queen Victoria personally received Nightingale after the Crimean War, championed her campaign for army medical reform, and gave royal backing that helped establish the Nightingale Training School."
+  },
+  {
+    "source_id": "oscar_wilde",
+    "target_id": "arthur_conan_doyle",
+    "type": "friend",
+    "strength": 0.55,
+    "confidence": 0.85,
+    "reason": "Doyle and Wilde became friends after a famous 1889 dinner with publisher Joseph Stoddart that directly commissioned both 'The Sign of Four' and 'The Picture of Dorian Gray.'"
+  },
+  {
+    "source_id": "marie_de'_medici",
+    "target_id": "cardinal_richelieu",
+    "type": "enemy",
+    "strength": 0.75,
+    "confidence": 0.9,
+    "reason": "Marie de' Medici, who had first advanced Richelieu's career, later turned against him and tried to force Louis XIII to dismiss him on the Day of the Dupes in 1630; Richelieu instead won the king's backing and had her exiled."
+  },
+  {
+    "source_id": "cardinal_richelieu",
+    "target_id": "cardinal_mazarin",
+    "type": "mentor",
+    "strength": 0.75,
+    "confidence": 0.9,
+    "reason": "Richelieu recruited Mazarin into French service, groomed him as his protege, and recommended him as his successor, which Louis XIII honored after Richelieu's death."
+  },
+  {
+    "source_id": "henry_viii_of_england",
+    "target_id": "james_v_of_scotland",
+    "type": "enemy",
+    "strength": 0.7,
+    "confidence": 0.85,
+    "reason": "Henry VIII, his uncle, pressed James V to break with Rome and ally with England; when James refused and kept the French alliance, Henry sent an army that crushed the Scots at Solway Moss in 1542, a defeat that hastened James's death weeks later."
+  },
+  {
+    "source_id": "francis_i_of_france",
+    "target_id": "james_v_of_scotland",
+    "type": "ally",
+    "strength": 0.55,
+    "confidence": 0.75,
+    "reason": "Francis I cemented the Auld Alliance with Scotland by marrying his daughter Madeleine to James V in 1537, binding the two crowns together against England."
+  },
+  {
+    "source_id": "robert_frost",
+    "target_id": "ezra_pound",
+    "type": "ally",
+    "strength": 0.5,
+    "confidence": 0.85,
+    "reason": "Pound championed Frost's debut collection 'A Boy's Will' after they met in London in 1913, reviewing it favorably and helping launch Frost's career, though their personal relationship later cooled."
+  },
+  {
+    "source_id": "pope_clement_xii",
+    "target_id": "pope_benedict_xiv",
+    "type": "predecessor",
+    "strength": 0.5,
+    "confidence": 0.9,
+    "reason": "Benedict XIV was elected pope in 1740 following Clement XII's death, after one of the longest conclaves in papal history."
+  },
+  {
+    "source_id": "pope_benedict_xiv",
+    "target_id": "pope_clement_xiii",
+    "type": "predecessor",
+    "strength": 0.5,
+    "confidence": 0.9,
+    "reason": "Clement XIII was elected pope in 1758 immediately following Benedict XIV's death."
+  },
+  {
+    "source_id": "pope_benedict_xiv",
+    "target_id": "voltaire",
+    "type": "friend",
+    "strength": 0.4,
+    "confidence": 0.7,
+    "reason": "Voltaire dedicated his play 'Mahomet' to Benedict XIV, and the pope sent back a warmly appreciative letter, a celebrated exchange of mutual regard despite Voltaire's reputation as a critic of the Church."
+  },
+  {
+    "source_id": "harald_bluetooth",
+    "target_id": "otto_ii,_holy_roman_emperor",
+    "type": "enemy",
+    "strength": 0.6,
+    "confidence": 0.8,
+    "reason": "Otto II invaded Denmark and defeated Harald Bluetooth in 974, annexing the Danevirke border region, though the Danes reclaimed it after Otto's death in 983."
+  },
+  {
+    "source_id": "claude_debussy",
+    "target_id": "maurice_ravel",
+    "type": "rival",
+    "strength": 0.65,
+    "confidence": 0.85,
+    "reason": "Debussy and Ravel were initially friendly but became rivals as critics pitted their impressionist styles against each other, souring into open hostility after disputes over who influenced whom, notably around their competing settings of Poe and Verlaine texts."
+  },
+  {
+    "source_id": "george_vi",
+    "target_id": "wallis_simpson",
+    "type": "enemy",
+    "strength": 0.6,
+    "confidence": 0.8,
+    "reason": "Wallis Simpson's relationship with Edward VIII forced the abdication that thrust the reluctant George VI onto the throne, and the royal family, resenting the upheaval, denied her the title of Her Royal Highness and kept her permanently estranged from them."
+  },
+  {
+    "source_id": "sigmund_freud",
+    "target_id": "romain_rolland",
+    "type": "friend",
+    "strength": 0.55,
+    "confidence": 0.85,
+    "reason": "Freud and Rolland maintained a warm correspondence over two decades, and Rolland's description of a boundless 'oceanic feeling' underlying religious sentiment directly prompted Freud to open 'Civilization and Its Discontents' with a response to him."
+  },
+  {
+    "source_id": "philip_ii_of_macedon",
+    "target_id": "aristotle",
+    "type": "patron",
+    "strength": 0.75,
+    "confidence": 0.9,
+    "reason": "Philip II invited Aristotle to Macedon and funded his school at Mieza specifically to tutor his son Alexander, one of history's most consequential acts of royal patronage of a philosopher."
+  },
+  {
+    "source_id": "demosthenes",
+    "target_id": "philip_ii_of_macedon",
+    "type": "enemy",
+    "strength": 0.75,
+    "confidence": 0.9,
+    "reason": "Demosthenes delivered his famous 'Philippics,' rallying Athens and other Greek city-states against Philip's expansion, making the two the defining opposed figures of the struggle for Greek independence from Macedon."
+  },
+  {
+    "source_id": "jean_de_la_fontaine",
+    "target_id": "charles_perrault",
+    "type": "rival",
+    "strength": 0.6,
+    "confidence": 0.8,
+    "reason": "La Fontaine and Perrault became opposing figureheads in the Quarrel of the Ancients and the Moderns, a defining literary controversy of the French Academy in which La Fontaine defended classical models and Perrault championed the superiority of contemporary writers."
+  },
+  {
+    "source_id": "louis_xiv_of_france",
+    "target_id": "charles_perrault",
+    "type": "patron",
+    "strength": 0.6,
+    "confidence": 0.85,
+    "reason": "As Colbert's chief aide overseeing royal patronage of the arts, Perrault administered Louis XIV's support for the academies and glorified the king's reign in verse, holding his position by royal favor until Colbert's death."
+  },
+  {
+    "source_id": "william_i,_german_emperor",
+    "target_id": "napoleon_iii",
+    "type": "enemy",
+    "strength": 0.75,
+    "confidence": 0.9,
+    "reason": "William I's Prussian-led forces crushed and captured Napoleon III at the Battle of Sedan in 1870, ending the Second French Empire and clearing the way for William's proclamation as German Emperor at Versailles the following year."
+  },
+  {
+    "source_id": "william_i,_german_emperor",
+    "target_id": "wilhelm_ii,_german_emperor",
+    "type": "family",
+    "strength": 0.5,
+    "confidence": 0.8,
+    "reason": "Wilhelm II was William I's grandson and was raised as heir to the new German Empire his grandfather had founded, inheriting the throne two emperors later in 1888."
+  },
+  {
+    "source_id": "ferdinand_i,_holy_roman_emperor",
+    "target_id": "maximilian_ii,_holy_roman_emperor",
+    "type": "predecessor",
+    "strength": 0.6,
+    "confidence": 0.9,
+    "reason": "Maximilian II was the son of Ferdinand I and succeeded him as Holy Roman Emperor upon his death in 1564."
+  },
+  {
+    "source_id": "maximilian_ii,_holy_roman_emperor",
+    "target_id": "rudolf_ii,_holy_roman_emperor",
+    "type": "predecessor",
+    "strength": 0.6,
+    "confidence": 0.9,
+    "reason": "Rudolf II was the son of Maximilian II and succeeded him as Holy Roman Emperor upon his death in 1576."
+  },
+  {
+    "source_id": "pope_pius_iv",
+    "target_id": "pope_pius_v",
+    "type": "predecessor",
+    "strength": 0.5,
+    "confidence": 0.9,
+    "reason": "Pius V was elected pope in 1566 following the death of Pius IV, who had made him a cardinal and grand inquisitor."
+  },
+  {
+    "source_id": "pope_pius_v",
+    "target_id": "elizabeth_i_of_england",
+    "type": "enemy",
+    "strength": 0.75,
+    "confidence": 0.9,
+    "reason": "Pius V issued the papal bull Regnans in Excelsis in 1570, excommunicating Elizabeth I and declaring her deposed, which released English Catholics from allegiance to her and fueled decades of plots against her reign."
+  },
+  {
+    "source_id": "james_clerk_maxwell",
+    "target_id": "john_william_strutt,_3rd_baron_rayleigh",
+    "type": "predecessor",
+    "strength": 0.5,
+    "confidence": 0.85,
+    "reason": "Rayleigh succeeded Maxwell as the second Cavendish Professor of Physics at Cambridge in 1879, following Maxwell's death, and ran the Cavendish Laboratory Maxwell had founded."
+  },
+  {
+    "source_id": "john_william_strutt,_3rd_baron_rayleigh",
+    "target_id": "j._j._thomson",
+    "type": "predecessor",
+    "strength": 0.5,
+    "confidence": 0.85,
+    "reason": "Rayleigh stepped down as Cavendish Professor of Physics at Cambridge in 1884 and was succeeded by J. J. Thomson, who led the laboratory to its discovery of the electron."
+  },
+  {
+    "source_id": "edward_the_black_prince",
+    "target_id": "john_of_gaunt",
+    "type": "family",
+    "strength": 0.6,
+    "confidence": 0.85,
+    "reason": "Edward and John of Gaunt were brothers, sons of Edward III, who campaigned together in the Hundred Years' War; after Edward's early death, Gaunt became the dominant power behind Edward's young son Richard II."
+  },
+  {
+    "source_id": "hector_berlioz",
+    "target_id": "richard_wagner",
+    "type": "rival",
+    "strength": 0.55,
+    "confidence": 0.75,
+    "reason": "Berlioz and Wagner respected each other's orchestral innovation but became public rivals in the Paris and German press over the future direction of Romantic music, with Berlioz growing openly critical of Wagner's theories in his later writings."
+  },
+  {
+    "source_id": "hector_berlioz",
+    "target_id": "robert_schumann",
+    "type": "ally",
+    "strength": 0.5,
+    "confidence": 0.8,
+    "reason": "Schumann used his influential Neue Zeitschrift fur Musik to write one of the earliest and most enthusiastic critical champion pieces on Berlioz's Symphonie Fantastique, helping build his reputation in the German-speaking world."
+  },
+  {
+    "source_id": "kösem_sultan",
+    "target_id": "murad_iv",
+    "type": "family",
+    "strength": 0.8,
+    "confidence": 0.9,
+    "reason": "Kosem Sultan ruled the Ottoman Empire as regent for her son Murad IV during his minority, wielding effective power as valide sultan until he came of age and asserted control himself."
+  },
+  {
+    "source_id": "kösem_sultan",
+    "target_id": "ibrahim_of_the_ottoman_empire",
+    "type": "family",
+    "strength": 0.75,
+    "confidence": 0.85,
+    "reason": "Kosem Sultan again served as regent and chief power behind the throne for her son Ibrahim, and ultimately backed the palace faction that deposed and executed him in 1648 when his erratic rule threatened the dynasty."
+  },
+  {
+    "source_id": "auguste_rodin",
+    "target_id": "rainer_maria_rilke",
+    "type": "mentor",
+    "strength": 0.65,
+    "confidence": 0.9,
+    "reason": "Rilke served as Rodin's secretary in 1905-1906 and wrote an influential monograph on him, and Rodin's approach to sculptural observation profoundly shaped Rilke's 'thing-poems' before the two had a bitter falling out."
+  },
+  {
+    "source_id": "auguste_rodin",
+    "target_id": "claude_monet",
+    "type": "friend",
+    "strength": 0.5,
+    "confidence": 0.8,
+    "reason": "Rodin and Monet were close friends who mounted a celebrated joint exhibition of their work at the Galerie Georges Petit in Paris in 1889."
+  },
+  {
+    "source_id": "vladimir_lenin",
+    "target_id": "ivan_pavlov",
+    "type": "patron",
+    "strength": 0.55,
+    "confidence": 0.85,
+    "reason": "Despite Pavlov's open criticism of the Bolshevik government, Lenin issued a 1921 decree granting his laboratory special protection, funding, and privileges to keep his physiological research in Russia."
+  },
+  {
+    "source_id": "camille_saint-saëns",
+    "target_id": "georges_bizet",
+    "type": "friend",
+    "strength": 0.6,
+    "confidence": 0.8,
+    "reason": "Saint-Saens and Bizet were close friends from their student days at the Paris Conservatoire, and Saint-Saens remained a lifelong champion of Bizet's music after his early death."
+  },
+  {
+    "source_id": "pope_paul_iii",
+    "target_id": "charles_v,_holy_roman_emperor",
+    "type": "enemy",
+    "strength": 0.55,
+    "confidence": 0.75,
+    "reason": "Though Paul III worked with Charles V to convene the Council of Trent, their alliance collapsed after the 1547 assassination of Paul's son Pier Luigi Farnese, which Paul blamed on Charles's governor, and Charles's forces then seized the Farnese duchy of Piacenza."
+  },
+  {
+    "source_id": "pope_linus",
+    "target_id": "pope_anacletus",
+    "type": "predecessor",
+    "strength": 0.7,
+    "confidence": 0.8,
+    "reason": "Anacletus succeeded Linus as Bishop of Rome according to the traditional early papal succession list."
+  },
+  {
+    "source_id": "bernard_of_clairvaux",
+    "target_id": "hildegard_of_bingen",
+    "type": "ally",
+    "strength": 0.6,
+    "confidence": 0.85,
+    "reason": "Bernard of Clairvaux publicly endorsed Hildegard's visions and championed her cause at the 1147 Synod of Trier, helping secure papal approval from Pope Eugene III for her writings."
+  },
+  {
+    "source_id": "frederick_i,_holy_roman_emperor",
+    "target_id": "hildegard_of_bingen",
+    "type": "patron",
+    "strength": 0.5,
+    "confidence": 0.8,
+    "reason": "Frederick Barbarossa issued an imperial charter placing Hildegard's Rupertsberg monastery under his protection, though she later wrote him letters admonishing his support for antipopes during the papal schism."
+  },
+  {
+    "source_id": "isabella_i_of_castile",
+    "target_id": "ferdinand_ii_of_aragon",
+    "type": "spouse",
+    "strength": 1.0,
+    "confidence": 1.0,
+    "reason": "Isabella married Ferdinand of Aragon in 1469, and their union of Castile and Aragon as joint 'Catholic Monarchs' created the political foundation of a unified Spain."
+  },
+  {
+    "source_id": "isabella_i_of_castile",
+    "target_id": "joanna_of_castile",
+    "type": "family",
+    "strength": 0.7,
+    "confidence": 0.9,
+    "reason": "Joanna was Isabella's daughter and heir, inheriting the crown of Castile upon Isabella's death in 1504, though her subsequent mental instability led to her being sidelined from real power."
+  },
+  {
+    "source_id": "isabella_i_of_castile",
+    "target_id": "catherine_of_aragon",
+    "type": "family",
+    "strength": 0.65,
+    "confidence": 0.9,
+    "reason": "Catherine was Isabella's youngest daughter, sent to England to marry into the Tudor dynasty; her later marriage to Henry VIII and its annulment reshaped English religious history."
+  },
+  {
+    "source_id": "claude_debussy",
+    "target_id": "maurice_maeterlinck",
+    "type": "collaborator",
+    "strength": 0.55,
+    "confidence": 0.85,
+    "reason": "Debussy adapted Maeterlinck's play into his only completed opera, 'Pelleas et Melisande' (1902), though the two fell into a bitter public dispute after Debussy passed over Maeterlinck's partner for the lead role."
+  },
+  {
+    "source_id": "pablo_picasso",
+    "target_id": "amedeo_modigliani",
+    "type": "friend",
+    "strength": 0.55,
+    "confidence": 0.8,
+    "reason": "Picasso and Modigliani were fellow fixtures of the Montparnasse bohemian art scene in Paris, drinking and socializing together while maintaining a friendly rivalry as painters."
+  },
+  {
+    "source_id": "amedeo_modigliani",
+    "target_id": "jean_cocteau",
+    "type": "friend",
+    "strength": 0.5,
+    "confidence": 0.8,
+    "reason": "Modigliani painted a well-known 1916 portrait of Cocteau, part of a circle of Montparnasse artists and writers who frequented the same cafes and studios."
+  },
+  {
+    "source_id": "pope_callixtus_iii",
+    "target_id": "pope_pius_ii",
+    "type": "predecessor",
+    "strength": 0.5,
+    "confidence": 0.9,
+    "reason": "Pius II was elected pope in 1458 following the death of Callixtus III, who had earlier made him a cardinal."
+  },
+  {
+    "source_id": "pope_pius_ii",
+    "target_id": "mehmed_the_conqueror",
+    "type": "enemy",
+    "strength": 0.65,
+    "confidence": 0.85,
+    "reason": "Alarmed by Mehmed's conquest of Constantinople, Pius II spent his papacy trying to organize a crusade against the Ottomans and personally traveled to Ancona to lead the expedition, dying there in 1464 before it could sail."
+  },
+  {
+    "source_id": "pope_clement_x",
+    "target_id": "pope_innocent_xi",
+    "type": "predecessor",
+    "strength": 0.5,
+    "confidence": 0.9,
+    "reason": "Innocent XI was elected pope in 1676 following the death of Clement X."
+  },
+  {
+    "source_id": "pope_innocent_xi",
+    "target_id": "pope_alexander_viii",
+    "type": "predecessor",
+    "strength": 0.5,
+    "confidence": 0.9,
+    "reason": "Alexander VIII was elected pope in 1689 following the death of Innocent XI."
+  },
+  {
+    "source_id": "pope_innocent_xi",
+    "target_id": "louis_xiv_of_france",
+    "type": "enemy",
+    "strength": 0.65,
+    "confidence": 0.85,
+    "reason": "Innocent XI clashed bitterly with Louis XIV over the Gallican Articles, which asserted French royal authority over the church, refusing to confirm Louis's episcopal nominees and pushing the dispute to the brink of schism."
+  },
+  {
+    "source_id": "pope_innocent_xi",
+    "target_id": "john_iii_sobieski",
+    "type": "ally",
+    "strength": 0.7,
+    "confidence": 0.9,
+    "reason": "Innocent XI organized and financed the Holy League that backed John III Sobieski's relief of Vienna in 1683, a decisive victory that halted the Ottoman advance into Europe."
+  },
+  {
+    "source_id": "pope_gregory_ix",
+    "target_id": "anthony_of_padua",
+    "type": "ally",
+    "strength": 0.5,
+    "confidence": 0.8,
+    "reason": "Pope Gregory IX, who had heard Anthony preach in Rome and admired his eloquence, canonized him within less than a year of his death in 1232, one of the fastest canonizations in church history."
+  },
+  {
+    "source_id": "charles_xiv_john_of_sweden",
+    "target_id": "napoleon",
+    "type": "enemy",
+    "strength": 0.65,
+    "confidence": 0.85,
+    "reason": "Bernadotte served as one of Napoleon's marshals before becoming Crown Prince of Sweden, then decisively turned against his former emperor by joining the Sixth Coalition and fighting against France at the Battle of Leipzig in 1813."
+  },
+  {
+    "source_id": "alexander_i_of_russia",
+    "target_id": "charles_xiv_john_of_sweden",
+    "type": "ally",
+    "strength": 0.55,
+    "confidence": 0.8,
+    "reason": "Alexander I and Bernadotte formed a wartime alliance in 1812 that helped bring Sweden into the coalition against Napoleon, with Russia backing Bernadotte's later acquisition of Norway in exchange."
+  },
+  {
+    "source_id": "artaxerxes_i_of_persia",
+    "target_id": "themistocles",
+    "type": "patron",
+    "strength": 0.6,
+    "confidence": 0.85,
+    "reason": "After Themistocles was ostracized from Athens, Artaxerxes I granted him asylum and made him governor of Magnesia and other Anatolian cities, providing him refuge and a livelihood for the rest of his life."
+  },
+  {
+    "source_id": "robert_boyle",
+    "target_id": "robert_hooke",
+    "type": "collaborator",
+    "strength": 0.75,
+    "confidence": 0.9,
+    "reason": "Hooke served as Boyle's laboratory assistant and built the air pump that enabled the experiments underlying Boyle's Law, launching Hooke's scientific career."
+  },
+  {
+    "source_id": "anaxagoras",
+    "target_id": "euripides",
+    "type": "teacher",
+    "strength": 0.6,
+    "confidence": 0.75,
+    "reason": "Ancient sources describe Euripides as a student of Anaxagoras, whose naturalistic cosmology shaped the skeptical questioning of the gods found throughout Euripides's tragedies."
+  },
+  {
+    "source_id": "oda_nobunaga",
+    "target_id": "toyotomi_hideyoshi",
+    "type": "mentor",
+    "strength": 0.8,
+    "confidence": 0.9,
+    "reason": "Nobunaga recognized and promoted the low-born Hideyoshi through the ranks of his army despite his humble origins, and after Nobunaga's death Hideyoshi avenged him and completed his campaign to unify Japan."
+  },
+  {
+    "source_id": "oda_nobunaga",
+    "target_id": "tokugawa_ieyasu",
+    "type": "ally",
+    "strength": 0.8,
+    "confidence": 0.9,
+    "reason": "Nobunaga and Ieyasu formed the Kiyosu Alliance in 1561, a military partnership that lasted over two decades and was crucial to Nobunaga's campaigns to unify Japan."
+  },
+  {
+    "source_id": "basil_of_caesarea",
+    "target_id": "gregory_of_nazianzus",
+    "type": "friend",
+    "strength": 0.9,
+    "confidence": 0.95,
+    "reason": "Basil and Gregory of Nazianzus became lifelong friends while studying together in Athens, later founding a monastic community and jointly compiling the Philokalia of Origen; together they are counted among the Cappadocian Fathers who shaped Trinitarian doctrine."
+  },
+  {
+    "source_id": "basil_of_caesarea",
+    "target_id": "julian_(emperor)",
+    "type": "enemy",
+    "strength": 0.55,
+    "confidence": 0.75,
+    "reason": "Basil studied alongside Julian in Athens before Julian became emperor and renounced Christianity, after which Basil's circle regarded him as an apostate threatening the church."
+  },
+  {
+    "source_id": "johann_wolfgang_von_goethe",
+    "target_id": "lord_byron",
+    "type": "friend",
+    "strength": 0.5,
+    "confidence": 0.8,
+    "reason": "Byron dedicated 'Sardanapalus' to Goethe, calling him the greatest genius of the age, and Goethe reciprocated the admiration through correspondence and later immortalized Byron as the character Euphorion in 'Faust, Part Two.'"
+  },
+  {
+    "source_id": "francis_i_of_france",
+    "target_id": "suleiman_the_magnificent",
+    "type": "ally",
+    "strength": 0.7,
+    "confidence": 0.85,
+    "reason": "Francis I formed the unprecedented Franco-Ottoman alliance with Suleiman against their common rival Charles V, a partnership between a Christian king and a Muslim sultan that scandalized Europe but reshaped the continent's balance of power."
+  },
+  {
+    "source_id": "francis_i_of_france",
+    "target_id": "françois_rabelais",
+    "type": "patron",
+    "strength": 0.4,
+    "confidence": 0.65,
+    "reason": "Francis I's tolerance for humanist scholarship shielded Rabelais from the Sorbonne's repeated condemnations of his satirical writings, allowing his Gargantua and Pantagruel novels to continue circulating in France."
+  },
+  {
+    "source_id": "nicholas_i_of_russia",
+    "target_id": "nikolai_gogol",
+    "type": "patron",
+    "strength": 0.5,
+    "confidence": 0.75,
+    "reason": "Nicholas I personally approved the staging of Gogol's satirical play 'The Government Inspector' over censors' objections and reportedly enjoyed its premiere, shielding Gogol from the political backlash the play provoked."
+  },
+  {
+    "source_id": "pope_leo_i",
+    "target_id": "gaiseric",
+    "type": "enemy",
+    "strength": 0.6,
+    "confidence": 0.85,
+    "reason": "When Gaiseric's Vandals reached Rome in 455, Leo I met him and persuaded him to refrain from burning the city or massacring its inhabitants, though the Vandals still plundered it for two weeks."
+  },
+  {
+    "source_id": "bertrand_russell",
+    "target_id": "d._h._lawrence",
+    "type": "enemy",
+    "strength": 0.55,
+    "confidence": 0.8,
+    "reason": "Russell and Lawrence formed a close intellectual friendship in 1915 and planned a joint lecture series, but Lawrence's growing hostility to Russell's rationalism and pacifism produced a bitter rupture, with Lawrence sending him scathing denunciations that ended the relationship."
+  },
+  {
+    "source_id": "christian_x_of_denmark",
+    "target_id": "haakon_vii_of_norway",
+    "type": "family",
+    "strength": 0.6,
+    "confidence": 0.9,
+    "reason": "Haakon VII was born Prince Carl of Denmark, younger brother of King Christian X, before being elected King of Norway in 1905 when Norway dissolved its union with Sweden."
+  },
+  {
+    "source_id": "haakon_vii_of_norway",
+    "target_id": "adolf_hitler",
+    "type": "enemy",
+    "strength": 0.75,
+    "confidence": 0.9,
+    "reason": "When Germany invaded Norway in 1940, Haakon VII refused Hitler's demands to legitimize a puppet government under Vidkun Quisling, escaped to Britain, and broadcast defiance that made him a rallying symbol of Norwegian resistance throughout the occupation."
+  },
+  {
+    "source_id": "john_maynard_keynes",
+    "target_id": "franklin_d._roosevelt",
+    "type": "ally",
+    "strength": 0.5,
+    "confidence": 0.75,
+    "reason": "Keynes met with Roosevelt in 1934 and wrote him an open letter urging deficit-funded public works, and though Roosevelt found Keynes's technical arguments unpersuasive in person, Keynesian ideas increasingly shaped New Deal economic policy over the following years."
+  },
+  {
+    "source_id": "john_maynard_keynes",
+    "target_id": "virginia_woolf",
+    "type": "friend",
+    "strength": 0.6,
+    "confidence": 0.85,
+    "reason": "Keynes and Woolf were both central members of the Bloomsbury Group, a close circle of writers and intellectuals in early twentieth-century London who shared friendships, houses, and ideas for decades."
+  },
+  {
+    "source_id": "empress_dowager_cixi",
+    "target_id": "sun_yat-sen",
+    "type": "enemy",
+    "strength": 0.6,
+    "confidence": 0.8,
+    "reason": "Sun Yat-sen organized revolutionary societies and repeated armed uprisings against the Qing dynasty during Cixi's regency, becoming the most prominent figure working to overthrow the imperial government she controlled."
+  },
+  {
+    "source_id": "daniel_defoe",
+    "target_id": "jonathan_swift",
+    "type": "rival",
+    "strength": 0.5,
+    "confidence": 0.7,
+    "reason": "Defoe and Swift were the era's leading political pamphleteers, writing on opposing sides of the fierce Whig-Tory press wars during Queen Anne's reign, with Swift openly disdaining Defoe's writing and background."
+  },
+  {
+    "source_id": "maximilian_i,_holy_roman_emperor",
+    "target_id": "charles_v,_holy_roman_emperor",
+    "type": "predecessor",
+    "strength": 0.6,
+    "confidence": 0.9,
+    "reason": "Charles V was Maximilian I's grandson and successor as Holy Roman Emperor, elected in 1519 following Maximilian's death, inheriting the vast Habsburg dominions Maximilian had built through strategic marriages."
+  },
+  {
+    "source_id": "maximilian_i,_holy_roman_emperor",
+    "target_id": "philip_i_of_castile",
+    "type": "family",
+    "strength": 0.6,
+    "confidence": 0.9,
+    "reason": "Philip was Maximilian's son, whose marriage to Joanna of Castile was arranged by Maximilian as part of his dynastic strategy and ultimately brought the Spanish crown into the Habsburg family line."
+  },
+  {
+    "source_id": "queen_victoria",
+    "target_id": "cecil_rhodes",
+    "type": "patron",
+    "strength": 0.5,
+    "confidence": 0.75,
+    "reason": "Victoria's government granted Rhodes's British South Africa Company a royal charter in 1889, authorizing it to administer and colonize vast territories in southern Africa that became Rhodesia."
+  },
+  {
+    "source_id": "ramakrishna",
+    "target_id": "swami_vivekananda",
+    "type": "teacher",
+    "strength": 0.95,
+    "confidence": 0.98,
+    "reason": "Ramakrishna was Vivekananda's spiritual master, whose teachings Vivekananda systematized and carried to the West, founding the Ramakrishna Mission in his guru's honor after his death."
+  },
+  {
+    "source_id": "pope_sixtus_v",
+    "target_id": "philip_ii_of_spain",
+    "type": "ally",
+    "strength": 0.6,
+    "confidence": 0.8,
+    "reason": "Sixtus V pledged substantial papal funds to support Philip II's Spanish Armada against Protestant England in 1588, though he withheld actual payment until Spanish troops had landed on English soil."
+  },
+  {
+    "source_id": "pope_sixtus_v",
+    "target_id": "elizabeth_i_of_england",
+    "type": "enemy",
+    "strength": 0.55,
+    "confidence": 0.75,
+    "reason": "Sixtus V renewed Elizabeth I's excommunication and backed the 1588 Spanish Armada meant to depose her, even as he privately admired her as a formidable ruler."
+  },
+  {
+    "source_id": "franz_joseph_i_of_austria",
+    "target_id": "rudolf,_crown_prince_of_austria",
+    "type": "family",
+    "strength": 0.8,
+    "confidence": 0.95,
+    "reason": "Rudolf was Franz Joseph's only son and heir; his 1889 murder-suicide at Mayerling left the emperor without a direct heir, eventually elevating his nephew Franz Ferdinand to heir presumptive."
+  },
+  {
+    "source_id": "suleiman_the_magnificent",
+    "target_id": "ferdinand_i,_holy_roman_emperor",
+    "type": "enemy",
+    "strength": 0.7,
+    "confidence": 0.9,
+    "reason": "Suleiman and Ferdinand fought repeatedly over control of Hungary, most famously when Suleiman's Ottoman army besieged Ferdinand's capital at Vienna in 1529."
+  },
+  {
+    "source_id": "bertrand_russell",
+    "target_id": "john_maynard_keynes",
+    "type": "friend",
+    "strength": 0.6,
+    "confidence": 0.85,
+    "reason": "Russell and Keynes were both members of the Cambridge Apostles secret society and remained lifelong friends and correspondents, with Keynes providing financial help to Russell during periods of hardship."
+  },
+  {
+    "source_id": "mehmed_iii",
+    "target_id": "elizabeth_i_of_england",
+    "type": "ally",
+    "strength": 0.5,
+    "confidence": 0.8,
+    "reason": "Mehmed III continued the Anglo-Ottoman diplomatic alliance his father had begun, exchanging letters with Elizabeth I, who sent him an elaborate mechanical organ built by Thomas Dallam as a diplomatic gift in 1599."
+  },
+  {
+    "source_id": "philip_i_of_castile",
+    "target_id": "joanna_of_castile",
+    "type": "spouse",
+    "strength": 0.7,
+    "confidence": 0.9,
+    "reason": "Philip married Joanna in 1496; their tempestuous marriage and his sudden death in 1506 contributed to the psychological collapse that led to her being declared unfit to rule and confined for the rest of her life."
+  },
+  {
+    "source_id": "ferdinand_ii_of_aragon",
+    "target_id": "joanna_of_castile",
+    "type": "family",
+    "strength": 0.65,
+    "confidence": 0.85,
+    "reason": "Ferdinand II was Joanna's father, and after Philip's death he had her declared mentally unfit and acted as regent of Castile, later keeping her confined at Tordesillas for the rest of her life."
   }
 ]
